@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Change-Point Detection | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/change-point-detection/</link>
+      <atom:link href="https://akisatok.github.io/tags/change-point-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Change-Point Detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Change-Point Detection</title>
+      <link>https://akisatok.github.io/tags/change-point-detection/</link>
+    </image>
+    
+    <item>
+      <title>Change-point detection with feature selection in high-dimensional time-series data</title>
+      <link>https://akisatok.github.io/publication/content/yamada-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/yamada-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

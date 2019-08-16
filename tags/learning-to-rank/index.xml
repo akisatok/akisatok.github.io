@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning to rank | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/learning-to-rank/</link>
+      <atom:link href="https://akisatok.github.io/tags/learning-to-rank/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning to rank</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Learning to rank</title>
+      <link>https://akisatok.github.io/tags/learning-to-rank/</link>
+    </image>
+    
+    <item>
+      <title>Identifying attractive news headlines for social media</title>
+      <link>https://akisatok.github.io/publication/content/kourogi-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kourogi-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating stories from socially curated microblog messages</title>
+      <link>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

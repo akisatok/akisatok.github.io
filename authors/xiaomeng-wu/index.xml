@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaomeng Wu | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/xiaomeng-wu/</link>
+      <atom:link href="https://akisatok.github.io/authors/xiaomeng-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaomeng Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Xiaomeng Wu</title>
+      <link>https://akisatok.github.io/authors/xiaomeng-wu/</link>
+    </image>
+    
+    <item>
+      <title>Prewarping Siamese Network: Learning Local Representations for Online Signature Verification</title>
+      <link>https://akisatok.github.io/publication/content/8683036/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/8683036/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep dynamic time warping: End-to-end local feature learning for online signature verification</title>
+      <link>https://akisatok.github.io/publication/content/wu-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/wu-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

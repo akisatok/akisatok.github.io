@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automatic image understanding and evaluation | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/automatic-image-understanding-and-evaluation/</link>
+      <atom:link href="https://akisatok.github.io/tags/automatic-image-understanding-and-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automatic image understanding and evaluation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Automatic image understanding and evaluation</title>
+      <link>https://akisatok.github.io/tags/automatic-image-understanding-and-evaluation/</link>
+    </image>
+    
+    <item>
+      <title>Towards automatic image understanding and mining via social curation</title>
+      <link>https://akisatok.github.io/publication/content/ishiguro-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/ishiguro-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/publication_types/2/</link>
+      <atom:link href="https://akisatok.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://akisatok.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>The Hyper Suprime-Cam SSP transient survey in COSMOS: Overview</title>
+      <link>https://akisatok.github.io/publication/content/yasuda-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/yasuda-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-media Scene Analysis: Estimating Objects&#39; Visuals Only from Audio</title>
+      <link>https://akisatok.github.io/publication/content/irie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/irie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像を説明する多言語音声データを利用したクロスモーダル探索</title>
+      <link>https://akisatok.github.io/publication/content/2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グローバルアイ [第 41 回]「短い勤務時間で優れた研究成果を数多く出すには」</title>
+      <link>https://akisatok.github.io/publication/content/2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>パターン認識・メディア理解の基礎技術に関する Open Idea</title>
+      <link>https://akisatok.github.io/publication/content/2018-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音から画像認識結果を予測するクロスメディア情景分析技術</title>
+      <link>https://akisatok.github.io/publication/content/2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denoising random forests</title>
+      <link>https://akisatok.github.io/publication/content/hibino-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/hibino-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRMU 応用研究におけるオープンアイデア: PRMU 第二期グランドチャレンジ</title>
+      <link>https://akisatok.github.io/publication/content/2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNS上で拡散するwebニュース説明文の調査と自動選択</title>
+      <link>https://akisatok.github.io/publication/content/2016-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2016-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>共変量シフト適応に基づくrandom forestsの並列分散学習</title>
+      <link>https://akisatok.github.io/publication/content/2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教師あり学習の導入による Mondrian Forests の効率化</title>
+      <link>https://akisatok.github.io/publication/content/2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>映像の知覚的顕著性に基づく視覚的注意の予測</title>
+      <link>https://akisatok.github.io/publication/content/2016-d/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2016-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>組み合わせ論的拘束を持つ確率過程の構成</title>
+      <link>https://akisatok.github.io/publication/content/2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ソーシャルキュレーションデータを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/publication/content/2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ソーシャルネットワークが変える画像の認識・理解</title>
+      <link>https://akisatok.github.io/publication/content/2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>パターン認識研究者のためのトピックモデリング概観</title>
+      <link>https://akisatok.github.io/publication/content/2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACM Multimedia 2013 参加報告と関連研究動向</title>
+      <link>https://akisatok.github.io/publication/content/2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating stories from socially curated microblog messages</title>
+      <link>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale cross-media analysis and mining from socially curated contents</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2014-pii/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2014-pii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>オープンプライバシーの諸問題: ソーシャルメディア社会における情報流通と制度設計 中間報告</title>
+      <link>https://akisatok.github.io/publication/content/2014-c/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>クラウドプレイリストネットワークを用いた音楽ストリーミング再生リストの自動生成 (パターン認識・メディア理解)</title>
+      <link>https://akisatok.github.io/publication/content/2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>人間の視覚的注意の計算モデル - 人の視聴覚情報処理とパターン認識・メディア理解との接点</title>
+      <link>https://akisatok.github.io/publication/content/2014-g/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>無限交換長方形分割</title>
+      <link>https://akisatok.github.io/publication/content/2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像検索でのユーザ行動を利用した大規模画像アノテーション</title>
+      <link>https://akisatok.github.io/publication/content/2014-h/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>非負制約下における複合行列分解とそのソーシャルメディア解析への応用</title>
+      <link>https://akisatok.github.io/publication/content/2014-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像検索でのユーザ行動を利用した大規模画像アノテーション</title>
+      <link>https://akisatok.github.io/publication/content/2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Models of Human Visual Attention and Their Implementations: A Survey</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing various multivariate analysis at will via generalized pairwise expression</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNS を利用したトピックモデルによる画像へのユーザ嗜好陛の解析</title>
+      <link>https://akisatok.github.io/publication/content/2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interest Point Detection Based on Stochastically Derived Stability</title>
+      <link>https://akisatok.github.io/publication/content/watchareeruetai-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/watchareeruetai-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRECVID 2011 Semantic Indexing - NTT Cyber Communication Laboratory Group in collaboration with Zhejiang University</title>
+      <link>https://akisatok.github.io/publication/content/sun-2011-trecvid/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/sun-2011-trecvid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media Scene Learning: A novel framework for automatically extracting meaningful parts from audio and video signals</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グラフコストの逐次更新を用いた映像顕著領域の自動抽出</title>
+      <link>https://akisatok.github.io/publication/content/2010-c/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2010-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>対話型映像認識理解における動的学習戦略に関する取り組み</title>
+      <link>https://akisatok.github.io/publication/content/2010-d/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2010-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音や映像から「部品」を取り出すメディアシーン学習技術</title>
+      <link>https://akisatok.github.io/publication/content/2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal source coding over generalized complementary delivery networks</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Quick Search Method for Audio Signals Based on a Piecewise Linear Representation of Feature Trajectories</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2008-b/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiterminal source coding with complementary delivery</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2008-multiterminal/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2008-multiterminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Coding for Correlated Sources with Complementary Delivery</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2007/</link>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>高速メディア探索</title>
+      <link>https://akisatok.github.io/publication/content/2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>「未来想論 2006 NTT コミュニケーション科学基礎研究所研究交流会」 開催報告</title>
+      <link>https://akisatok.github.io/publication/content/2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2006-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>幾何変換パラメータを特定する縮退生成探索法</title>
+      <link>https://akisatok.github.io/publication/content/2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPIRE：スパースなインデキシングによる画像中の同一部分領域の検出</title>
+      <link>https://akisatok.github.io/publication/content/2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>サブテンプレート間距離を用いた適応的ウィンドウスキップによる高速テンプレートマッチング法</title>
+      <link>https://akisatok.github.io/publication/content/2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>重み付き特徴点照合に基づく高速画像検索</title>
+      <link>https://akisatok.github.io/publication/content/2005-a/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2005-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グローバルな枝刈りを導入した音や映像の高速探索</title>
+      <link>https://akisatok.github.io/publication/content/2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グローバルな枝刈りを導入した音や映像の高速探索</title>
+      <link>https://akisatok.github.io/publication/content/2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Deviations Performance of Knuth-Yao algorithm for Random Number Generation</title>
+      <link>https://akisatok.github.io/publication/content/kimura-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-1999/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

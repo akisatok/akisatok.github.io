@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takahito Kawanishi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/takahito-kawanishi/</link>
+      <atom:link href="https://akisatok.github.io/authors/takahito-kawanishi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takahito Kawanishi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Takahito Kawanishi</title>
+      <link>https://akisatok.github.io/authors/takahito-kawanishi/</link>
+    </image>
+    
+    <item>
+      <title>Seeing through Sounds: Predicting Visual Semantic Segmentation Results from Multichannel Audio Signals</title>
+      <link>https://akisatok.github.io/publication/content/8683142/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/8683142/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interest Point Detection Based on Stochastically Derived Stability</title>
+      <link>https://akisatok.github.io/publication/content/watchareeruetai-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/watchareeruetai-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NTT Communication Science Laboratories and NII at TRECVID 2011 Instance Search Task</title>
+      <link>https://akisatok.github.io/publication/content/kawanishi-2011-ntt/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kawanishi-2011-ntt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small cylindrical display using an aspherical mirror for anthropomorphic agents</title>
+      <link>https://akisatok.github.io/publication/content/kawanishi-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kawanishi-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acceleration of similarity-based partial image retrieval using multistage vector quantization</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2004-a/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2004-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity-based partial image retrieval guaranteeing same accuracy as exhaustive matching</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

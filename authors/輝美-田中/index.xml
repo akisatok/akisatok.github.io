@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>輝美 田中 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E8%BC%9D%E7%BE%8E-%E7%94%B0%E4%B8%AD/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E8%BC%9D%E7%BE%8E-%E7%94%B0%E4%B8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <description>輝美 田中</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>輝美 田中</title>
+      <link>https://akisatok.github.io/authors/%E8%BC%9D%E7%BE%8E-%E7%94%B0%E4%B8%AD/</link>
+    </image>
+    
+    <item>
+      <title>ソーシャルメディア論： つながりを再設計する</title>
+      <link>https://akisatok.github.io/publication/content/2015-c/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2015-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

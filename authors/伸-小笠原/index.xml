@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>伸 小笠原 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E4%BC%B8-%E5%B0%8F%E7%AC%A0%E5%8E%9F/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E4%BC%B8-%E5%B0%8F%E7%AC%A0%E5%8E%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>伸 小笠原</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>伸 小笠原</title>
+      <link>https://akisatok.github.io/authors/%E4%BC%B8-%E5%B0%8F%E7%AC%A0%E5%8E%9F/</link>
+    </image>
+    
+    <item>
+      <title>ソーシャルメディア論： つながりを再設計する</title>
+      <link>https://akisatok.github.io/publication/content/2015-c/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2015-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

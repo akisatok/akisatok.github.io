@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>恭子 数藤 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E6%81%AD%E5%AD%90-%E6%95%B0%E8%97%A4/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E6%81%AD%E5%AD%90-%E6%95%B0%E8%97%A4/index.xml" rel="self" type="application/rss+xml" />
+    <description>恭子 数藤</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>恭子 数藤</title>
+      <link>https://akisatok.github.io/authors/%E6%81%AD%E5%AD%90-%E6%95%B0%E8%97%A4/</link>
+    </image>
+    
+    <item>
+      <title>SNS を利用したトピックモデルによる画像へのユーザ嗜好陛の解析</title>
+      <link>https://akisatok.github.io/publication/content/2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2013-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

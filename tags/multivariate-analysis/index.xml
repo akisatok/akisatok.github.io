@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multivariate analysis | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/multivariate-analysis/</link>
+      <atom:link href="https://akisatok.github.io/tags/multivariate-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multivariate analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Multivariate analysis</title>
+      <link>https://akisatok.github.io/tags/multivariate-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Designing various multivariate analysis at will via generalized pairwise expression</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>勝彦 石黒 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E5%8B%9D%E5%BD%A6-%E7%9F%B3%E9%BB%92/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E5%8B%9D%E5%BD%A6-%E7%9F%B3%E9%BB%92/index.xml" rel="self" type="application/rss+xml" />
+    <description>勝彦 石黒</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>勝彦 石黒</title>
+      <link>https://akisatok.github.io/authors/%E5%8B%9D%E5%BD%A6-%E7%9F%B3%E9%BB%92/</link>
+    </image>
+    
+    <item>
+      <title>ソーシャルキュレーションデータを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/publication/content/2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>パターン認識研究者のためのトピックモデリング概観</title>
+      <link>https://akisatok.github.io/publication/content/2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>無限交換長方形分割</title>
+      <link>https://akisatok.github.io/publication/content/2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>非負制約下における複合行列分解とそのソーシャルメディア解析への応用</title>
+      <link>https://akisatok.github.io/publication/content/2014-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social curationを用いた画像コンテンツの内容理解モデル: 画像特徴量を利用しない画像コンテンツ理解</title>
+      <link>https://akisatok.github.io/publication/content/2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

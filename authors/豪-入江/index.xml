@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>豪 入江 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E8%B1%AA-%E5%85%A5%E6%B1%9F/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E8%B1%AA-%E5%85%A5%E6%B1%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>豪 入江</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>豪 入江</title>
+      <link>https://akisatok.github.io/authors/%E8%B1%AA-%E5%85%A5%E6%B1%9F/</link>
+    </image>
+    
+    <item>
+      <title>音から画像認識結果を予測するクロスメディア情景分析技術</title>
+      <link>https://akisatok.github.io/publication/content/2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2018-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

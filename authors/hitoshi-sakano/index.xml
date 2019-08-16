@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hitoshi Sakano | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/hitoshi-sakano/</link>
+      <atom:link href="https://akisatok.github.io/authors/hitoshi-sakano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hitoshi Sakano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Hitoshi Sakano</title>
+      <link>https://akisatok.github.io/authors/hitoshi-sakano/</link>
+    </image>
+    
+    <item>
+      <title>Geometric interpretation of Fisher&#39;s linear discriminant analysis through communication theory</title>
+      <link>https://akisatok.github.io/publication/content/fujiki-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/fujiki-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing various multivariate analysis at will via generalized pairwise expression</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing various component analysis at will</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended Fisher Criterion Based on Auto-correlation Matrix Information</title>
+      <link>https://akisatok.github.io/publication/content/sakano-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/sakano-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Image Segmentation with Estimated Depth</title>
+      <link>https://akisatok.github.io/publication/content/yonetani-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/yonetani-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

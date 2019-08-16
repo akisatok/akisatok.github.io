@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>隆仁 川西 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E9%9A%86%E4%BB%81-%E5%B7%9D%E8%A5%BF/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E9%9A%86%E4%BB%81-%E5%B7%9D%E8%A5%BF/index.xml" rel="self" type="application/rss+xml" />
+    <description>隆仁 川西</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>隆仁 川西</title>
+      <link>https://akisatok.github.io/authors/%E9%9A%86%E4%BB%81-%E5%B7%9D%E8%A5%BF/</link>
+    </image>
+    
+    <item>
+      <title>画像を説明する多言語音声データを利用したクロスモーダル探索</title>
+      <link>https://akisatok.github.io/publication/content/2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>クラウドプレイリストネットワークを用いた音楽ストリーミング再生リストの自動生成 (パターン認識・メディア理解)</title>
+      <link>https://akisatok.github.io/publication/content/2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPIRE：スパースなインデキシングによる画像中の同一部分領域の検出</title>
+      <link>https://akisatok.github.io/publication/content/2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>サブテンプレート間距離を用いた適応的ウィンドウスキップによる高速テンプレートマッチング法</title>
+      <link>https://akisatok.github.io/publication/content/2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>重み付き特徴点照合に基づく高速画像検索</title>
+      <link>https://akisatok.github.io/publication/content/2005-a/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2005-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

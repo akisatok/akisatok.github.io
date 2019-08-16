@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>潤 鈴木 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E6%BD%A4-%E9%88%B4%E6%9C%A8/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E6%BD%A4-%E9%88%B4%E6%9C%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>潤 鈴木</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>潤 鈴木</title>
+      <link>https://akisatok.github.io/authors/%E6%BD%A4-%E9%88%B4%E6%9C%A8/</link>
+    </image>
+    
+    <item>
+      <title>「未来想論 2006 NTT コミュニケーション科学基礎研究所研究交流会」 開催報告</title>
+      <link>https://akisatok.github.io/publication/content/2006-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2006-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

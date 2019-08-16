@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>access log | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/access-log/</link>
+      <atom:link href="https://akisatok.github.io/tags/access-log/index.xml" rel="self" type="application/rss+xml" />
+    <description>access log</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>access log</title>
+      <link>https://akisatok.github.io/tags/access-log/</link>
+    </image>
+    
+    <item>
+      <title>画像検索でのユーザ行動を利用した大規模画像アノテーション</title>
+      <link>https://akisatok.github.io/publication/content/2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

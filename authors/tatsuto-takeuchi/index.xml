@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tatsuto Takeuchi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/tatsuto-takeuchi/</link>
+      <atom:link href="https://akisatok.github.io/authors/tatsuto-takeuchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tatsuto Takeuchi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Tatsuto Takeuchi</title>
+      <link>https://akisatok.github.io/authors/tatsuto-takeuchi/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Markov random fields for stochastic modeling of visual attention</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A stochastic model of selective visual attention with a dynamic Bayesian network</title>
+      <link>https://akisatok.github.io/publication/content/pang-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/pang-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A stochastic model of selective visual attention with a dynamic Bayesian network</title>
+      <link>https://akisatok.github.io/publication/content/pang-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/pang-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Computational Model of Saliency Depletion/Recovery Phenomena for the Salient Region Extraction of Videos</title>
+      <link>https://akisatok.github.io/publication/content/leung-2007/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/leung-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

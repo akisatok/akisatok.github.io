@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makoto Yamada | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/makoto-yamada/</link>
+      <atom:link href="https://akisatok.github.io/authors/makoto-yamada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Makoto Yamada</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Makoto Yamada</title>
+      <link>https://akisatok.github.io/authors/makoto-yamada/</link>
+    </image>
+    
+    <item>
+      <title>Change-point detection with feature selection in high-dimensional time-series data</title>
+      <link>https://akisatok.github.io/publication/content/yamada-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/yamada-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering-based anomaly detection in multi-view data</title>
+      <link>https://akisatok.github.io/publication/content/marcos-alvarez-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/marcos-alvarez-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Socially-generated Side Information in Dimensionality Reduction</title>
+      <link>https://akisatok.github.io/publication/content/marcos-alvarez-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/marcos-alvarez-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image context discovery from socially curated contents</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic audio tag classification via semi-supervised canonical density estimation</title>
+      <link>https://akisatok.github.io/publication/content/takagi-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takagi-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

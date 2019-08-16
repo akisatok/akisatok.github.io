@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>良彦 数原 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E8%89%AF%E5%BD%A6-%E6%95%B0%E5%8E%9F/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E8%89%AF%E5%BD%A6-%E6%95%B0%E5%8E%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>良彦 数原</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>良彦 数原</title>
+      <link>https://akisatok.github.io/authors/%E8%89%AF%E5%BD%A6-%E6%95%B0%E5%8E%9F/</link>
+    </image>
+    
+    <item>
+      <title>画像検索でのユーザ行動を利用した大規模画像アノテーション</title>
+      <link>https://akisatok.github.io/publication/content/2014-h/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像検索でのユーザ行動を利用した大規模画像アノテーション</title>
+      <link>https://akisatok.github.io/publication/content/2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

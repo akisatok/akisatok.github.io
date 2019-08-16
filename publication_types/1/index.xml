@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/publication_types/1/</link>
+      <atom:link href="https://akisatok.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://akisatok.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Prewarping Siamese Network: Learning Local Representations for Online Signature Verification</title>
+      <link>https://akisatok.github.io/publication/content/8683036/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/8683036/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing through Sounds: Predicting Visual Semantic Segmentation Results from Multichannel Audio Signals</title>
+      <link>https://akisatok.github.io/publication/content/8683142/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/8683142/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep dynamic time warping: End-to-end local feature learning for online signature verification</title>
+      <link>https://akisatok.github.io/publication/content/wu-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/wu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-shot learning of neural networks from scratch by pseudo example optimization</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing Local Distance-Based Features to Temporal Convolutional Neural Networks</title>
+      <link>https://akisatok.github.io/publication/content/iwana-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/iwana-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly supervised collective feature learning from curated media</title>
+      <link>https://akisatok.github.io/publication/content/mukuta-2018-weakly/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/mukuta-2018-weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cleansing, organizing and training: Two guidelines for generating attractive news headlines for social media</title>
+      <link>https://akisatok.github.io/publication/content/hirose-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/hirose-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Epoch Supernova Classification with Deep Convolutional Neural Networks</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infinite plaid models for infinite bi-clustering</title>
+      <link>https://akisatok.github.io/publication/content/ishiguro-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/ishiguro-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make it go viral - Generating attractive headlines for distributing news articles on social media</title>
+      <link>https://akisatok.github.io/publication/content/nagayama-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nagayama-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed forests for MapReduce-based machine learning</title>
+      <link>https://akisatok.github.io/publication/content/wakayama-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/wakayama-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric interpretation of Fisher&#39;s linear discriminant analysis through communication theory</title>
+      <link>https://akisatok.github.io/publication/content/fujiki-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/fujiki-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying attractive news headlines for social media</title>
+      <link>https://akisatok.github.io/publication/content/kourogi-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kourogi-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Attention Driven by Auditory Cues</title>
+      <link>https://akisatok.github.io/publication/content/nakajima-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakajima-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rectangular tiling process</title>
+      <link>https://akisatok.github.io/publication/content/nakano-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakano-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative Multiple Tensor Factorization</title>
+      <link>https://akisatok.github.io/publication/content/takeuchi-2013-a/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takeuchi-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change-point detection with feature selection in high-dimensional time-series data</title>
+      <link>https://akisatok.github.io/publication/content/yamada-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/yamada-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering-based anomaly detection in multi-view data</title>
+      <link>https://akisatok.github.io/publication/content/marcos-alvarez-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/marcos-alvarez-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Socially-generated Side Information in Dimensionality Reduction</title>
+      <link>https://akisatok.github.io/publication/content/marcos-alvarez-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/marcos-alvarez-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image context discovery from socially curated contents</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative multiple matrix factorization</title>
+      <link>https://akisatok.github.io/publication/content/takeuchi-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takeuchi-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Stories: Social Curation of Twitter Messages</title>
+      <link>https://akisatok.github.io/publication/content/duh-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/duh-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing various component analysis at will</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended Fisher Criterion Based on Auto-correlation Matrix Information</title>
+      <link>https://akisatok.github.io/publication/content/sakano-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/sakano-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Image Segmentation with Estimated Depth</title>
+      <link>https://akisatok.github.io/publication/content/yonetani-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/yonetani-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automatic image understanding and mining via social curation</title>
+      <link>https://akisatok.github.io/publication/content/ishiguro-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/ishiguro-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic audio tag classification via semi-supervised canonical density estimation</title>
+      <link>https://akisatok.github.io/publication/content/takagi-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takagi-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic video annotation via hierarchical topic trajectory model considering cross-modal correlations</title>
+      <link>https://akisatok.github.io/publication/content/nakano-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakano-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NTT Communication Science Laboratories and NII at TRECVID 2011 Instance Search Task</title>
+      <link>https://akisatok.github.io/publication/content/kawanishi-2011-ntt/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kawanishi-2011-ntt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal source coding for multiple decoders with side information</title>
+      <link>https://akisatok.github.io/publication/content/kuzuoka-2010/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kuzuoka-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time estimation of human visual attention with dynamic Bayesian network and MCMC-based particle filter</title>
+      <link>https://akisatok.github.io/publication/content/miyazato-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/miyazato-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saliency-based video segmentation with graph cuts and sequentially updated priors</title>
+      <link>https://akisatok.github.io/publication/content/fukuchi-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/fukuchi-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Markov random fields for stochastic modeling of visual attention</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal coding for lossy complementary delivery problem</title>
+      <link>https://akisatok.github.io/publication/content/kuzuoka-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kuzuoka-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A stochastic model of selective visual attention with a dynamic Bayesian network</title>
+      <link>https://akisatok.github.io/publication/content/pang-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/pang-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle-based simulation of the Gel&#39;fand-Pinsker channel capacity and the Wyner-Ziv rate-distortion function</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2008-a/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2008-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Computational Model of Saliency Depletion/Recovery Phenomena for the Salient Region Extraction of Videos</title>
+      <link>https://akisatok.github.io/publication/content/leung-2007/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/leung-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Search Methods for Music Signals Based on Simple Representation</title>
+      <link>https://akisatok.github.io/publication/content/kashino-2007/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kashino-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-theoretical analysis of index searching: Revised</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2006-information/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2006-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiterminal source coding for cascading and feedback refinement systems</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small cylindrical display using an aspherical mirror for anthropomorphic agents</title>
+      <link>https://akisatok.github.io/publication/content/kawanishi-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kawanishi-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quick video search method based on local and global feature clustering</title>
+      <link>https://akisatok.github.io/publication/content/kashino-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kashino-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acceleration of similarity-based partial image retrieval using multistage vector quantization</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2004-a/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2004-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity-based partial image retrieval guaranteeing same accuracy as exhaustive matching</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic-segmentation-based feature dimension reduction for quick audio/video searching</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quick search method for multimedia signals using feature compression based on piecewise linear maps</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2002/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Very quick audio searching: introducing global pruning to the Time-Series Active Search</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak variable-length Slepian-Wolf coding with linked encoders for mixed sources</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2001-a/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2001-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak variable-length Slepian-Wolf coding with linked encoders for mixed sources</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2001-b/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2001-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMOS FET companding current-mode integrator</title>
+      <link>https://akisatok.github.io/publication/content/takai-1998-cmos/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takai-1998-cmos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

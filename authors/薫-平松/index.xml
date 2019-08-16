@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>薫 平松 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E8%96%AB-%E5%B9%B3%E6%9D%BE/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E8%96%AB-%E5%B9%B3%E6%9D%BE/index.xml" rel="self" type="application/rss+xml" />
+    <description>薫 平松</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>薫 平松</title>
+      <link>https://akisatok.github.io/authors/%E8%96%AB-%E5%B9%B3%E6%9D%BE/</link>
+    </image>
+    
+    <item>
+      <title>音から画像認識結果を予測するクロスメディア情景分析技術</title>
+      <link>https://akisatok.github.io/publication/content/2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>組み合わせ論的拘束を持つ確率過程の構成</title>
+      <link>https://akisatok.github.io/publication/content/2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>クラウドプレイリストネットワークを用いた音楽ストリーミング再生リストの自動生成 (パターン認識・メディア理解)</title>
+      <link>https://akisatok.github.io/publication/content/2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

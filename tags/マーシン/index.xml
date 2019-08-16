@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>マージン | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%B3/</link>
+      <atom:link href="https://akisatok.github.io/tags/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>マージン</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>マージン</title>
+      <link>https://akisatok.github.io/tags/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%B3/</link>
+    </image>
+    
+    <item>
+      <title>SPIRE：スパースなインデキシングによる画像中の同一部分領域の検出</title>
+      <link>https://akisatok.github.io/publication/content/2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2005-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

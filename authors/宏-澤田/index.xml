@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>宏 澤田 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E5%AE%8F-%E6%BE%A4%E7%94%B0/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E5%AE%8F-%E6%BE%A4%E7%94%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>宏 澤田</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>宏 澤田</title>
+      <link>https://akisatok.github.io/authors/%E5%AE%8F-%E6%BE%A4%E7%94%B0/</link>
+    </image>
+    
+    <item>
+      <title>非負制約下における複合行列分解とそのソーシャルメディア解析への応用</title>
+      <link>https://akisatok.github.io/publication/content/2014-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

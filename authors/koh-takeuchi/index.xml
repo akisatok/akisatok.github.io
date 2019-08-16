@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koh Takeuchi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/koh-takeuchi/</link>
+      <atom:link href="https://akisatok.github.io/authors/koh-takeuchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Koh Takeuchi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Koh Takeuchi</title>
+      <link>https://akisatok.github.io/authors/koh-takeuchi/</link>
+    </image>
+    
+    <item>
+      <title>Few-shot learning of neural networks from scratch by pseudo example optimization</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative Multiple Tensor Factorization</title>
+      <link>https://akisatok.github.io/publication/content/takeuchi-2013-a/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takeuchi-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative multiple matrix factorization</title>
+      <link>https://akisatok.github.io/publication/content/takeuchi-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takeuchi-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automatic image understanding and mining via social curation</title>
+      <link>https://akisatok.github.io/publication/content/ishiguro-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/ishiguro-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

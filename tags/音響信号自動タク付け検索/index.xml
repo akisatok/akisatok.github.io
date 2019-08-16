@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>音響信号自動タグ付け・検索 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/%E9%9F%B3%E9%9F%BF%E4%BF%A1%E5%8F%B7%E8%87%AA%E5%8B%95%E3%82%BF%E3%82%AF%E4%BB%98%E3%81%91%E6%A4%9C%E7%B4%A2/</link>
+      <atom:link href="https://akisatok.github.io/tags/%E9%9F%B3%E9%9F%BF%E4%BF%A1%E5%8F%B7%E8%87%AA%E5%8B%95%E3%82%BF%E3%82%AF%E4%BB%98%E3%81%91%E6%A4%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    <description>音響信号自動タグ付け・検索</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>音響信号自動タグ付け・検索</title>
+      <link>https://akisatok.github.io/tags/%E9%9F%B3%E9%9F%BF%E4%BF%A1%E5%8F%B7%E8%87%AA%E5%8B%95%E3%82%BF%E3%82%AF%E4%BB%98%E3%81%91%E6%A4%9C%E7%B4%A2/</link>
+    </image>
+    
+    <item>
+      <title>半教師付き正準密度推定法に基づく音響信号の自動タグ付けと検索</title>
+      <link>https://akisatok.github.io/publication/content/2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2010-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

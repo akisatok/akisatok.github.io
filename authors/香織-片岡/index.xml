@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>香織 片岡 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E9%A6%99%E7%B9%94-%E7%89%87%E5%B2%A1/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E9%A6%99%E7%B9%94-%E7%89%87%E5%B2%A1/index.xml" rel="self" type="application/rss+xml" />
+    <description>香織 片岡</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>香織 片岡</title>
+      <link>https://akisatok.github.io/authors/%E9%A6%99%E7%B9%94-%E7%89%87%E5%B2%A1/</link>
+    </image>
+    
+    <item>
+      <title>ソーシャルキュレーションデータを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/publication/content/2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNS を利用したトピックモデルによる画像へのユーザ嗜好陛の解析</title>
+      <link>https://akisatok.github.io/publication/content/2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2013-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

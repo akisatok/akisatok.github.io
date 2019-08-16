@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Cheng Bao | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/robert-cheng-bao/</link>
+      <atom:link href="https://akisatok.github.io/authors/robert-cheng-bao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Cheng Bao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Robert Cheng Bao</title>
+      <link>https://akisatok.github.io/authors/robert-cheng-bao/</link>
+    </image>
+    
+    <item>
+      <title>Interest Point Detection Based on Stochastically Derived Stability</title>
+      <link>https://akisatok.github.io/publication/content/watchareeruetai-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/watchareeruetai-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

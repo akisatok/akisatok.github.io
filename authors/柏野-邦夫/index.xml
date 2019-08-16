@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>柏野 邦夫 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E6%9F%8F%E9%87%8E-%E9%82%A6%E5%A4%AB/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E6%9F%8F%E9%87%8E-%E9%82%A6%E5%A4%AB/index.xml" rel="self" type="application/rss+xml" />
+    <description>柏野 邦夫</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>柏野 邦夫</title>
+      <link>https://akisatok.github.io/authors/%E6%9F%8F%E9%87%8E-%E9%82%A6%E5%A4%AB/</link>
+    </image>
+    
+    <item>
+      <title>MCMC-based particle filterを用いた人間の映像注視行動の実時間推定</title>
+      <link>https://akisatok.github.io/publication/content/2009-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2009-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

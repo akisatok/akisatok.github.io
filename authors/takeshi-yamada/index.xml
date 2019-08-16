@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takeshi Yamada | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/takeshi-yamada/</link>
+      <atom:link href="https://akisatok.github.io/authors/takeshi-yamada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takeshi Yamada</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Takeshi Yamada</title>
+      <link>https://akisatok.github.io/authors/takeshi-yamada/</link>
+    </image>
+    
+    <item>
+      <title>Rectangular tiling process</title>
+      <link>https://akisatok.github.io/publication/content/nakano-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakano-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

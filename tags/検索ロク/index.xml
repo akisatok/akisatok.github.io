@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>検索ログ | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/%E6%A4%9C%E7%B4%A2%E3%83%AD%E3%82%AF/</link>
+      <atom:link href="https://akisatok.github.io/tags/%E6%A4%9C%E7%B4%A2%E3%83%AD%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    <description>検索ログ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>検索ログ</title>
+      <link>https://akisatok.github.io/tags/%E6%A4%9C%E7%B4%A2%E3%83%AD%E3%82%AF/</link>
+    </image>
+    
+    <item>
+      <title>画像検索でのユーザ行動を利用した大規模画像アノテーション</title>
+      <link>https://akisatok.github.io/publication/content/2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

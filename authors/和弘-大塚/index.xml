@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>和弘 大塚 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E5%92%8C%E5%BC%98-%E5%A4%A7%E5%A1%9A/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E5%92%8C%E5%BC%98-%E5%A4%A7%E5%A1%9A/index.xml" rel="self" type="application/rss+xml" />
+    <description>和弘 大塚</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>和弘 大塚</title>
+      <link>https://akisatok.github.io/authors/%E5%92%8C%E5%BC%98-%E5%A4%A7%E5%A1%9A/</link>
+    </image>
+    
+    <item>
+      <title>高速メディア探索</title>
+      <link>https://akisatok.github.io/publication/content/2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>重み付き特徴点照合に基づく高速画像検索</title>
+      <link>https://akisatok.github.io/publication/content/2005-a/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2005-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

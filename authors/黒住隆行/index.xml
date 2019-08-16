@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 黒住隆行 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E9%BB%92%E4%BD%8F%E9%9A%86%E8%A1%8C/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E9%BB%92%E4%BD%8F%E9%9A%86%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <description> 黒住隆行</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title> 黒住隆行</title>
+      <link>https://akisatok.github.io/authors/%E9%BB%92%E4%BD%8F%E9%9A%86%E8%A1%8C/</link>
+    </image>
+    
+    <item>
+      <title>幾何変換パラメータを特定する縮退生成探索法</title>
+      <link>https://akisatok.github.io/publication/content/2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generative approach | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/generative-approach/</link>
+      <atom:link href="https://akisatok.github.io/tags/generative-approach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generative approach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Generative approach</title>
+      <link>https://akisatok.github.io/tags/generative-approach/</link>
+    </image>
+    
+    <item>
+      <title>Automatic video annotation via hierarchical topic trajectory model considering cross-modal correlations</title>
+      <link>https://akisatok.github.io/publication/content/nakano-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakano-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic indexing and known item search based on a unified model with topic transition representation</title>
+      <link>https://akisatok.github.io/publication/content/nakano-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakano-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

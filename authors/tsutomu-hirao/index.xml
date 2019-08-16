@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tsutomu Hirao | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/tsutomu-hirao/</link>
+      <atom:link href="https://akisatok.github.io/authors/tsutomu-hirao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tsutomu Hirao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Tsutomu Hirao</title>
+      <link>https://akisatok.github.io/authors/tsutomu-hirao/</link>
+    </image>
+    
+    <item>
+      <title>Creating stories from socially curated microblog messages</title>
+      <link>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Stories: Social Curation of Twitter Messages</title>
+      <link>https://akisatok.github.io/publication/content/duh-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/duh-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

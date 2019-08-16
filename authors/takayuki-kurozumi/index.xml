@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takayuki Kurozumi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/takayuki-kurozumi/</link>
+      <atom:link href="https://akisatok.github.io/authors/takayuki-kurozumi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takayuki Kurozumi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Takayuki Kurozumi</title>
+      <link>https://akisatok.github.io/authors/takayuki-kurozumi/</link>
+    </image>
+    
+    <item>
+      <title>A Quick Search Method for Audio Signals Based on a Piecewise Linear Representation of Feature Trajectories</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2008-b/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Search Methods for Music Signals Based on Simple Representation</title>
+      <link>https://akisatok.github.io/publication/content/kashino-2007/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kashino-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quick video search method based on local and global feature clustering</title>
+      <link>https://akisatok.github.io/publication/content/kashino-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kashino-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic-segmentation-based feature dimension reduction for quick audio/video searching</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quick search method for multimedia signals using feature compression based on piecewise linear maps</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2002/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Very quick audio searching: introducing global pruning to the Time-Series Active Search</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

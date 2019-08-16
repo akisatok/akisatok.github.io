@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroshi Sawada | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/hiroshi-sawada/</link>
+      <atom:link href="https://akisatok.github.io/authors/hiroshi-sawada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroshi Sawada</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Hiroshi Sawada</title>
+      <link>https://akisatok.github.io/authors/hiroshi-sawada/</link>
+    </image>
+    
+    <item>
+      <title>Non-negative Multiple Tensor Factorization</title>
+      <link>https://akisatok.github.io/publication/content/takeuchi-2013-a/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takeuchi-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change-point detection with feature selection in high-dimensional time-series data</title>
+      <link>https://akisatok.github.io/publication/content/yamada-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/yamada-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative multiple matrix factorization</title>
+      <link>https://akisatok.github.io/publication/content/takeuchi-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takeuchi-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended Fisher Criterion Based on Auto-correlation Matrix Information</title>
+      <link>https://akisatok.github.io/publication/content/sakano-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/sakano-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

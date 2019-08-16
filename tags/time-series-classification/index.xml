@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time series classification | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/time-series-classification/</link>
+      <atom:link href="https://akisatok.github.io/tags/time-series-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time series classification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Time series classification</title>
+      <link>https://akisatok.github.io/tags/time-series-classification/</link>
+    </image>
+    
+    <item>
+      <title>Introducing Local Distance-Based Features to Temporal Convolutional Neural Networks</title>
+      <link>https://akisatok.github.io/publication/content/iwana-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/iwana-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

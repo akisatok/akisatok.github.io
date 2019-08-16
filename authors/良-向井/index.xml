@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>良 向井 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E8%89%AF-%E5%90%91%E4%BA%95/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E8%89%AF-%E5%90%91%E4%BA%95/index.xml" rel="self" type="application/rss+xml" />
+    <description>良 向井</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>良 向井</title>
+      <link>https://akisatok.github.io/authors/%E8%89%AF-%E5%90%91%E4%BA%95/</link>
+    </image>
+    
+    <item>
+      <title>高速メディア探索</title>
+      <link>https://akisatok.github.io/publication/content/2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

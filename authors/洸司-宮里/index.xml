@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>洸司 宮里 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E6%B4%B8%E5%8F%B8-%E5%AE%AE%E9%87%8C/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E6%B4%B8%E5%8F%B8-%E5%AE%AE%E9%87%8C/index.xml" rel="self" type="application/rss+xml" />
+    <description>洸司 宮里</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>洸司 宮里</title>
+      <link>https://akisatok.github.io/authors/%E6%B4%B8%E5%8F%B8-%E5%AE%AE%E9%87%8C/</link>
+    </image>
+    
+    <item>
+      <title>グラフコストの逐次更新を用いた映像顕著領域の自動抽出</title>
+      <link>https://akisatok.github.io/publication/content/2010-c/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2010-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCMC-based particle filterを用いた人間の映像注視行動の実時間推定</title>
+      <link>https://akisatok.github.io/publication/content/2009-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2009-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCMC-based particle filterを用いた人間の映像注視行動の実時間推定</title>
+      <link>https://akisatok.github.io/publication/content/2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
