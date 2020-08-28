@@ -5,7 +5,11 @@
     <link>https://akisatok.github.io/tags/%E3%83%A1%E3%83%86%E3%82%A3%E3%82%A2%E8%AA%8D%E8%AD%98%E7%90%86%E8%A7%A3/</link>
       <atom:link href="https://akisatok.github.io/tags/%E3%83%A1%E3%83%86%E3%82%A3%E3%82%A2%E8%AA%8D%E8%AD%98%E7%90%86%E8%A7%A3/index.xml" rel="self" type="application/rss+xml" />
     <description>メディア認識理解</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+>>>>>>> Updating setup information
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>メディア認識理解</title>

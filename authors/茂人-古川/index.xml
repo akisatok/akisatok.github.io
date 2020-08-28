@@ -5,7 +5,11 @@
     <link>https://akisatok.github.io/authors/%E8%8C%82%E4%BA%BA-%E5%8F%A4%E5%B7%9D/</link>
       <atom:link href="https://akisatok.github.io/authors/%E8%8C%82%E4%BA%BA-%E5%8F%A4%E5%B7%9D/index.xml" rel="self" type="application/rss+xml" />
     <description>茂人 古川</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+>>>>>>> Updating setup information
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>茂人 古川</title>

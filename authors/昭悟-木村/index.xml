@@ -5,7 +5,11 @@
     <link>https://akisatok.github.io/authors/%E6%98%AD%E6%82%9F-%E6%9C%A8%E6%9D%91/</link>
       <atom:link href="https://akisatok.github.io/authors/%E6%98%AD%E6%82%9F-%E6%9C%A8%E6%9D%91/index.xml" rel="self" type="application/rss+xml" />
     <description>昭悟 木村</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> Updating setup information
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>昭悟 木村</title>

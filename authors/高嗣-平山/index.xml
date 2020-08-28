@@ -5,7 +5,11 @@
     <link>https://akisatok.github.io/authors/%E9%AB%98%E5%97%A3-%E5%B9%B3%E5%B1%B1/</link>
       <atom:link href="https://akisatok.github.io/authors/%E9%AB%98%E5%97%A3-%E5%B9%B3%E5%B1%B1/index.xml" rel="self" type="application/rss+xml" />
     <description>高嗣 平山</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+>>>>>>> Updating setup information
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>高嗣 平山</title>

@@ -5,7 +5,11 @@
     <link>https://akisatok.github.io/authors/a.-kimura/</link>
       <atom:link href="https://akisatok.github.io/authors/a.-kimura/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Kimura</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+>>>>>>> Updating setup information
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>A. Kimura</title>

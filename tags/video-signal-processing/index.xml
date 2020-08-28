@@ -5,7 +5,11 @@
     <link>https://akisatok.github.io/tags/video-signal-processing/</link>
       <atom:link href="https://akisatok.github.io/tags/video-signal-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>video signal processing</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jun 2008 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jun 2008 00:00:00 +0000</lastBuildDate>
+>>>>>>> Updating setup information
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>video signal processing</title>
