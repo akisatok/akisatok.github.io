@@ -5,7 +5,7 @@
     <link>https://akisatok.github.io/publication_types/</link>
       <atom:link href="https://akisatok.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
@@ -13,34 +13,34 @@
     </image>
     
     <item>
-      <title>2</title>
-      <link>https://akisatok.github.io/publication_types/2/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>1</title>
       <link>https://akisatok.github.io/publication_types/1/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>4</title>
-      <link>https://akisatok.github.io/publication_types/4/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication_types/4/</guid>
+      <title>2</title>
+      <link>https://akisatok.github.io/publication_types/2/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>6</title>
       <link>https://akisatok.github.io/publication_types/6/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication_types/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://akisatok.github.io/publication_types/4/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication_types/4/</guid>
       <description></description>
     </item>
     

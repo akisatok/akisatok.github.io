@@ -5,7 +5,7 @@
     <link>https://akisatok.github.io/authors/kaoru-hiramatsu/</link>
       <atom:link href="https://akisatok.github.io/authors/kaoru-hiramatsu/index.xml" rel="self" type="application/rss+xml" />
     <description>Kaoru Hiramatsu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>Kaoru Hiramatsu</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>双線形特徴統合を用いた音からのセマンティックセグメンテーション</title>
+      <link>https://akisatok.github.io/talk/miru-2018/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cross-media Scene Analysis: Estimating Objects&#39; Visuals Only from Audio</title>
-      <link>https://akisatok.github.io/publication/content/irie-2019/</link>
+      <link>https://akisatok.github.io/publication/irie-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/irie-2019/</guid>
+      <guid>https://akisatok.github.io/publication/irie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音から画像認識結果を予測するクロスメディア情景分析技術</title>
+      <link>https://akisatok.github.io/publication/2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>組み合わせ論的拘束を持つ確率過程の構成</title>
+      <link>https://akisatok.github.io/publication/2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>クラウドプレイリストネットワークを用いた音楽ストリーミング再生リストの自動生成 (パターン認識・メディア理解)</title>
+      <link>https://akisatok.github.io/publication/2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014/</guid>
       <description></description>
     </item>
     

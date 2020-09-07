@@ -5,7 +5,7 @@
     <link>https://akisatok.github.io/authors/makoto-yamada/</link>
       <atom:link href="https://akisatok.github.io/authors/makoto-yamada/index.xml" rel="self" type="application/rss+xml" />
     <description>Makoto Yamada</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>Makoto Yamada</title>
@@ -13,42 +13,90 @@
     </image>
     
     <item>
+      <title>ソーシャルキュレーションデータを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/publication/2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>統計的学習の基礎</title>
+      <link>https://akisatok.github.io/publication/2014-e/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-view anomaly detection based on clustering inconsistency</title>
+      <link>https://akisatok.github.io/talk/ibis-2013-alejandro/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2013-alejandro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimensionality reduction with side information for image classification</title>
+      <link>https://akisatok.github.io/talk/miru-2013-alejandro/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2013-alejandro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ソーシャルキュレーションを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/talk/miru-2013-akisato/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2013-akisato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Change-point detection with feature selection in high-dimensional time-series data</title>
-      <link>https://akisatok.github.io/publication/content/yamada-2013/</link>
+      <link>https://akisatok.github.io/publication/yamada-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/yamada-2013/</guid>
+      <guid>https://akisatok.github.io/publication/yamada-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clustering-based anomaly detection in multi-view data</title>
-      <link>https://akisatok.github.io/publication/content/marcos-alvarez-2013/</link>
+      <link>https://akisatok.github.io/publication/marcos-alvarez-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/marcos-alvarez-2013/</guid>
+      <guid>https://akisatok.github.io/publication/marcos-alvarez-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting Socially-generated Side Information in Dimensionality Reduction</title>
-      <link>https://akisatok.github.io/publication/content/marcos-alvarez-2013-a/</link>
+      <link>https://akisatok.github.io/publication/marcos-alvarez-2013-a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/marcos-alvarez-2013-a/</guid>
+      <guid>https://akisatok.github.io/publication/marcos-alvarez-2013-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image context discovery from socially curated contents</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2013-b/</link>
+      <link>https://akisatok.github.io/publication/kimura-2013-b/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2013-b/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2013-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic audio tag classification via semi-supervised canonical density estimation</title>
-      <link>https://akisatok.github.io/publication/content/takagi-2011/</link>
+      <link>https://akisatok.github.io/publication/takagi-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/takagi-2011/</guid>
+      <guid>https://akisatok.github.io/publication/takagi-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>半教師付き正準密度推定法に基づく音響信号の自動タグ付けと検索</title>
+      <link>https://akisatok.github.io/publication/2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2010-a/</guid>
       <description></description>
     </item>
     

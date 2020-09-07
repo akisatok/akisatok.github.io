@@ -5,7 +5,7 @@
     <link>https://akisatok.github.io/authors/yasunori-ohishi/</link>
       <atom:link href="https://akisatok.github.io/authors/yasunori-ohishi/index.xml" rel="self" type="application/rss+xml" />
     <description>Yasunori Ohishi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>Yasunori Ohishi</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Pair expansion for learning multilingual semantic embeddings using disjoint visually-grounded speech audio datasets</title>
+      <link>https://akisatok.github.io/publication/ohishi-inter-speech-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/ohishi-inter-speech-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trilingual semantic embeddings of visually grounded speech with self-attention mechanisms</title>
+      <link>https://akisatok.github.io/publication/ohishi-icassp-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/ohishi-icassp-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像を説明する多言語音声データを利用したクロスモーダル探索</title>
+      <link>https://akisatok.github.io/publication/2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automatic audio tag classification via semi-supervised canonical density estimation</title>
-      <link>https://akisatok.github.io/publication/content/takagi-2011/</link>
+      <link>https://akisatok.github.io/publication/takagi-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/takagi-2011/</guid>
+      <guid>https://akisatok.github.io/publication/takagi-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>半教師付き正準密度推定法に基づく音響信号の自動タグ付けと検索</title>
+      <link>https://akisatok.github.io/publication/2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2010-a/</guid>
       <description></description>
     </item>
     

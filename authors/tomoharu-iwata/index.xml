@@ -14,33 +14,49 @@
     
     <item>
       <title>Few-shot learning of neural networks from scratch by pseudo example optimization</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2018/</link>
+      <link>https://akisatok.github.io/publication/kimura-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2018/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>疑似学習サンプル最適化によるニューラルネットワークの少数ショット学習</title>
+      <link>https://akisatok.github.io/publication/2018-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2018-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creating stories from socially curated microblog messages</title>
-      <link>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</link>
+      <link>https://akisatok.github.io/publication/ieice-trans-autotogetter/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</guid>
+      <guid>https://akisatok.github.io/publication/ieice-trans-autotogetter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>統計的学習の基礎</title>
+      <link>https://akisatok.github.io/publication/2014-e/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clustering-based anomaly detection in multi-view data</title>
-      <link>https://akisatok.github.io/publication/content/marcos-alvarez-2013/</link>
+      <link>https://akisatok.github.io/publication/marcos-alvarez-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/marcos-alvarez-2013/</guid>
+      <guid>https://akisatok.github.io/publication/marcos-alvarez-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creating Stories: Social Curation of Twitter Messages</title>
-      <link>https://akisatok.github.io/publication/content/duh-2012/</link>
+      <link>https://akisatok.github.io/publication/duh-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/duh-2012/</guid>
+      <guid>https://akisatok.github.io/publication/duh-2012/</guid>
       <description></description>
     </item>
     

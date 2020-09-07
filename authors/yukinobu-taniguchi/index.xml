@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yukinobu Taniguchi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/yukinobu-taniguchi/</link>
+      <atom:link href="https://akisatok.github.io/authors/yukinobu-taniguchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yukinobu Taniguchi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Yukinobu Taniguchi</title>
+      <link>https://akisatok.github.io/authors/yukinobu-taniguchi/</link>
+    </image>
+    
+    <item>
+      <title>ユーザ履歴を利用した潜在トピックによる画像へのユーザ嗜好のモデリング</title>
+      <link>https://akisatok.github.io/talk/miru-2013-kataoka/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2013-kataoka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNS を利用したトピックモデルによる画像へのユーザ嗜好陛の解析</title>
+      <link>https://akisatok.github.io/publication/2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2013-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoichi Sato | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/yoichi-sato/</link>
+      <atom:link href="https://akisatok.github.io/authors/yoichi-sato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yoichi Sato</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Yoichi Sato</title>
+      <link>https://akisatok.github.io/authors/yoichi-sato/</link>
+    </image>
+    
+    <item>
+      <title>企画セッション KS-02 「画像とAI」</title>
+      <link>https://akisatok.github.io/publication/jsai-2020-miru-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/jsai-2020-miru-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

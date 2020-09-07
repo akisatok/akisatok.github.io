@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akisato Kimura, Takahito Kawanishi, Kunio Kashino, David Harwath, James Glass Yasunori Ohishi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/akisato-kimura-takahito-kawanishi-kunio-kashino-david-harwath-james-glass-yasunori-ohishi/</link>
+      <atom:link href="https://akisatok.github.io/authors/akisato-kimura-takahito-kawanishi-kunio-kashino-david-harwath-james-glass-yasunori-ohishi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Akisato Kimura, Takahito Kawanishi, Kunio Kashino, David Harwath, James Glass Yasunori Ohishi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Akisato Kimura, Takahito Kawanishi, Kunio Kashino, David Harwath, James Glass Yasunori Ohishi</title>
+      <link>https://akisatok.github.io/authors/akisato-kimura-takahito-kawanishi-kunio-kashino-david-harwath-james-glass-yasunori-ohishi/</link>
+    </image>
+    
+    <item>
+      <title>Pair expansion for learning multilingual semantic embeddings using disjoint visually-grounded speech audio datasets</title>
+      <link>https://akisatok.github.io/publication/ohishi-inter-speech-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/ohishi-inter-speech-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

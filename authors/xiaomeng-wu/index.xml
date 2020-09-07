@@ -5,7 +5,7 @@
     <link>https://akisatok.github.io/authors/xiaomeng-wu/</link>
       <atom:link href="https://akisatok.github.io/authors/xiaomeng-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaomeng Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>Xiaomeng Wu</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
+      <title>Total whitening for online signature verification based on deep representation</title>
+      <link>https://akisatok.github.io/publication/wu-icpr-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/wu-icpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prewarping Siamese Network: Learning Local Representations for Online Signature Verification</title>
-      <link>https://akisatok.github.io/publication/content/8683036/</link>
+      <link>https://akisatok.github.io/publication/8683036/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/8683036/</guid>
+      <guid>https://akisatok.github.io/publication/8683036/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep dynamic time warping: End-to-end local feature learning for online signature verification</title>
-      <link>https://akisatok.github.io/publication/content/wu-2019/</link>
+      <link>https://akisatok.github.io/publication/wu-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/wu-2019/</guid>
+      <guid>https://akisatok.github.io/publication/wu-2019/</guid>
       <description></description>
     </item>
     

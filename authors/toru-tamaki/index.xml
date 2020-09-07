@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toru Tamaki | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/toru-tamaki/</link>
+      <atom:link href="https://akisatok.github.io/authors/toru-tamaki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Toru Tamaki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Toru Tamaki</title>
+      <link>https://akisatok.github.io/authors/toru-tamaki/</link>
+    </image>
+    
+    <item>
+      <title>企画セッション KS-02 「画像とAI」</title>
+      <link>https://akisatok.github.io/publication/jsai-2020-miru-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/jsai-2020-miru-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>統計的学習の基礎</title>
+      <link>https://akisatok.github.io/publication/2014-e/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014-e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

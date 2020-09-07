@@ -14,9 +14,25 @@
     
     <item>
       <title>画像を説明する多言語音声データを利用したクロスモーダル探索</title>
+      <link>https://akisatok.github.io/publication/2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像を説明する多言語音声データを利用したクロスモーダル探索</title>
       <link>https://akisatok.github.io/publication/content/2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/content/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音から画像認識結果を予測するクロスメディア情景分析技術</title>
+      <link>https://akisatok.github.io/publication/2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2018-a/</guid>
       <description></description>
     </item>
     
@@ -30,9 +46,25 @@
     
     <item>
       <title>クラウドプレイリストネットワークを用いた音楽ストリーミング再生リストの自動生成 (パターン認識・メディア理解)</title>
+      <link>https://akisatok.github.io/publication/2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>クラウドプレイリストネットワークを用いた音楽ストリーミング再生リストの自動生成 (パターン認識・メディア理解)</title>
       <link>https://akisatok.github.io/publication/content/2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/content/2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グラフコストの逐次更新を用いた映像顕著領域の自動抽出</title>
+      <link>https://akisatok.github.io/publication/2010-c/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2010-c/</guid>
       <description></description>
     </item>
     
@@ -46,9 +78,25 @@
     
     <item>
       <title>音や映像から「部品」を取り出すメディアシーン学習技術</title>
+      <link>https://akisatok.github.io/publication/2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音や映像から「部品」を取り出すメディアシーン学習技術</title>
       <link>https://akisatok.github.io/publication/content/2010-b/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/content/2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>映像認識理解への認知発達的アプローチ</title>
+      <link>https://akisatok.github.io/publication/2009-b/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2009-b/</guid>
       <description></description>
     </item>
     
@@ -62,9 +110,25 @@
     
     <item>
       <title>Dynamic Markov random fields for stochastic modeling of visual attention</title>
+      <link>https://akisatok.github.io/publication/2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Markov random fields for stochastic modeling of visual attention</title>
       <link>https://akisatok.github.io/publication/content/2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/content/2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>高速メディア探索</title>
+      <link>https://akisatok.github.io/publication/2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2007/</guid>
       <description></description>
     </item>
     
@@ -78,9 +142,25 @@
     
     <item>
       <title>SPIRE：スパースなインデキシングによる画像中の同一部分領域の検出</title>
+      <link>https://akisatok.github.io/publication/2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPIRE：スパースなインデキシングによる画像中の同一部分領域の検出</title>
       <link>https://akisatok.github.io/publication/content/2005-b/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/content/2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>サブテンプレート間距離を用いた適応的ウィンドウスキップによる高速テンプレートマッチング法</title>
+      <link>https://akisatok.github.io/publication/2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2005/</guid>
       <description></description>
     </item>
     
@@ -94,6 +174,14 @@
     
     <item>
       <title>重み付き特徴点照合に基づく高速画像検索</title>
+      <link>https://akisatok.github.io/publication/2005-a/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2005-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>重み付き特徴点照合に基づく高速画像検索</title>
       <link>https://akisatok.github.io/publication/content/2005-a/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/content/2005-a/</guid>
@@ -102,9 +190,25 @@
     
     <item>
       <title>グローバルな枝刈りを導入した音や映像の高速探索</title>
+      <link>https://akisatok.github.io/publication/2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グローバルな枝刈りを導入した音や映像の高速探索</title>
       <link>https://akisatok.github.io/publication/content/2003/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/content/2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グローバルな枝刈りを導入した音や映像の高速探索</title>
+      <link>https://akisatok.github.io/publication/2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2002/</guid>
       <description></description>
     </item>
     

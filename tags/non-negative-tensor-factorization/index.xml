@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Non-negative Tensor Factorization | Akisato Kimura</title>
+    <title>&#34;Non-negative Tensor Factorization&#34; | Akisato Kimura</title>
     <link>https://akisatok.github.io/tags/non-negative-tensor-factorization/</link>
       <atom:link href="https://akisatok.github.io/tags/non-negative-tensor-factorization/index.xml" rel="self" type="application/rss+xml" />
-    <description>Non-negative Tensor Factorization</description>
+    <description>&#34;Non-negative Tensor Factorization&#34;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>Non-negative Tensor Factorization</title>
+      <title>&#34;Non-negative Tensor Factorization&#34;</title>
       <link>https://akisatok.github.io/tags/non-negative-tensor-factorization/</link>
     </image>
     
     <item>
       <title>Non-negative Multiple Tensor Factorization</title>
-      <link>https://akisatok.github.io/publication/content/takeuchi-2013-a/</link>
+      <link>https://akisatok.github.io/publication/takeuchi-2013-a/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/takeuchi-2013-a/</guid>
+      <guid>https://akisatok.github.io/publication/takeuchi-2013-a/</guid>
       <description></description>
     </item>
     

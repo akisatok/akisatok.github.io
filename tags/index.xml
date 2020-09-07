@@ -5,7 +5,7 @@
     <link>https://akisatok.github.io/tags/</link>
       <atom:link href="https://akisatok.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 30 Jul 2020 10:18:50 +0900</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,7 +13,55 @@
     </image>
     
     <item>
-      <title>audio signal processing</title>
+      <title>JST CREST</title>
+      <link>https://akisatok.github.io/tags/jst-crest/</link>
+      <pubDate>Thu, 30 Jul 2020 10:18:50 +0900</pubDate>
+      <guid>https://akisatok.github.io/tags/jst-crest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://akisatok.github.io/tags/machine-learning/</link>
+      <pubDate>Thu, 30 Jul 2020 10:18:50 +0900</pubDate>
+      <guid>https://akisatok.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suparnova</title>
+      <link>https://akisatok.github.io/tags/suparnova/</link>
+      <pubDate>Thu, 30 Jul 2020 10:18:50 +0900</pubDate>
+      <guid>https://akisatok.github.io/tags/suparnova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audio</title>
+      <link>https://akisatok.github.io/tags/audio/</link>
+      <pubDate>Sat, 30 May 2020 10:46:14 +0900</pubDate>
+      <guid>https://akisatok.github.io/tags/audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-modal</title>
+      <link>https://akisatok.github.io/tags/cross-modal/</link>
+      <pubDate>Sat, 30 May 2020 10:46:14 +0900</pubDate>
+      <guid>https://akisatok.github.io/tags/cross-modal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>images</title>
+      <link>https://akisatok.github.io/tags/images/</link>
+      <pubDate>Sat, 30 May 2020 10:46:14 +0900</pubDate>
+      <guid>https://akisatok.github.io/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;audio signal processing&#34;</title>
       <link>https://akisatok.github.io/tags/audio-signal-processing/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/audio-signal-processing/</guid>
@@ -21,7 +69,7 @@
     </item>
     
     <item>
-      <title>convolutional neural nets</title>
+      <title>&#34;convolutional neural nets&#34;</title>
       <link>https://akisatok.github.io/tags/convolutional-neural-nets/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/convolutional-neural-nets/</guid>
@@ -29,7 +77,7 @@
     </item>
     
     <item>
-      <title>feature extraction</title>
+      <title>&#34;feature extraction&#34;</title>
       <link>https://akisatok.github.io/tags/feature-extraction/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/feature-extraction/</guid>
@@ -37,7 +85,7 @@
     </item>
     
     <item>
-      <title>handwriting recognition</title>
+      <title>&#34;handwriting recognition&#34;</title>
       <link>https://akisatok.github.io/tags/handwriting-recognition/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/handwriting-recognition/</guid>
@@ -45,7 +93,7 @@
     </item>
     
     <item>
-      <title>image r</title>
+      <title>&#34;image r&#34;</title>
       <link>https://akisatok.github.io/tags/image-r/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/image-r/</guid>
@@ -53,7 +101,7 @@
     </item>
     
     <item>
-      <title>cross media</title>
+      <title>&#34;cross media&#34;</title>
       <link>https://akisatok.github.io/tags/cross-media/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/cross-media/</guid>
@@ -61,7 +109,7 @@
     </item>
     
     <item>
-      <title>deep learning</title>
+      <title>&#34;deep learning&#34;</title>
       <link>https://akisatok.github.io/tags/deep-learning/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/deep-learning/</guid>
@@ -69,7 +117,7 @@
     </item>
     
     <item>
-      <title>scene analysis</title>
+      <title>&#34;scene analysis&#34;</title>
       <link>https://akisatok.github.io/tags/scene-analysis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/scene-analysis/</guid>
@@ -77,7 +125,7 @@
     </item>
     
     <item>
-      <title>Convolutional Neural Networks</title>
+      <title>&#34;Convolutional Neural Networks&#34;</title>
       <link>https://akisatok.github.io/tags/convolutional-neural-networks/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/convolutional-neural-networks/</guid>
@@ -85,7 +133,7 @@
     </item>
     
     <item>
-      <title>Dynamic Time Warping</title>
+      <title>&#34;Dynamic Time Warping&#34;</title>
       <link>https://akisatok.github.io/tags/dynamic-time-warping/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/dynamic-time-warping/</guid>
@@ -93,7 +141,7 @@
     </item>
     
     <item>
-      <title>Multi modal fusion networks</title>
+      <title>&#34;Multi modal fusion networks&#34;</title>
       <link>https://akisatok.github.io/tags/multi-modal-fusion-networks/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/multi-modal-fusion-networks/</guid>
@@ -101,7 +149,7 @@
     </item>
     
     <item>
-      <title>Time series classification</title>
+      <title>&#34;Time series classification&#34;</title>
       <link>https://akisatok.github.io/tags/time-series-classification/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/time-series-classification/</guid>
@@ -109,7 +157,7 @@
     </item>
     
     <item>
-      <title>Supernova</title>
+      <title>&#34;Supernova&#34;</title>
       <link>https://akisatok.github.io/tags/supernova/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/supernova/</guid>
@@ -117,7 +165,7 @@
     </item>
     
     <item>
-      <title>convolutional neural network</title>
+      <title>&#34;convolutional neural network&#34;</title>
       <link>https://akisatok.github.io/tags/convolutional-neural-network/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/convolutional-neural-network/</guid>
@@ -125,7 +173,7 @@
     </item>
     
     <item>
-      <title>image classification</title>
+      <title>&#34;image classification&#34;</title>
       <link>https://akisatok.github.io/tags/image-classification/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/image-classification/</guid>
@@ -133,7 +181,7 @@
     </item>
     
     <item>
-      <title>redshift</title>
+      <title>&#34;redshift&#34;</title>
       <link>https://akisatok.github.io/tags/redshift/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/redshift/</guid>
@@ -141,7 +189,7 @@
     </item>
     
     <item>
-      <title>Bayesian Nonparametrics</title>
+      <title>&#34;Bayesian Nonparametrics&#34;</title>
       <link>https://akisatok.github.io/tags/bayesian-nonparametrics/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/bayesian-nonparametrics/</guid>
@@ -149,7 +197,7 @@
     </item>
     
     <item>
-      <title>MapReduce</title>
+      <title>&#34;MapReduce&#34;</title>
       <link>https://akisatok.github.io/tags/mapreduce/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/mapreduce/</guid>
@@ -157,7 +205,7 @@
     </item>
     
     <item>
-      <title>NEO bi-clusteirng</title>
+      <title>&#34;NEO bi-clusteirng&#34;</title>
       <link>https://akisatok.github.io/tags/neo-bi-clusteirng/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/neo-bi-clusteirng/</guid>
@@ -165,7 +213,7 @@
     </item>
     
     <item>
-      <title>Random forests</title>
+      <title>&#34;Random forests&#34;</title>
       <link>https://akisatok.github.io/tags/random-forests/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/random-forests/</guid>
@@ -173,7 +221,7 @@
     </item>
     
     <item>
-      <title>SNS</title>
+      <title>&#34;SNS&#34;</title>
       <link>https://akisatok.github.io/tags/sns/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/sns/</guid>
@@ -181,7 +229,7 @@
     </item>
     
     <item>
-      <title>bi-clustering</title>
+      <title>&#34;bi-clustering&#34;</title>
       <link>https://akisatok.github.io/tags/bi-clustering/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/bi-clustering/</guid>
@@ -189,7 +237,7 @@
     </item>
     
     <item>
-      <title>clustering</title>
+      <title>&#34;clustering&#34;</title>
       <link>https://akisatok.github.io/tags/clustering/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/clustering/</guid>
@@ -197,7 +245,7 @@
     </item>
     
     <item>
-      <title>infinite bi-clustering</title>
+      <title>&#34;infinite bi-clustering&#34;</title>
       <link>https://akisatok.github.io/tags/infinite-bi-clustering/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/infinite-bi-clustering/</guid>
@@ -205,7 +253,7 @@
     </item>
     
     <item>
-      <title>ニュース</title>
+      <title>&#34;ニュース&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</guid>
@@ -213,7 +261,7 @@
     </item>
     
     <item>
-      <title>ヒアリング調査</title>
+      <title>&#34;ヒアリング調査&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%92%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E8%AA%BF%E6%9F%BB/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%92%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E8%AA%BF%E6%9F%BB/</guid>
@@ -221,7 +269,7 @@
     </item>
     
     <item>
-      <title>ランキング学習</title>
+      <title>&#34;ランキング学習&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%AF%E5%AD%A6%E7%BF%92/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%AF%E5%AD%A6%E7%BF%92/</guid>
@@ -229,7 +277,7 @@
     </item>
     
     <item>
-      <title>並列分散処理</title>
+      <title>&#34;並列分散処理&#34;</title>
       <link>https://akisatok.github.io/tags/%E4%B8%A6%E5%88%97%E5%88%86%E6%95%A3%E5%87%A6%E7%90%86/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E4%B8%A6%E5%88%97%E5%88%86%E6%95%A3%E5%87%A6%E7%90%86/</guid>
@@ -237,7 +285,7 @@
     </item>
     
     <item>
-      <title>転移学習</title>
+      <title>&#34;転移学習&#34;</title>
       <link>https://akisatok.github.io/tags/%E8%BB%A2%E7%A7%BB%E5%AD%A6%E7%BF%92/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E8%BB%A2%E7%A7%BB%E5%AD%A6%E7%BF%92/</guid>
@@ -245,7 +293,7 @@
     </item>
     
     <item>
-      <title>Decision trees</title>
+      <title>&#34;Decision trees&#34;</title>
       <link>https://akisatok.github.io/tags/decision-trees/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/decision-trees/</guid>
@@ -253,7 +301,7 @@
     </item>
     
     <item>
-      <title>Distributed forests</title>
+      <title>&#34;Distributed forests&#34;</title>
       <link>https://akisatok.github.io/tags/distributed-forests/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/distributed-forests/</guid>
@@ -261,7 +309,7 @@
     </item>
     
     <item>
-      <title>ensemble learning methods</title>
+      <title>&#34;ensemble learning methods&#34;</title>
       <link>https://akisatok.github.io/tags/ensemble-learning-methods/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/ensemble-learning-methods/</guid>
@@ -269,7 +317,7 @@
     </item>
     
     <item>
-      <title>Auditory cues</title>
+      <title>&#34;Auditory cues&#34;</title>
       <link>https://akisatok.github.io/tags/auditory-cues/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/auditory-cues/</guid>
@@ -277,7 +325,7 @@
     </item>
     
     <item>
-      <title>Bayesian surprise</title>
+      <title>&#34;Bayesian surprise&#34;</title>
       <link>https://akisatok.github.io/tags/bayesian-surprise/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/bayesian-surprise/</guid>
@@ -285,7 +333,7 @@
     </item>
     
     <item>
-      <title>Feature selection</title>
+      <title>&#34;Feature selection&#34;</title>
       <link>https://akisatok.github.io/tags/feature-selection/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/feature-selection/</guid>
@@ -293,7 +341,7 @@
     </item>
     
     <item>
-      <title>Learning to rank</title>
+      <title>&#34;Learning to rank&#34;</title>
       <link>https://akisatok.github.io/tags/learning-to-rank/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/learning-to-rank/</guid>
@@ -301,7 +349,7 @@
     </item>
     
     <item>
-      <title>News headlines</title>
+      <title>&#34;News headlines&#34;</title>
       <link>https://akisatok.github.io/tags/news-headlines/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/news-headlines/</guid>
@@ -309,7 +357,7 @@
     </item>
     
     <item>
-      <title>Social media</title>
+      <title>&#34;Social media&#34;</title>
       <link>https://akisatok.github.io/tags/social-media/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/social-media/</guid>
@@ -317,7 +365,7 @@
     </item>
     
     <item>
-      <title>Synchronization</title>
+      <title>&#34;Synchronization&#34;</title>
       <link>https://akisatok.github.io/tags/synchronization/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/synchronization/</guid>
@@ -325,7 +373,7 @@
     </item>
     
     <item>
-      <title>Virality</title>
+      <title>&#34;Virality&#34;</title>
       <link>https://akisatok.github.io/tags/virality/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/virality/</guid>
@@ -333,7 +381,7 @@
     </item>
     
     <item>
-      <title>Visual attention</title>
+      <title>&#34;Visual attention&#34;</title>
       <link>https://akisatok.github.io/tags/visual-attention/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/visual-attention/</guid>
@@ -341,7 +389,7 @@
     </item>
     
     <item>
-      <title>Content curation</title>
+      <title>&#34;Content curation&#34;</title>
       <link>https://akisatok.github.io/tags/content-curation/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/content-curation/</guid>
@@ -349,7 +397,7 @@
     </item>
     
     <item>
-      <title>Cross-media analysis</title>
+      <title>&#34;Cross-media analysis&#34;</title>
       <link>https://akisatok.github.io/tags/cross-media-analysis/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/cross-media-analysis/</guid>
@@ -357,7 +405,7 @@
     </item>
     
     <item>
-      <title>Cross-media mining</title>
+      <title>&#34;Cross-media mining&#34;</title>
       <link>https://akisatok.github.io/tags/cross-media-mining/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/cross-media-mining/</guid>
@@ -365,7 +413,7 @@
     </item>
     
     <item>
-      <title>Human computation</title>
+      <title>&#34;Human computation&#34;</title>
       <link>https://akisatok.github.io/tags/human-computation/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/human-computation/</guid>
@@ -373,7 +421,7 @@
     </item>
     
     <item>
-      <title>Microblogging</title>
+      <title>&#34;Microblogging&#34;</title>
       <link>https://akisatok.github.io/tags/microblogging/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/microblogging/</guid>
@@ -381,7 +429,7 @@
     </item>
     
     <item>
-      <title>Social curation</title>
+      <title>&#34;Social curation&#34;</title>
       <link>https://akisatok.github.io/tags/social-curation/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/social-curation/</guid>
@@ -389,15 +437,7 @@
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>https://akisatok.github.io/tags/machine-learning/</link>
-      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Non-negative Tensor Factorization</title>
+      <title>&#34;Non-negative Tensor Factorization&#34;</title>
       <link>https://akisatok.github.io/tags/non-negative-tensor-factorization/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/non-negative-tensor-factorization/</guid>
@@ -405,7 +445,7 @@
     </item>
     
     <item>
-      <title>Spatio-Temporal Pattern</title>
+      <title>&#34;Spatio-Temporal Pattern&#34;</title>
       <link>https://akisatok.github.io/tags/spatio-temporal-pattern/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/spatio-temporal-pattern/</guid>
@@ -413,7 +453,7 @@
     </item>
     
     <item>
-      <title>access log</title>
+      <title>&#34;access log&#34;</title>
       <link>https://akisatok.github.io/tags/access-log/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/access-log/</guid>
@@ -421,7 +461,7 @@
     </item>
     
     <item>
-      <title>image annotation</title>
+      <title>&#34;image annotation&#34;</title>
       <link>https://akisatok.github.io/tags/image-annotation/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/image-annotation/</guid>
@@ -429,7 +469,7 @@
     </item>
     
     <item>
-      <title>image retrieval</title>
+      <title>&#34;image retrieval&#34;</title>
       <link>https://akisatok.github.io/tags/image-retrieval/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/image-retrieval/</guid>
@@ -437,7 +477,7 @@
     </item>
     
     <item>
-      <title>user activity</title>
+      <title>&#34;user activity&#34;</title>
       <link>https://akisatok.github.io/tags/user-activity/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/user-activity/</guid>
@@ -445,7 +485,7 @@
     </item>
     
     <item>
-      <title>大規模データセット</title>
+      <title>&#34;大規模データセット&#34;</title>
       <link>https://akisatok.github.io/tags/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%83%86%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%83%E3%83%88/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%83%86%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%83%E3%83%88/</guid>
@@ -453,7 +493,7 @@
     </item>
     
     <item>
-      <title>検索ログ</title>
+      <title>&#34;検索ログ&#34;</title>
       <link>https://akisatok.github.io/tags/%E6%A4%9C%E7%B4%A2%E3%83%AD%E3%82%AF/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E6%A4%9C%E7%B4%A2%E3%83%AD%E3%82%AF/</guid>
@@ -461,7 +501,7 @@
     </item>
     
     <item>
-      <title>画像アノテーション</title>
+      <title>&#34;画像アノテーション&#34;</title>
       <link>https://akisatok.github.io/tags/%E7%94%BB%E5%83%8F%E3%82%A2%E3%83%8E%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E7%94%BB%E5%83%8F%E3%82%A2%E3%83%8E%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
@@ -469,7 +509,7 @@
     </item>
     
     <item>
-      <title>画像検索</title>
+      <title>&#34;画像検索&#34;</title>
       <link>https://akisatok.github.io/tags/%E7%94%BB%E5%83%8F%E6%A4%9C%E7%B4%A2/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E7%94%BB%E5%83%8F%E6%A4%9C%E7%B4%A2/</guid>
@@ -477,7 +517,7 @@
     </item>
     
     <item>
-      <title>Affinity propagation</title>
+      <title>&#34;Affinity propagation&#34;</title>
       <link>https://akisatok.github.io/tags/affinity-propagation/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/affinity-propagation/</guid>
@@ -485,7 +525,7 @@
     </item>
     
     <item>
-      <title>Anomaly detection</title>
+      <title>&#34;Anomaly detection&#34;</title>
       <link>https://akisatok.github.io/tags/anomaly-detection/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/anomaly-detection/</guid>
@@ -493,7 +533,7 @@
     </item>
     
     <item>
-      <title>Bottom-up</title>
+      <title>&#34;Bottom-up&#34;</title>
       <link>https://akisatok.github.io/tags/bottom-up/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/bottom-up/</guid>
@@ -501,7 +541,7 @@
     </item>
     
     <item>
-      <title>Canonical correlation analysis</title>
+      <title>&#34;Canonical correlation analysis&#34;</title>
       <link>https://akisatok.github.io/tags/canonical-correlation-analysis/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/canonical-correlation-analysis/</guid>
@@ -509,7 +549,7 @@
     </item>
     
     <item>
-      <title>Change-Point Detection</title>
+      <title>&#34;Change-Point Detection&#34;</title>
       <link>https://akisatok.github.io/tags/change-point-detection/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/change-point-detection/</guid>
@@ -517,7 +557,7 @@
     </item>
     
     <item>
-      <title>Classification</title>
+      <title>&#34;Classification&#34;</title>
       <link>https://akisatok.github.io/tags/classification/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/classification/</guid>
@@ -525,7 +565,7 @@
     </item>
     
     <item>
-      <title>Computational model</title>
+      <title>&#34;Computational model&#34;</title>
       <link>https://akisatok.github.io/tags/computational-model/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/computational-model/</guid>
@@ -533,7 +573,7 @@
     </item>
     
     <item>
-      <title>Contexts</title>
+      <title>&#34;Contexts&#34;</title>
       <link>https://akisatok.github.io/tags/contexts/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/contexts/</guid>
@@ -541,7 +581,7 @@
     </item>
     
     <item>
-      <title>Dimensionality reduction</title>
+      <title>&#34;Dimensionality reduction&#34;</title>
       <link>https://akisatok.github.io/tags/dimensionality-reduction/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/dimensionality-reduction/</guid>
@@ -549,7 +589,7 @@
     </item>
     
     <item>
-      <title>Generalized eigenproblem</title>
+      <title>&#34;Generalized eigenproblem&#34;</title>
       <link>https://akisatok.github.io/tags/generalized-eigenproblem/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/generalized-eigenproblem/</guid>
@@ -557,7 +597,7 @@
     </item>
     
     <item>
-      <title>Generalized eigenvalue problem</title>
+      <title>&#34;Generalized eigenvalue problem&#34;</title>
       <link>https://akisatok.github.io/tags/generalized-eigenvalue-problem/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/generalized-eigenvalue-problem/</guid>
@@ -565,7 +605,7 @@
     </item>
     
     <item>
-      <title>Graph clustering</title>
+      <title>&#34;Graph clustering&#34;</title>
       <link>https://akisatok.github.io/tags/graph-clustering/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/graph-clustering/</guid>
@@ -573,7 +613,7 @@
     </item>
     
     <item>
-      <title>High-dimensional Data</title>
+      <title>&#34;High-dimensional Data&#34;</title>
       <link>https://akisatok.github.io/tags/high-dimensional-data/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/high-dimensional-data/</guid>
@@ -581,7 +621,7 @@
     </item>
     
     <item>
-      <title>Human visual attention</title>
+      <title>&#34;Human visual attention&#34;</title>
       <link>https://akisatok.github.io/tags/human-visual-attention/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/human-visual-attention/</guid>
@@ -589,7 +629,7 @@
     </item>
     
     <item>
-      <title>Kernel method</title>
+      <title>&#34;Kernel method&#34;</title>
       <link>https://akisatok.github.io/tags/kernel-method/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/kernel-method/</guid>
@@ -597,7 +637,7 @@
     </item>
     
     <item>
-      <title>Multi-label prediction</title>
+      <title>&#34;Multi-label prediction&#34;</title>
       <link>https://akisatok.github.io/tags/multi-label-prediction/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/multi-label-prediction/</guid>
@@ -605,7 +645,7 @@
     </item>
     
     <item>
-      <title>Multi-view data</title>
+      <title>&#34;Multi-view data&#34;</title>
       <link>https://akisatok.github.io/tags/multi-view-data/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/multi-view-data/</guid>
@@ -613,7 +653,7 @@
     </item>
     
     <item>
-      <title>Multivariate analysis</title>
+      <title>&#34;Multivariate analysis&#34;</title>
       <link>https://akisatok.github.io/tags/multivariate-analysis/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/multivariate-analysis/</guid>
@@ -621,7 +661,7 @@
     </item>
     
     <item>
-      <title>Non-negative Matrix Factorization</title>
+      <title>&#34;Non-negative Matrix Factorization&#34;</title>
       <link>https://akisatok.github.io/tags/non-negative-matrix-factorization/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/non-negative-matrix-factorization/</guid>
@@ -629,7 +669,7 @@
     </item>
     
     <item>
-      <title>Pairwise expression</title>
+      <title>&#34;Pairwise expression&#34;</title>
       <link>https://akisatok.github.io/tags/pairwise-expression/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/pairwise-expression/</guid>
@@ -637,7 +677,7 @@
     </item>
     
     <item>
-      <title>Principal component analysis</title>
+      <title>&#34;Principal component analysis&#34;</title>
       <link>https://akisatok.github.io/tags/principal-component-analysis/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/principal-component-analysis/</guid>
@@ -645,7 +685,7 @@
     </item>
     
     <item>
-      <title>Regularization</title>
+      <title>&#34;Regularization&#34;</title>
       <link>https://akisatok.github.io/tags/regularization/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/regularization/</guid>
@@ -653,7 +693,7 @@
     </item>
     
     <item>
-      <title>Saliency</title>
+      <title>&#34;Saliency&#34;</title>
       <link>https://akisatok.github.io/tags/saliency/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/saliency/</guid>
@@ -661,7 +701,7 @@
     </item>
     
     <item>
-      <title>Semi-supervised learning</title>
+      <title>&#34;Semi-supervised learning&#34;</title>
       <link>https://akisatok.github.io/tags/semi-supervised-learning/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/semi-supervised-learning/</guid>
@@ -669,7 +709,7 @@
     </item>
     
     <item>
-      <title>Social Curration</title>
+      <title>&#34;Social Curration&#34;</title>
       <link>https://akisatok.github.io/tags/social-curration/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/social-curration/</guid>
@@ -677,7 +717,7 @@
     </item>
     
     <item>
-      <title>Top-down</title>
+      <title>&#34;Top-down&#34;</title>
       <link>https://akisatok.github.io/tags/top-down/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/top-down/</guid>
@@ -685,7 +725,7 @@
     </item>
     
     <item>
-      <title>side information</title>
+      <title>&#34;side information&#34;</title>
       <link>https://akisatok.github.io/tags/side-information/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/side-information/</guid>
@@ -693,7 +733,7 @@
     </item>
     
     <item>
-      <title>Automatic image understanding and evaluation</title>
+      <title>&#34;Automatic image understanding and evaluation&#34;</title>
       <link>https://akisatok.github.io/tags/automatic-image-understanding-and-evaluation/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/automatic-image-understanding-and-evaluation/</guid>
@@ -701,7 +741,7 @@
     </item>
     
     <item>
-      <title>Regression</title>
+      <title>&#34;Regression&#34;</title>
       <link>https://akisatok.github.io/tags/regression/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/regression/</guid>
@@ -709,7 +749,7 @@
     </item>
     
     <item>
-      <title>curation</title>
+      <title>&#34;curation&#34;</title>
       <link>https://akisatok.github.io/tags/curation/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/curation/</guid>
@@ -717,7 +757,7 @@
     </item>
     
     <item>
-      <title>Audio tag classifcation</title>
+      <title>&#34;Audio tag classifcation&#34;</title>
       <link>https://akisatok.github.io/tags/audio-tag-classifcation/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/audio-tag-classifcation/</guid>
@@ -725,7 +765,7 @@
     </item>
     
     <item>
-      <title>Audio tag classification</title>
+      <title>&#34;Audio tag classification&#34;</title>
       <link>https://akisatok.github.io/tags/audio-tag-classification/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/audio-tag-classification/</guid>
@@ -733,31 +773,7 @@
     </item>
     
     <item>
-      <title>Generative approach</title>
-      <link>https://akisatok.github.io/tags/generative-approach/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/tags/generative-approach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hidden Markov model</title>
-      <link>https://akisatok.github.io/tags/hidden-markov-model/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/tags/hidden-markov-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topic model</title>
-      <link>https://akisatok.github.io/tags/topic-model/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/tags/topic-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video annotation</title>
+      <title>&#34;Video annotation&#34;</title>
       <link>https://akisatok.github.io/tags/video-annotation/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/video-annotation/</guid>
@@ -765,7 +781,23 @@
     </item>
     
     <item>
-      <title>kernel density estimation</title>
+      <title>&#34;generative approach&#34;</title>
+      <link>https://akisatok.github.io/tags/generative-approach/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/tags/generative-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;hidden Markov model&#34;</title>
+      <link>https://akisatok.github.io/tags/hidden-markov-model/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/tags/hidden-markov-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;kernel density estimation&#34;</title>
       <link>https://akisatok.github.io/tags/kernel-density-estimation/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/kernel-density-estimation/</guid>
@@ -773,7 +805,15 @@
     </item>
     
     <item>
-      <title>Known-item search</title>
+      <title>&#34;topic model&#34;</title>
+      <link>https://akisatok.github.io/tags/topic-model/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/tags/topic-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Known-item search&#34;</title>
       <link>https://akisatok.github.io/tags/known-item-search/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/known-item-search/</guid>
@@ -781,7 +821,7 @@
     </item>
     
     <item>
-      <title>Semantic indexing</title>
+      <title>&#34;Semantic indexing&#34;</title>
       <link>https://akisatok.github.io/tags/semantic-indexing/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/semantic-indexing/</guid>
@@ -789,7 +829,7 @@
     </item>
     
     <item>
-      <title>action planning</title>
+      <title>&#34;action planning&#34;</title>
       <link>https://akisatok.github.io/tags/action-planning/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/action-planning/</guid>
@@ -797,7 +837,7 @@
     </item>
     
     <item>
-      <title>human-computer interaction</title>
+      <title>&#34;human-computer interaction&#34;</title>
       <link>https://akisatok.github.io/tags/human-computer-interaction/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/human-computer-interaction/</guid>
@@ -805,7 +845,7 @@
     </item>
     
     <item>
-      <title>knowledge confidence</title>
+      <title>&#34;knowledge confidence&#34;</title>
       <link>https://akisatok.github.io/tags/knowledge-confidence/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/knowledge-confidence/</guid>
@@ -813,7 +853,7 @@
     </item>
     
     <item>
-      <title>reinforcement learning</title>
+      <title>&#34;reinforcement learning&#34;</title>
       <link>https://akisatok.github.io/tags/reinforcement-learning/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/reinforcement-learning/</guid>
@@ -821,7 +861,7 @@
     </item>
     
     <item>
-      <title>カーネル密度推定</title>
+      <title>&#34;カーネル密度推定&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E5%AF%86%E5%BA%A6%E6%8E%A8%E5%AE%9A/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E5%AF%86%E5%BA%A6%E6%8E%A8%E5%AE%9A/</guid>
@@ -829,7 +869,7 @@
     </item>
     
     <item>
-      <title>グラフカット</title>
+      <title>&#34;グラフカット&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%82%AF%E3%83%A9%E3%83%95%E3%82%AB%E3%83%83%E3%83%88/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%82%AF%E3%83%A9%E3%83%95%E3%82%AB%E3%83%83%E3%83%88/</guid>
@@ -837,7 +877,7 @@
     </item>
     
     <item>
-      <title>トピックモデル推定</title>
+      <title>&#34;トピックモデル推定&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%88%E3%83%92%E3%83%83%E3%82%AF%E3%83%A2%E3%83%86%E3%83%AB%E6%8E%A8%E5%AE%9A/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%88%E3%83%92%E3%83%83%E3%82%AF%E3%83%A2%E3%83%86%E3%83%AB%E6%8E%A8%E5%AE%9A/</guid>
@@ -845,7 +885,7 @@
     </item>
     
     <item>
-      <title>マルコフ確率場</title>
+      <title>&#34;マルコフ確率場&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E7%A2%BA%E7%8E%87%E5%A0%B4/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E7%A2%BA%E7%8E%87%E5%A0%B4/</guid>
@@ -853,7 +893,7 @@
     </item>
     
     <item>
-      <title>メディア形態素</title>
+      <title>&#34;メディア形態素&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%A1%E3%83%86%E3%82%A3%E3%82%A2%E5%BD%A2%E6%85%8B%E7%B4%A0/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%A1%E3%83%86%E3%82%A3%E3%82%A2%E5%BD%A2%E6%85%8B%E7%B4%A0/</guid>
@@ -861,7 +901,7 @@
     </item>
     
     <item>
-      <title>メディア認識理解</title>
+      <title>&#34;メディア認識理解&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%A1%E3%83%86%E3%82%A3%E3%82%A2%E8%AA%8D%E8%AD%98%E7%90%86%E8%A7%A3/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%A1%E3%83%86%E3%82%A3%E3%82%A2%E8%AA%8D%E8%AD%98%E7%90%86%E8%A7%A3/</guid>
@@ -869,7 +909,7 @@
     </item>
     
     <item>
-      <title>半教師付き学習</title>
+      <title>&#34;半教師付き学習&#34;</title>
       <link>https://akisatok.github.io/tags/%E5%8D%8A%E6%95%99%E5%B8%AB%E4%BB%98%E3%81%8D%E5%AD%A6%E7%BF%92/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E5%8D%8A%E6%95%99%E5%B8%AB%E4%BB%98%E3%81%8D%E5%AD%A6%E7%BF%92/</guid>
@@ -877,7 +917,7 @@
     </item>
     
     <item>
-      <title>学習</title>
+      <title>&#34;学習&#34;</title>
       <link>https://akisatok.github.io/tags/%E5%AD%A6%E7%BF%92/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E5%AD%A6%E7%BF%92/</guid>
@@ -885,7 +925,7 @@
     </item>
     
     <item>
-      <title>映像分割</title>
+      <title>&#34;映像分割&#34;</title>
       <link>https://akisatok.github.io/tags/%E6%98%A0%E5%83%8F%E5%88%86%E5%89%B2/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E6%98%A0%E5%83%8F%E5%88%86%E5%89%B2/</guid>
@@ -893,7 +933,7 @@
     </item>
     
     <item>
-      <title>最大事後確率推定</title>
+      <title>&#34;最大事後確率推定&#34;</title>
       <link>https://akisatok.github.io/tags/%E6%9C%80%E5%A4%A7%E4%BA%8B%E5%BE%8C%E7%A2%BA%E7%8E%87%E6%8E%A8%E5%AE%9A/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E6%9C%80%E5%A4%A7%E4%BA%8B%E5%BE%8C%E7%A2%BA%E7%8E%87%E6%8E%A8%E5%AE%9A/</guid>
@@ -901,7 +941,7 @@
     </item>
     
     <item>
-      <title>正準相関分析</title>
+      <title>&#34;正準相関分析&#34;</title>
       <link>https://akisatok.github.io/tags/%E6%AD%A3%E6%BA%96%E7%9B%B8%E9%96%A2%E5%88%86%E6%9E%90/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E6%AD%A3%E6%BA%96%E7%9B%B8%E9%96%A2%E5%88%86%E6%9E%90/</guid>
@@ -909,7 +949,7 @@
     </item>
     
     <item>
-      <title>音響信号自動タグ付け・検索</title>
+      <title>&#34;音響信号自動タグ付け・検索&#34;</title>
       <link>https://akisatok.github.io/tags/%E9%9F%B3%E9%9F%BF%E4%BF%A1%E5%8F%B7%E8%87%AA%E5%8B%95%E3%82%BF%E3%82%AF%E4%BB%98%E3%81%91%E6%A4%9C%E7%B4%A2/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E9%9F%B3%E9%9F%BF%E4%BF%A1%E5%8F%B7%E8%87%AA%E5%8B%95%E3%82%BF%E3%82%AF%E4%BB%98%E3%81%91%E6%A4%9C%E7%B4%A2/</guid>
@@ -917,7 +957,7 @@
     </item>
     
     <item>
-      <title>顕著度</title>
+      <title>&#34;顕著度&#34;</title>
       <link>https://akisatok.github.io/tags/%E9%A1%95%E8%91%97%E5%BA%A6/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E9%A1%95%E8%91%97%E5%BA%A6/</guid>
@@ -925,7 +965,7 @@
     </item>
     
     <item>
-      <title>映像認識理解</title>
+      <title>&#34;映像認識理解&#34;</title>
       <link>https://akisatok.github.io/tags/%E6%98%A0%E5%83%8F%E8%AA%8D%E8%AD%98%E7%90%86%E8%A7%A3/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E6%98%A0%E5%83%8F%E8%AA%8D%E8%AD%98%E7%90%86%E8%A7%A3/</guid>
@@ -933,7 +973,7 @@
     </item>
     
     <item>
-      <title>発達段階</title>
+      <title>&#34;発達段階&#34;</title>
       <link>https://akisatok.github.io/tags/%E7%99%BA%E9%81%94%E6%AE%B5%E9%9A%8E/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E7%99%BA%E9%81%94%E6%AE%B5%E9%9A%8E/</guid>
@@ -941,7 +981,7 @@
     </item>
     
     <item>
-      <title>知識獲得戦略</title>
+      <title>&#34;知識獲得戦略&#34;</title>
       <link>https://akisatok.github.io/tags/%E7%9F%A5%E8%AD%98%E7%8D%B2%E5%BE%97%E6%88%A6%E7%95%A5/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E7%9F%A5%E8%AD%98%E7%8D%B2%E5%BE%97%E6%88%A6%E7%95%A5/</guid>
@@ -949,7 +989,7 @@
     </item>
     
     <item>
-      <title>認知発達</title>
+      <title>&#34;認知発達&#34;</title>
       <link>https://akisatok.github.io/tags/%E8%AA%8D%E7%9F%A5%E7%99%BA%E9%81%94/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E8%AA%8D%E7%9F%A5%E7%99%BA%E9%81%94/</guid>
@@ -957,7 +997,7 @@
     </item>
     
     <item>
-      <title>!!cite</title>
+      <title>&#34;!!cite&#34;</title>
       <link>https://akisatok.github.io/tags/cite/</link>
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/cite/</guid>
@@ -965,7 +1005,7 @@
     </item>
     
     <item>
-      <title>saliency map</title>
+      <title>&#34;saliency map&#34;</title>
       <link>https://akisatok.github.io/tags/saliency-map/</link>
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/saliency-map/</guid>
@@ -973,7 +1013,7 @@
     </item>
     
     <item>
-      <title>segmentation</title>
+      <title>&#34;segmentation&#34;</title>
       <link>https://akisatok.github.io/tags/segmentation/</link>
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/segmentation/</guid>
@@ -981,7 +1021,7 @@
     </item>
     
     <item>
-      <title>Complementary delivery</title>
+      <title>&#34;Complementary delivery&#34;</title>
       <link>https://akisatok.github.io/tags/complementary-delivery/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/complementary-delivery/</guid>
@@ -989,7 +1029,7 @@
     </item>
     
     <item>
-      <title>Correlated sources</title>
+      <title>&#34;Correlated sources&#34;</title>
       <link>https://akisatok.github.io/tags/correlated-sources/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/correlated-sources/</guid>
@@ -997,7 +1037,7 @@
     </item>
     
     <item>
-      <title>Lossless coding</title>
+      <title>&#34;Lossless coding&#34;</title>
       <link>https://akisatok.github.io/tags/lossless-coding/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/lossless-coding/</guid>
@@ -1005,7 +1045,7 @@
     </item>
     
     <item>
-      <title>Methods of types</title>
+      <title>&#34;Methods of types&#34;</title>
       <link>https://akisatok.github.io/tags/methods-of-types/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/methods-of-types/</guid>
@@ -1013,7 +1053,7 @@
     </item>
     
     <item>
-      <title>Multiterminal source coding</title>
+      <title>&#34;Multiterminal source coding&#34;</title>
       <link>https://akisatok.github.io/tags/multiterminal-source-coding/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/multiterminal-source-coding/</guid>
@@ -1021,7 +1061,7 @@
     </item>
     
     <item>
-      <title>Network source coding</title>
+      <title>&#34;Network source coding&#34;</title>
       <link>https://akisatok.github.io/tags/network-source-coding/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/network-source-coding/</guid>
@@ -1029,7 +1069,7 @@
     </item>
     
     <item>
-      <title>Universal coding</title>
+      <title>&#34;Universal coding&#34;</title>
       <link>https://akisatok.github.io/tags/universal-coding/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/universal-coding/</guid>
@@ -1037,7 +1077,7 @@
     </item>
     
     <item>
-      <title>stream processing</title>
+      <title>&#34;stream processing&#34;</title>
       <link>https://akisatok.github.io/tags/stream-processing/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/stream-processing/</guid>
@@ -1045,7 +1085,7 @@
     </item>
     
     <item>
-      <title>マルコフ連鎖モンテカルロ</title>
+      <title>&#34;マルコフ連鎖モンテカルロ&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E9%80%A3%E9%8E%96%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E9%80%A3%E9%8E%96%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD/</guid>
@@ -1053,7 +1093,7 @@
     </item>
     
     <item>
-      <title>動的ベイジアンネットワーク</title>
+      <title>&#34;動的ベイジアンネットワーク&#34;</title>
       <link>https://akisatok.github.io/tags/%E5%8B%95%E7%9A%84%E3%83%98%E3%82%A4%E3%82%B7%E3%82%A2%E3%83%B3%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E5%8B%95%E7%9A%84%E3%83%98%E3%82%A4%E3%82%B7%E3%82%A2%E3%83%B3%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF/</guid>
@@ -1061,7 +1101,7 @@
     </item>
     
     <item>
-      <title>粒子フィルタ</title>
+      <title>&#34;粒子フィルタ&#34;</title>
       <link>https://akisatok.github.io/tags/%E7%B2%92%E5%AD%90%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E7%B2%92%E5%AD%90%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF/</guid>
@@ -1069,7 +1109,7 @@
     </item>
     
     <item>
-      <title>Decoding</title>
+      <title>&#34;Decoding&#34;</title>
       <link>https://akisatok.github.io/tags/decoding/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/decoding/</guid>
@@ -1077,7 +1117,7 @@
     </item>
     
     <item>
-      <title>Electronic mail</title>
+      <title>&#34;Electronic mail&#34;</title>
       <link>https://akisatok.github.io/tags/electronic-mail/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/electronic-mail/</guid>
@@ -1085,7 +1125,7 @@
     </item>
     
     <item>
-      <title>Encoding</title>
+      <title>&#34;Encoding&#34;</title>
       <link>https://akisatok.github.io/tags/encoding/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/encoding/</guid>
@@ -1093,7 +1133,7 @@
     </item>
     
     <item>
-      <title>Joints</title>
+      <title>&#34;Joints&#34;</title>
       <link>https://akisatok.github.io/tags/joints/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/joints/</guid>
@@ -1101,7 +1141,7 @@
     </item>
     
     <item>
-      <title>Minimization</title>
+      <title>&#34;Minimization&#34;</title>
       <link>https://akisatok.github.io/tags/minimization/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/minimization/</guid>
@@ -1109,7 +1149,7 @@
     </item>
     
     <item>
-      <title>Network coding</title>
+      <title>&#34;Network coding&#34;</title>
       <link>https://akisatok.github.io/tags/network-coding/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/network-coding/</guid>
@@ -1117,7 +1157,7 @@
     </item>
     
     <item>
-      <title>Random variables</title>
+      <title>&#34;Random variables&#34;</title>
       <link>https://akisatok.github.io/tags/random-variables/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/random-variables/</guid>
@@ -1125,7 +1165,7 @@
     </item>
     
     <item>
-      <title>Source coding</title>
+      <title>&#34;Source coding&#34;</title>
       <link>https://akisatok.github.io/tags/source-coding/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/source-coding/</guid>
@@ -1133,7 +1173,7 @@
     </item>
     
     <item>
-      <title>Wyner-Ziv codes</title>
+      <title>&#34;Wyner-Ziv codes&#34;</title>
       <link>https://akisatok.github.io/tags/wyner-ziv-codes/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/wyner-ziv-codes/</guid>
@@ -1141,7 +1181,7 @@
     </item>
     
     <item>
-      <title>Wyner-Ziv coding</title>
+      <title>&#34;Wyner-Ziv coding&#34;</title>
       <link>https://akisatok.github.io/tags/wyner-ziv-coding/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/wyner-ziv-coding/</guid>
@@ -1149,7 +1189,7 @@
     </item>
     
     <item>
-      <title>complementary delivery system</title>
+      <title>&#34;complementary delivery system&#34;</title>
       <link>https://akisatok.github.io/tags/complementary-delivery-system/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/complementary-delivery-system/</guid>
@@ -1157,7 +1197,7 @@
     </item>
     
     <item>
-      <title>multiterminal networks</title>
+      <title>&#34;multiterminal networks&#34;</title>
       <link>https://akisatok.github.io/tags/multiterminal-networks/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/multiterminal-networks/</guid>
@@ -1165,7 +1205,7 @@
     </item>
     
     <item>
-      <title>multiterminal source coding network</title>
+      <title>&#34;multiterminal source coding network&#34;</title>
       <link>https://akisatok.github.io/tags/multiterminal-source-coding-network/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/multiterminal-source-coding-network/</guid>
@@ -1173,7 +1213,7 @@
     </item>
     
     <item>
-      <title>universal coding scheme</title>
+      <title>&#34;universal coding scheme&#34;</title>
       <link>https://akisatok.github.io/tags/universal-coding-scheme/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/universal-coding-scheme/</guid>
@@ -1181,7 +1221,7 @@
     </item>
     
     <item>
-      <title>universal lossy coding problem</title>
+      <title>&#34;universal lossy coding problem&#34;</title>
       <link>https://akisatok.github.io/tags/universal-lossy-coding-problem/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/universal-lossy-coding-problem/</guid>
@@ -1189,7 +1229,7 @@
     </item>
     
     <item>
-      <title>Bayes methods</title>
+      <title>&#34;Bayes methods&#34;</title>
       <link>https://akisatok.github.io/tags/bayes-methods/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/bayes-methods/</guid>
@@ -1197,7 +1237,7 @@
     </item>
     
     <item>
-      <title>Bayesian methods</title>
+      <title>&#34;Bayesian methods&#34;</title>
       <link>https://akisatok.github.io/tags/bayesian-methods/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/bayesian-methods/</guid>
@@ -1205,7 +1245,7 @@
     </item>
     
     <item>
-      <title>Focusing</title>
+      <title>&#34;Focusing&#34;</title>
       <link>https://akisatok.github.io/tags/focusing/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/focusing/</guid>
@@ -1213,7 +1253,7 @@
     </item>
     
     <item>
-      <title>Hidden Markov models</title>
+      <title>&#34;Hidden Markov models&#34;</title>
       <link>https://akisatok.github.io/tags/hidden-markov-models/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/hidden-markov-models/</guid>
@@ -1221,7 +1261,7 @@
     </item>
     
     <item>
-      <title>Kalman filter</title>
+      <title>&#34;Kalman filter&#34;</title>
       <link>https://akisatok.github.io/tags/kalman-filter/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/kalman-filter/</guid>
@@ -1229,7 +1269,7 @@
     </item>
     
     <item>
-      <title>Predictive models</title>
+      <title>&#34;Predictive models&#34;</title>
       <link>https://akisatok.github.io/tags/predictive-models/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/predictive-models/</guid>
@@ -1237,7 +1277,7 @@
     </item>
     
     <item>
-      <title>Stochastic processes</title>
+      <title>&#34;Stochastic processes&#34;</title>
       <link>https://akisatok.github.io/tags/stochastic-processes/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/stochastic-processes/</guid>
@@ -1245,7 +1285,7 @@
     </item>
     
     <item>
-      <title>Training data</title>
+      <title>&#34;Training data&#34;</title>
       <link>https://akisatok.github.io/tags/training-data/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/training-data/</guid>
@@ -1253,7 +1293,7 @@
     </item>
     
     <item>
-      <title>Visual attention model</title>
+      <title>&#34;Visual attention model&#34;</title>
       <link>https://akisatok.github.io/tags/visual-attention-model/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/visual-attention-model/</guid>
@@ -1261,7 +1301,7 @@
     </item>
     
     <item>
-      <title>Visualization</title>
+      <title>&#34;Visualization&#34;</title>
       <link>https://akisatok.github.io/tags/visualization/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/visualization/</guid>
@@ -1269,7 +1309,7 @@
     </item>
     
     <item>
-      <title>cognitive state</title>
+      <title>&#34;cognitive state&#34;</title>
       <link>https://akisatok.github.io/tags/cognitive-state/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/cognitive-state/</guid>
@@ -1277,7 +1317,7 @@
     </item>
     
     <item>
-      <title>dynamic Bayesian network</title>
+      <title>&#34;dynamic Bayesian network&#34;</title>
       <link>https://akisatok.github.io/tags/dynamic-bayesian-network/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/dynamic-bayesian-network/</guid>
@@ -1285,7 +1325,7 @@
     </item>
     
     <item>
-      <title>likelihood prediction</title>
+      <title>&#34;likelihood prediction&#34;</title>
       <link>https://akisatok.github.io/tags/likelihood-prediction/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/likelihood-prediction/</guid>
@@ -1293,7 +1333,7 @@
     </item>
     
     <item>
-      <title>maximum likelihood detection</title>
+      <title>&#34;maximum likelihood detection&#34;</title>
       <link>https://akisatok.github.io/tags/maximum-likelihood-detection/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/maximum-likelihood-detection/</guid>
@@ -1301,7 +1341,7 @@
     </item>
     
     <item>
-      <title>selective visual attention</title>
+      <title>&#34;selective visual attention&#34;</title>
       <link>https://akisatok.github.io/tags/selective-visual-attention/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/selective-visual-attention/</guid>
@@ -1309,7 +1349,7 @@
     </item>
     
     <item>
-      <title>signal detection</title>
+      <title>&#34;signal detection&#34;</title>
       <link>https://akisatok.github.io/tags/signal-detection/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/signal-detection/</guid>
@@ -1317,7 +1357,7 @@
     </item>
     
     <item>
-      <title>stochastic model</title>
+      <title>&#34;stochastic model&#34;</title>
       <link>https://akisatok.github.io/tags/stochastic-model/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/stochastic-model/</guid>
@@ -1325,7 +1365,7 @@
     </item>
     
     <item>
-      <title>video scene</title>
+      <title>&#34;video scene&#34;</title>
       <link>https://akisatok.github.io/tags/video-scene/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/video-scene/</guid>
@@ -1333,7 +1373,7 @@
     </item>
     
     <item>
-      <title>video signal processing</title>
+      <title>&#34;video signal processing&#34;</title>
       <link>https://akisatok.github.io/tags/video-signal-processing/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/video-signal-processing/</guid>
@@ -1341,7 +1381,7 @@
     </item>
     
     <item>
-      <title>visual perception</title>
+      <title>&#34;visual perception&#34;</title>
       <link>https://akisatok.github.io/tags/visual-perception/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/visual-perception/</guid>
@@ -1349,7 +1389,7 @@
     </item>
     
     <item>
-      <title>visual saliency response</title>
+      <title>&#34;visual saliency response&#34;</title>
       <link>https://akisatok.github.io/tags/visual-saliency-response/</link>
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/visual-saliency-response/</guid>
@@ -1357,7 +1397,7 @@
     </item>
     
     <item>
-      <title>Audio fingerprinting</title>
+      <title>&#34;Audio fingerprinting&#34;</title>
       <link>https://akisatok.github.io/tags/audio-fingerprinting/</link>
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/audio-fingerprinting/</guid>
@@ -1365,7 +1405,7 @@
     </item>
     
     <item>
-      <title>Audio retrieval</title>
+      <title>&#34;Audio retrieval&#34;</title>
       <link>https://akisatok.github.io/tags/audio-retrieval/</link>
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/audio-retrieval/</guid>
@@ -1373,7 +1413,7 @@
     </item>
     
     <item>
-      <title>Content identification</title>
+      <title>&#34;Content identification&#34;</title>
       <link>https://akisatok.github.io/tags/content-identification/</link>
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/content-identification/</guid>
@@ -1381,7 +1421,7 @@
     </item>
     
     <item>
-      <title>Dynamic segmentation</title>
+      <title>&#34;Dynamic segmentation&#34;</title>
       <link>https://akisatok.github.io/tags/dynamic-segmentation/</link>
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/dynamic-segmentation/</guid>
@@ -1389,7 +1429,7 @@
     </item>
     
     <item>
-      <title>Feature trajectories</title>
+      <title>&#34;Feature trajectories&#34;</title>
       <link>https://akisatok.github.io/tags/feature-trajectories/</link>
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/feature-trajectories/</guid>
@@ -1397,7 +1437,7 @@
     </item>
     
     <item>
-      <title>Piecewise linear representation</title>
+      <title>&#34;Piecewise linear representation&#34;</title>
       <link>https://akisatok.github.io/tags/piecewise-linear-representation/</link>
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/piecewise-linear-representation/</guid>
@@ -1405,7 +1445,7 @@
     </item>
     
     <item>
-      <title>Bipartite graphs</title>
+      <title>&#34;Bipartite graphs&#34;</title>
       <link>https://akisatok.github.io/tags/bipartite-graphs/</link>
       <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/bipartite-graphs/</guid>
@@ -1413,7 +1453,7 @@
     </item>
     
     <item>
-      <title>Types of sequences</title>
+      <title>&#34;Types of sequences&#34;</title>
       <link>https://akisatok.github.io/tags/types-of-sequences/</link>
       <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/types-of-sequences/</guid>
@@ -1421,7 +1461,7 @@
     </item>
     
     <item>
-      <title>Information retrieval</title>
+      <title>&#34;Information retrieval&#34;</title>
       <link>https://akisatok.github.io/tags/information-retrieval/</link>
       <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/information-retrieval/</guid>
@@ -1429,7 +1469,7 @@
     </item>
     
     <item>
-      <title>Multimedia databases</title>
+      <title>&#34;Multimedia databases&#34;</title>
       <link>https://akisatok.github.io/tags/multimedia-databases/</link>
       <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/multimedia-databases/</guid>
@@ -1437,7 +1477,7 @@
     </item>
     
     <item>
-      <title>Music</title>
+      <title>&#34;Music&#34;</title>
       <link>https://akisatok.github.io/tags/music/</link>
       <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/music/</guid>
@@ -1445,7 +1485,7 @@
     </item>
     
     <item>
-      <title>Search methods</title>
+      <title>&#34;Search methods&#34;</title>
       <link>https://akisatok.github.io/tags/search-methods/</link>
       <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/search-methods/</guid>
@@ -1453,7 +1493,7 @@
     </item>
     
     <item>
-      <title>SSDA</title>
+      <title>&#34;SSDA&#34;</title>
       <link>https://akisatok.github.io/tags/ssda/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/ssda/</guid>
@@ -1461,7 +1501,7 @@
     </item>
     
     <item>
-      <title>region-based image retrieval</title>
+      <title>&#34;region-based image retrieval&#34;</title>
       <link>https://akisatok.github.io/tags/region-based-image-retrieval/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/region-based-image-retrieval/</guid>
@@ -1469,7 +1509,7 @@
     </item>
     
     <item>
-      <title>サブテンプレート</title>
+      <title>&#34;サブテンプレート&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%82%B5%E3%83%95%E3%83%86%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%83%88/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%82%B5%E3%83%95%E3%83%86%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%83%88/</guid>
@@ -1477,7 +1517,7 @@
     </item>
     
     <item>
-      <title>テンプレートマッチング</title>
+      <title>&#34;テンプレートマッチング&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%86%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%83%88%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%AF/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%86%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%83%88%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%AF/</guid>
@@ -1485,7 +1525,7 @@
     </item>
     
     <item>
-      <title>マージン</title>
+      <title>&#34;マージン&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%B3/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%B3/</guid>
@@ -1493,7 +1533,7 @@
     </item>
     
     <item>
-      <title>三角不等式</title>
+      <title>&#34;三角不等式&#34;</title>
       <link>https://akisatok.github.io/tags/%E4%B8%89%E8%A7%92%E4%B8%8D%E7%AD%89%E5%BC%8F/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E4%B8%89%E8%A7%92%E4%B8%8D%E7%AD%89%E5%BC%8F/</guid>
@@ -1501,7 +1541,7 @@
     </item>
     
     <item>
-      <title>距離下限値</title>
+      <title>&#34;距離下限値&#34;</title>
       <link>https://akisatok.github.io/tags/%E8%B7%9D%E9%9B%A2%E4%B8%8B%E9%99%90%E5%80%A4/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E8%B7%9D%E9%9B%A2%E4%B8%8B%E9%99%90%E5%80%A4/</guid>
@@ -1509,7 +1549,7 @@
     </item>
     
     <item>
-      <title>部分画像検索</title>
+      <title>&#34;部分画像検索&#34;</title>
       <link>https://akisatok.github.io/tags/%E9%83%A8%E5%88%86%E7%94%BB%E5%83%8F%E6%A4%9C%E7%B4%A2/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E9%83%A8%E5%88%86%E7%94%BB%E5%83%8F%E6%A4%9C%E7%B4%A2/</guid>
@@ -1517,7 +1557,7 @@
     </item>
     
     <item>
-      <title>部分領域</title>
+      <title>&#34;部分領域&#34;</title>
       <link>https://akisatok.github.io/tags/%E9%83%A8%E5%88%86%E9%A0%98%E5%9F%9F/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E9%83%A8%E5%88%86%E9%A0%98%E5%9F%9F/</guid>
@@ -1525,7 +1565,7 @@
     </item>
     
     <item>
-      <title>L_2距離</title>
+      <title>&#34;L_2距離&#34;</title>
       <link>https://akisatok.github.io/tags/l_2%E8%B7%9D%E9%9B%A2/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/l_2%E8%B7%9D%E9%9B%A2/</guid>
@@ -1533,7 +1573,7 @@
     </item>
     
     <item>
-      <title>グローバルな枝刈り</title>
+      <title>&#34;グローバルな枝刈り&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%8F%E3%83%AB%E3%81%AA%E6%9E%9D%E5%88%88%E3%82%8A/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%8F%E3%83%AB%E3%81%AA%E6%9E%9D%E5%88%88%E3%82%8A/</guid>
@@ -1541,7 +1581,7 @@
     </item>
     
     <item>
-      <title>ヒストグラム重なり率</title>
+      <title>&#34;ヒストグラム重なり率&#34;</title>
       <link>https://akisatok.github.io/tags/%E3%83%92%E3%82%B9%E3%83%88%E3%82%AF%E3%83%A9%E3%83%A0%E9%87%8D%E3%81%AA%E3%82%8A%E7%8E%87/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E3%83%92%E3%82%B9%E3%83%88%E3%82%AF%E3%83%A9%E3%83%A0%E9%87%8D%E3%81%AA%E3%82%8A%E7%8E%87/</guid>
@@ -1549,7 +1589,7 @@
     </item>
     
     <item>
-      <title>一致探索</title>
+      <title>&#34;一致探索&#34;</title>
       <link>https://akisatok.github.io/tags/%E4%B8%80%E8%87%B4%E6%8E%A2%E7%B4%A2/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E4%B8%80%E8%87%B4%E6%8E%A2%E7%B4%A2/</guid>
@@ -1557,50 +1597,10 @@
     </item>
     
     <item>
-      <title>時系列アクティブ探索法</title>
+      <title>&#34;時系列アクティブ探索法&#34;</title>
       <link>https://akisatok.github.io/tags/%E6%99%82%E7%B3%BB%E5%88%97%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%95%E6%8E%A2%E7%B4%A2%E6%B3%95/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/tags/%E6%99%82%E7%B3%BB%E5%88%97%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%95%E6%8E%A2%E7%B4%A2%E6%B3%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Admissible rate region</title>
-      <link>https://akisatok.github.io/tags/admissible-rate-region/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/tags/admissible-rate-region/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Average length of codewords</title>
-      <link>https://akisatok.github.io/tags/average-length-of-codewords/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/tags/average-length-of-codewords/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linked encoders</title>
-      <link>https://akisatok.github.io/tags/linked-encoders/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/tags/linked-encoders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixed source</title>
-      <link>https://akisatok.github.io/tags/mixed-source/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/tags/mixed-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weak variable-length code</title>
-      <link>https://akisatok.github.io/tags/weak-variable-length-code/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/tags/weak-variable-length-code/</guid>
       <description></description>
     </item>
     

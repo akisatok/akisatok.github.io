@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Feature trajectories | Akisato Kimura</title>
+    <title>&#34;Feature trajectories&#34; | Akisato Kimura</title>
     <link>https://akisatok.github.io/tags/feature-trajectories/</link>
       <atom:link href="https://akisatok.github.io/tags/feature-trajectories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Feature trajectories</description>
+    <description>&#34;Feature trajectories&#34;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Feb 2008 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>Feature trajectories</title>
+      <title>&#34;Feature trajectories&#34;</title>
       <link>https://akisatok.github.io/tags/feature-trajectories/</link>
     </image>
     
     <item>
       <title>A Quick Search Method for Audio Signals Based on a Piecewise Linear Representation of Feature Trajectories</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2008-b/</link>
+      <link>https://akisatok.github.io/publication/kimura-2008-b/</link>
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2008-b/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2008-b/</guid>
       <description></description>
     </item>
     

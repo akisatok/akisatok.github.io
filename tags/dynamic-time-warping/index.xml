@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dynamic Time Warping | Akisato Kimura</title>
+    <title>&#34;Dynamic Time Warping&#34; | Akisato Kimura</title>
     <link>https://akisatok.github.io/tags/dynamic-time-warping/</link>
       <atom:link href="https://akisatok.github.io/tags/dynamic-time-warping/index.xml" rel="self" type="application/rss+xml" />
-    <description>Dynamic Time Warping</description>
+    <description>&#34;Dynamic Time Warping&#34;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>Dynamic Time Warping</title>
+      <title>&#34;Dynamic Time Warping&#34;</title>
       <link>https://akisatok.github.io/tags/dynamic-time-warping/</link>
     </image>
     
     <item>
       <title>Introducing Local Distance-Based Features to Temporal Convolutional Neural Networks</title>
-      <link>https://akisatok.github.io/publication/content/iwana-2018/</link>
+      <link>https://akisatok.github.io/publication/iwana-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/iwana-2018/</guid>
+      <guid>https://akisatok.github.io/publication/iwana-2018/</guid>
       <description></description>
     </item>
     

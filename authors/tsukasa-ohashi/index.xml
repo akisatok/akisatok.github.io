@@ -5,7 +5,7 @@
     <link>https://akisatok.github.io/authors/tsukasa-ohashi/</link>
       <atom:link href="https://akisatok.github.io/authors/tsukasa-ohashi/index.xml" rel="self" type="application/rss+xml" />
     <description>Tsukasa Ohashi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>Tsukasa Ohashi</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>自己相関構造を考慮した判別分析</title>
+      <link>https://akisatok.github.io/talk/ibis-2012-ohashi/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2012-ohashi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Extended Fisher Criterion Based on Auto-correlation Matrix Information</title>
-      <link>https://akisatok.github.io/publication/content/sakano-2012/</link>
+      <link>https://akisatok.github.io/publication/sakano-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/sakano-2012/</guid>
+      <guid>https://akisatok.github.io/publication/sakano-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>仮想クラス生成に基づく正準相関分析への特徴追加</title>
+      <link>https://akisatok.github.io/talk/ibis-2011-ohashi/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2011-ohashi/</guid>
       <description></description>
     </item>
     

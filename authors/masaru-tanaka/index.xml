@@ -14,9 +14,25 @@
     
     <item>
       <title>Geometric interpretation of Fisher&#39;s linear discriminant analysis through communication theory</title>
-      <link>https://akisatok.github.io/publication/content/fujiki-2015/</link>
+      <link>https://akisatok.github.io/publication/fujiki-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/fujiki-2015/</guid>
+      <guid>https://akisatok.github.io/publication/fujiki-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>拡張型判別分析の情報量最大化基準に基づくパーセプトロンによる実装実験</title>
+      <link>https://akisatok.github.io/talk/miru-2014-tanaka/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2014-tanaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>特徴の統合に基づく判別分析の情報圧縮率の改善</title>
+      <link>https://akisatok.github.io/talk/miru-2014-sakano/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2014-sakano/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,9 @@
+@techreport{Hibino2017,
+ abstract = {This paper proposes a novel type of random forests called a denoising random forests that are robust against noises contained in test samples. Such noise-corrupted samples cause serious damage to the estimation performances of random forests, since unexpected child nodes are often selected and the leaf nodes that the input sample reaches are sometimes far from those for a clean sample. Our main idea for tackling this problem originates from a binary indicator vector that encodes a traversal path of a sample in the forest. Our proposed method effectively employs this vector by introducing denoising autoencoders into random forests. A denoising autoencoder can be trained with indicator vectors produced from clean and noisy input samples, and non-leaf nodes where incorrect decisions are made can be identified by comparing the input and output of the trained denoising autoencoder. Multiple traversal paths with respect to the nodes with incorrect decisions caused by the noises can then be considered for the estimation.},
+ author = {Hibino, Masaya and Kimura, Akisato and Yamashita, Takayoshi and Yamauchi, Yuji and Fujiyoshi, Hironobu},
+ booktitle = {arXiv preprint arXiv:1710.11004},
+ title = {Denoising random forests},
+ url = {https://arxiv.org/abs/1710.11004v1},
+ year = {2017}
+}
+

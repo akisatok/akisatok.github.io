@@ -5,7 +5,7 @@
     <link>https://akisatok.github.io/authors/naoki-yasuda/</link>
       <atom:link href="https://akisatok.github.io/authors/naoki-yasuda/index.xml" rel="self" type="application/rss+xml" />
     <description>Naoki Yasuda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>Naoki Yasuda</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
+      <title>Photometric classification of the HSC transients through machine learning</title>
+      <link>https://akisatok.github.io/publication/takahashi-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/takahashi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Hyper Suprime-Cam SSP transient survey in COSMOS: Overview</title>
-      <link>https://akisatok.github.io/publication/content/yasuda-2019/</link>
+      <link>https://akisatok.github.io/publication/yasuda-2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/yasuda-2019/</guid>
+      <guid>https://akisatok.github.io/publication/yasuda-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-Epoch Supernova Classification with Deep Convolutional Neural Networks</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2017/</link>
+      <link>https://akisatok.github.io/publication/kimura-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2017/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2017/</guid>
       <description></description>
     </item>
     

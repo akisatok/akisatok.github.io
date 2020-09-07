@@ -5,7 +5,7 @@
     <link>https://akisatok.github.io/authors/seiichi-uchida/</link>
       <atom:link href="https://akisatok.github.io/authors/seiichi-uchida/index.xml" rel="self" type="application/rss+xml" />
     <description>Seiichi Uchida</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>Seiichi Uchida</title>
@@ -13,26 +13,50 @@
     </image>
     
     <item>
+      <title>Total whitening for online signature verification based on deep representation</title>
+      <link>https://akisatok.github.io/publication/wu-icpr-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/wu-icpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prewarping Siamese Network: Learning Local Representations for Online Signature Verification</title>
-      <link>https://akisatok.github.io/publication/content/8683036/</link>
+      <link>https://akisatok.github.io/publication/8683036/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/8683036/</guid>
+      <guid>https://akisatok.github.io/publication/8683036/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep dynamic time warping: End-to-end local feature learning for online signature verification</title>
-      <link>https://akisatok.github.io/publication/content/wu-2019/</link>
+      <link>https://akisatok.github.io/publication/wu-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/wu-2019/</guid>
+      <guid>https://akisatok.github.io/publication/wu-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introducing Local Distance-Based Features to Temporal Convolutional Neural Networks</title>
-      <link>https://akisatok.github.io/publication/content/iwana-2018/</link>
+      <link>https://akisatok.github.io/publication/iwana-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/iwana-2018/</guid>
+      <guid>https://akisatok.github.io/publication/iwana-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRMU 基礎研究におけるオープンアイデア: PRMU 第二期グランドチャレンジ</title>
+      <link>https://akisatok.github.io/publication/prmugc-2017-fundamental/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/prmugc-2017-fundamental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRMU 応用研究におけるオープンアイデア: PRMU 第二期グランドチャレンジ</title>
+      <link>https://akisatok.github.io/publication/prmugc-2017-practical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/prmugc-2017-practical/</guid>
       <description></description>
     </item>
     

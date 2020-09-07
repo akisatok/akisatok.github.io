@@ -14,17 +14,49 @@
     
     <item>
       <title>Denoising random forests</title>
-      <link>https://akisatok.github.io/publication/content/hibino-2017/</link>
+      <link>https://akisatok.github.io/publication/hibino-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/hibino-2017/</guid>
+      <guid>https://akisatok.github.io/publication/hibino-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient online parallel training of random forests based on Mondrian forests</title>
+      <link>https://akisatok.github.io/talk/miru-2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>共変量シフト適応に基づくrandom forestsの並列分散学習</title>
+      <link>https://akisatok.github.io/publication/2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教師あり学習の導入による Mondrian Forests の効率化</title>
+      <link>https://akisatok.github.io/publication/2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed forests for MapReduce-based machine learning</title>
-      <link>https://akisatok.github.io/publication/content/wakayama-2015/</link>
+      <link>https://akisatok.github.io/publication/wakayama-2015/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/wakayama-2015/</guid>
+      <guid>https://akisatok.github.io/publication/wakayama-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>転移学習を用いたrandom forestの並列分散学習法</title>
+      <link>https://akisatok.github.io/talk/ibis-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2014/</guid>
       <description></description>
     </item>
     

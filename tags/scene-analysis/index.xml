@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scene analysis | Akisato Kimura</title>
+    <title>&#34;scene analysis&#34; | Akisato Kimura</title>
     <link>https://akisatok.github.io/tags/scene-analysis/</link>
       <atom:link href="https://akisatok.github.io/tags/scene-analysis/index.xml" rel="self" type="application/rss+xml" />
-    <description>scene analysis</description>
+    <description>&#34;scene analysis&#34;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>scene analysis</title>
+      <title>&#34;scene analysis&#34;</title>
       <link>https://akisatok.github.io/tags/scene-analysis/</link>
     </image>
     
     <item>
       <title>Cross-media Scene Analysis: Estimating Objects&#39; Visuals Only from Audio</title>
-      <link>https://akisatok.github.io/publication/content/irie-2019/</link>
+      <link>https://akisatok.github.io/publication/irie-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/irie-2019/</guid>
+      <guid>https://akisatok.github.io/publication/irie-2019/</guid>
       <description></description>
     </item>
     

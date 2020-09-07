@@ -14,57 +14,137 @@
     
     <item>
       <title>Geometric interpretation of Fisher&#39;s linear discriminant analysis through communication theory</title>
-      <link>https://akisatok.github.io/publication/content/fujiki-2015/</link>
+      <link>https://akisatok.github.io/publication/fujiki-2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/fujiki-2015/</guid>
+      <guid>https://akisatok.github.io/publication/fujiki-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>拡張型判別分析の情報量最大化基準に基づくパーセプトロンによる実装実験</title>
+      <link>https://akisatok.github.io/talk/miru-2014-tanaka/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2014-tanaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>特徴の統合に基づく判別分析の情報圧縮率の改善</title>
+      <link>https://akisatok.github.io/talk/miru-2014-sakano/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2014-sakano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>クラス部分空間に着目した判別分析</title>
+      <link>https://akisatok.github.io/talk/miru-2013-sakano/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2013-sakano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing various multivariate analysis at will via generalized pairwise expression</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2013-a/</link>
+      <link>https://akisatok.github.io/publication/kimura-2013-a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2013-a/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2013-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2013/</link>
+      <link>https://akisatok.github.io/publication/kimura-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2013/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自己相関構造を考慮した判別分析</title>
+      <link>https://akisatok.github.io/talk/ibis-2012-ohashi/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2012-ohashi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing various component analysis at will</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2012/</link>
+      <link>https://akisatok.github.io/publication/kimura-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2012/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extended Fisher Criterion Based on Auto-correlation Matrix Information</title>
-      <link>https://akisatok.github.io/publication/content/sakano-2012/</link>
+      <link>https://akisatok.github.io/publication/sakano-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/sakano-2012/</guid>
+      <guid>https://akisatok.github.io/publication/sakano-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single Image Segmentation with Estimated Depth</title>
-      <link>https://akisatok.github.io/publication/content/yonetani-2012/</link>
+      <link>https://akisatok.github.io/publication/yonetani-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/yonetani-2012/</guid>
+      <guid>https://akisatok.github.io/publication/yonetani-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>深度画像推定を用いた自動物体セグメンテーション</title>
+      <link>https://akisatok.github.io/publication/2012-b/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>仮想クラス生成に基づく正準相関分析への特徴追加</title>
+      <link>https://akisatok.github.io/talk/ibis-2011-ohashi/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2011-ohashi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>シーンの色情報と深度情報の統合による自動物体セグメンテーション</title>
+      <link>https://akisatok.github.io/publication/2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2010/</link>
+      <link>https://akisatok.github.io/publication/kimura-2010/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2010/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSCDE: 画像認識検索のための半教師付正準密度推定法</title>
+      <link>https://akisatok.github.io/publication/sscde-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/sscde-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>保有知識の確信度に基づく対話型映像認識理解システムの質問生成戦略</title>
+      <link>https://akisatok.github.io/publication/sekhon-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/sekhon-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>対話型映像認識理解における動的学習戦略に関する取り組み</title>
+      <link>https://akisatok.github.io/publication/2010-d/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2010-d/</guid>
       <description></description>
     </item>
     

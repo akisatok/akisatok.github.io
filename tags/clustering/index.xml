@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>clustering | Akisato Kimura</title>
+    <title>&#34;clustering&#34; | Akisato Kimura</title>
     <link>https://akisatok.github.io/tags/clustering/</link>
       <atom:link href="https://akisatok.github.io/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
-    <description>clustering</description>
+    <description>&#34;clustering&#34;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>clustering</title>
+      <title>&#34;clustering&#34;</title>
       <link>https://akisatok.github.io/tags/clustering/</link>
     </image>
     
     <item>
       <title>Infinite plaid models for infinite bi-clustering</title>
-      <link>https://akisatok.github.io/publication/content/ishiguro-2016/</link>
+      <link>https://akisatok.github.io/publication/ishiguro-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/ishiguro-2016/</guid>
+      <guid>https://akisatok.github.io/publication/ishiguro-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing various multivariate analysis at will via generalized pairwise expression</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2013-a/</link>
+      <link>https://akisatok.github.io/publication/kimura-2013-a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2013-a/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2013-a/</guid>
       <description></description>
     </item>
     

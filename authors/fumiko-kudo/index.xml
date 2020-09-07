@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fumiko Kudo | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/fumiko-kudo/</link>
+      <atom:link href="https://akisatok.github.io/authors/fumiko-kudo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fumiko Kudo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Fumiko Kudo</title>
+      <link>https://akisatok.github.io/authors/fumiko-kudo/</link>
+    </image>
+    
+    <item>
+      <title>ソーシャルメディア論： つながりを再設計する</title>
+      <link>https://akisatok.github.io/publication/2015-c/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2015-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

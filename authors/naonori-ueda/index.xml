@@ -5,7 +5,7 @@
     <link>https://akisatok.github.io/authors/naonori-ueda/</link>
       <atom:link href="https://akisatok.github.io/authors/naonori-ueda/index.xml" rel="self" type="application/rss+xml" />
     <description>Naonori Ueda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
       <title>Naonori Ueda</title>
@@ -13,42 +13,74 @@
     </image>
     
     <item>
+      <title>Photometric classification of the HSC transients through machine learning</title>
+      <link>https://akisatok.github.io/publication/takahashi-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/takahashi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Hyper Suprime-Cam SSP transient survey in COSMOS: Overview</title>
-      <link>https://akisatok.github.io/publication/content/yasuda-2019/</link>
+      <link>https://akisatok.github.io/publication/yasuda-2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/yasuda-2019/</guid>
+      <guid>https://akisatok.github.io/publication/yasuda-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Few-shot learning of neural networks from scratch by pseudo example optimization</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2018/</link>
+      <link>https://akisatok.github.io/publication/kimura-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2018/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>疑似学習サンプル最適化によるニューラルネットワークの少数ショット学習</title>
+      <link>https://akisatok.github.io/publication/2018-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2018-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-Epoch Supernova Classification with Deep Convolutional Neural Networks</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2017/</link>
+      <link>https://akisatok.github.io/publication/kimura-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2017/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infinite plaid models for infinite bi-clustering</title>
-      <link>https://akisatok.github.io/publication/content/ishiguro-2016/</link>
+      <link>https://akisatok.github.io/publication/ishiguro-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/ishiguro-2016/</guid>
+      <guid>https://akisatok.github.io/publication/ishiguro-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infinite bi-clusteringのための無限plaid model</title>
+      <link>https://akisatok.github.io/talk/ibis-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rectangular tiling process</title>
-      <link>https://akisatok.github.io/publication/content/nakano-2014/</link>
+      <link>https://akisatok.github.io/publication/nakano-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/nakano-2014/</guid>
+      <guid>https://akisatok.github.io/publication/nakano-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>無限交換長方形分割</title>
+      <link>https://akisatok.github.io/publication/2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014-a/</guid>
       <description></description>
     </item>
     

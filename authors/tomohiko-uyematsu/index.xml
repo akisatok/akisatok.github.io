@@ -1,94 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tomohiko UYEMATSU | Akisato Kimura</title>
+    <title>Tomohiko Uyematsu | Akisato Kimura</title>
     <link>https://akisatok.github.io/authors/tomohiko-uyematsu/</link>
       <atom:link href="https://akisatok.github.io/authors/tomohiko-uyematsu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tomohiko UYEMATSU</description>
+    <description>Tomohiko Uyematsu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jun 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>Tomohiko UYEMATSU</title>
+      <title>Tomohiko Uyematsu</title>
       <link>https://akisatok.github.io/authors/tomohiko-uyematsu/</link>
     </image>
     
     <item>
       <title>Universal source coding for multiple decoders with side information</title>
-      <link>https://akisatok.github.io/publication/content/kuzuoka-2010/</link>
+      <link>https://akisatok.github.io/publication/kuzuoka-2010/</link>
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kuzuoka-2010/</guid>
+      <guid>https://akisatok.github.io/publication/kuzuoka-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Universal source coding over generalized complementary delivery networks</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2009/</link>
+      <link>https://akisatok.github.io/publication/kimura-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2009/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Universal coding for lossy complementary delivery problem</title>
-      <link>https://akisatok.github.io/publication/content/kuzuoka-2008/</link>
+      <link>https://akisatok.github.io/publication/kuzuoka-2008/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kuzuoka-2008/</guid>
+      <guid>https://akisatok.github.io/publication/kuzuoka-2008/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiterminal source coding with complementary delivery</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2008-multiterminal/</link>
+      <link>https://akisatok.github.io/publication/kimura-2008-multiterminal/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2008-multiterminal/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2008-multiterminal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Universal Coding for Correlated Sources with Complementary Delivery</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2007/</link>
+      <link>https://akisatok.github.io/publication/kimura-2007/</link>
       <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2007/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2007/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information-theoretical analysis of index searching: Revised</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2006-information/</link>
+      <link>https://akisatok.github.io/publication/kimura-2006-information/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2006-information/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2006-information/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiterminal source coding for cascading and feedback refinement systems</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2006/</link>
+      <link>https://akisatok.github.io/publication/kimura-2006/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2006/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2006/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weak variable-length Slepian-Wolf coding with linked encoders for mixed sources</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2001-a/</link>
+      <link>https://akisatok.github.io/publication/kimura-2001-a/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2001-a/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2001-a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Weak variable-length Slepian-Wolf coding with linked encoders for mixed sources</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2001-b/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2001-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Large Deviations Performance of Knuth-Yao algorithm for Random Number Generation</title>
-      <link>https://akisatok.github.io/publication/content/kimura-1999/</link>
+      <title>Large deviations performance of interval algorithm for random number generation</title>
+      <link>https://akisatok.github.io/publication/kimura-1999/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-1999/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-1999/</guid>
       <description></description>
     </item>
     

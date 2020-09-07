@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Semi-supervised learning | Akisato Kimura</title>
+    <title>&#34;Semi-supervised learning&#34; | Akisato Kimura</title>
     <link>https://akisatok.github.io/tags/semi-supervised-learning/</link>
       <atom:link href="https://akisatok.github.io/tags/semi-supervised-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Semi-supervised learning</description>
+    <description>&#34;Semi-supervised learning&#34;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>Semi-supervised learning</title>
+      <title>&#34;Semi-supervised learning&#34;</title>
       <link>https://akisatok.github.io/tags/semi-supervised-learning/</link>
     </image>
     
     <item>
       <title>Designing various multivariate analysis at will via generalized pairwise expression</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2013-a/</link>
+      <link>https://akisatok.github.io/publication/kimura-2013-a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2013-a/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2013-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2013/</link>
+      <link>https://akisatok.github.io/publication/kimura-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2013/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic audio tag classification via semi-supervised canonical density estimation</title>
-      <link>https://akisatok.github.io/publication/content/takagi-2011/</link>
+      <link>https://akisatok.github.io/publication/takagi-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/takagi-2011/</guid>
+      <guid>https://akisatok.github.io/publication/takagi-2011/</guid>
       <description></description>
     </item>
     

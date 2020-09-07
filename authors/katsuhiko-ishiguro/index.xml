@@ -14,89 +14,161 @@
     
     <item>
       <title>Infinite plaid models for infinite bi-clustering</title>
-      <link>https://akisatok.github.io/publication/content/ishiguro-2016/</link>
+      <link>https://akisatok.github.io/publication/ishiguro-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/ishiguro-2016/</guid>
+      <guid>https://akisatok.github.io/publication/ishiguro-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infinite bi-clusteringのための無限plaid model</title>
+      <link>https://akisatok.github.io/talk/ibis-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ソーシャルキュレーションデータを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/publication/2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>パターン認識研究者のためのトピックモデリング概観</title>
+      <link>https://akisatok.github.io/publication/2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2015-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creating stories from socially curated microblog messages</title>
-      <link>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</link>
+      <link>https://akisatok.github.io/publication/ieice-trans-autotogetter/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</guid>
+      <guid>https://akisatok.github.io/publication/ieice-trans-autotogetter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rectangular tiling process</title>
-      <link>https://akisatok.github.io/publication/content/nakano-2014/</link>
+      <link>https://akisatok.github.io/publication/nakano-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/nakano-2014/</guid>
+      <guid>https://akisatok.github.io/publication/nakano-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>無限交換長方形分割</title>
+      <link>https://akisatok.github.io/publication/2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>非負制約下における複合行列分解とそのソーシャルメディア解析への応用</title>
+      <link>https://akisatok.github.io/publication/2014-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-negative Multiple Tensor Factorization</title>
-      <link>https://akisatok.github.io/publication/content/takeuchi-2013-a/</link>
+      <link>https://akisatok.github.io/publication/takeuchi-2013-a/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/takeuchi-2013-a/</guid>
+      <guid>https://akisatok.github.io/publication/takeuchi-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>複合非負テンソル因子分解法</title>
+      <link>https://akisatok.github.io/talk/ibis-2013-takeuchi/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2013-takeuchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ソーシャルキュレーションを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/talk/miru-2013-akisato/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2013-akisato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image context discovery from socially curated contents</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2013-b/</link>
+      <link>https://akisatok.github.io/publication/kimura-2013-b/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2013-b/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2013-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-negative multiple matrix factorization</title>
-      <link>https://akisatok.github.io/publication/content/takeuchi-2013/</link>
+      <link>https://akisatok.github.io/publication/takeuchi-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/takeuchi-2013/</guid>
+      <guid>https://akisatok.github.io/publication/takeuchi-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2013/</link>
+      <link>https://akisatok.github.io/publication/kimura-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2013/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creating Stories: Social Curation of Twitter Messages</title>
-      <link>https://akisatok.github.io/publication/content/duh-2012/</link>
+      <link>https://akisatok.github.io/publication/duh-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/duh-2012/</guid>
+      <guid>https://akisatok.github.io/publication/duh-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extended Fisher Criterion Based on Auto-correlation Matrix Information</title>
-      <link>https://akisatok.github.io/publication/content/sakano-2012/</link>
+      <link>https://akisatok.github.io/publication/sakano-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/sakano-2012/</guid>
+      <guid>https://akisatok.github.io/publication/sakano-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social curationを用いた画像コンテンツの内容理解モデル: 画像特徴量を利用しない画像コンテンツ理解</title>
+      <link>https://akisatok.github.io/publication/2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards automatic image understanding and mining via social curation</title>
-      <link>https://akisatok.github.io/publication/content/ishiguro-2012/</link>
+      <link>https://akisatok.github.io/publication/ishiguro-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/ishiguro-2012/</guid>
+      <guid>https://akisatok.github.io/publication/ishiguro-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>マルチモーダル相関を考慮したトピックモデルに基づく映像アノテーション</title>
+      <link>https://akisatok.github.io/talk/ibis-2011-kajino/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2011-kajino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
-      <link>https://akisatok.github.io/publication/content/kimura-2010/</link>
+      <link>https://akisatok.github.io/publication/kimura-2010/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>https://akisatok.github.io/publication/content/kimura-2010/</guid>
+      <guid>https://akisatok.github.io/publication/kimura-2010/</guid>
       <description></description>
     </item>
     
