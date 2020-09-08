@@ -14,6 +14,14 @@
     
     <item>
       <title>Denoising random forests</title>
+      <link>https://akisatok.github.io/publication/content/hibino-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/hibino-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denoising random forests</title>
       <link>https://akisatok.github.io/publication/hibino-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/hibino-2017/</guid>
@@ -41,6 +49,14 @@
       <link>https://akisatok.github.io/publication/2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed forests for MapReduce-based machine learning</title>
+      <link>https://akisatok.github.io/publication/content/wakayama-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/wakayama-2015/</guid>
       <description></description>
     </item>
     

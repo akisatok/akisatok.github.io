@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>共変量シフト適応に基づくrandom forestsの並列分散学習</title>
+      <link>https://akisatok.github.io/publication/content/2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed forests for MapReduce-based machine learning</title>
+      <link>https://akisatok.github.io/publication/content/wakayama-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/wakayama-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distributed forests for MapReduce-based machine learning</title>
       <link>https://akisatok.github.io/publication/wakayama-2015/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>

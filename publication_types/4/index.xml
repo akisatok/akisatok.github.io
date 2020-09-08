@@ -53,6 +53,14 @@
     </item>
     
     <item>
+      <title>疑似学習サンプル最適化によるニューラルネットワークの少数ショット学習</title>
+      <link>https://akisatok.github.io/publication/content/2018-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>すばるHSCデータを使用した機械学習による超新星タイプ分類</title>
       <link>https://akisatok.github.io/talk/asj-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
@@ -381,6 +389,14 @@
     </item>
     
     <item>
+      <title>Social curationを用いた画像コンテンツの内容理解モデル: 画像特徴量を利用しない画像コンテンツ理解</title>
+      <link>https://akisatok.github.io/publication/content/2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[サーベイ発表] 人間の視覚的注意の計算モデル</title>
       <link>https://akisatok.github.io/publication/2012-a/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -389,10 +405,26 @@
     </item>
     
     <item>
+      <title>[サーベイ発表] 人間の視覚的注意の計算モデル</title>
+      <link>https://akisatok.github.io/publication/content/2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>深度画像推定を用いた自動物体セグメンテーション</title>
       <link>https://akisatok.github.io/publication/2012-b/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>深度画像推定を用いた自動物体セグメンテーション</title>
+      <link>https://akisatok.github.io/publication/content/2012-b/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2012-b/</guid>
       <description></description>
     </item>
     
@@ -453,6 +485,22 @@
     </item>
     
     <item>
+      <title>シーンの色情報と深度情報の統合による自動物体セグメンテーション</title>
+      <link>https://akisatok.github.io/publication/content/2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic and precise extraction of generic objects using saliency-based priors and contour constraints</title>
+      <link>https://akisatok.github.io/publication/content/sekhon-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/sekhon-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automatic and precise extraction of generic objects using saliency-based priors and contour constraints</title>
       <link>https://akisatok.github.io/publication/sekhon-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
@@ -462,9 +510,25 @@
     
     <item>
       <title>SSCDE: 画像認識検索のための半教師付正準密度推定法</title>
+      <link>https://akisatok.github.io/publication/content/sscde-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/sscde-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSCDE: 画像認識検索のための半教師付正準密度推定法</title>
       <link>https://akisatok.github.io/publication/sscde-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/sscde-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic indexing and known item search based on a unified model with topic transition representation</title>
+      <link>https://akisatok.github.io/publication/content/nakano-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakano-2010/</guid>
       <description></description>
     </item>
     
@@ -485,6 +549,22 @@
     </item>
     
     <item>
+      <title>人間の視覚的注意の確率モデル: 動的ベイジアンネットワークに基づく最新のアプローチ</title>
+      <link>https://akisatok.github.io/publication/content/2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>保有知識の確信度に基づく対話型映像認識理解システムの質問生成戦略</title>
+      <link>https://akisatok.github.io/publication/content/sekhon-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/sekhon-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>保有知識の確信度に基づく対話型映像認識理解システムの質問生成戦略</title>
       <link>https://akisatok.github.io/publication/sekhon-2010-a/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
@@ -497,6 +577,14 @@
       <link>https://akisatok.github.io/publication/2010-a/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>半教師付き正準密度推定法に基づく音響信号の自動タグ付けと検索</title>
+      <link>https://akisatok.github.io/publication/content/2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2010-a/</guid>
       <description></description>
     </item>
     
@@ -517,6 +605,14 @@
     </item>
     
     <item>
+      <title>映像認識理解への認知発達的アプローチ</title>
+      <link>https://akisatok.github.io/publication/content/2009-b/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2009-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MCMC-based particle filterを用いた人間の映像注視行動の実時間推定</title>
       <link>https://akisatok.github.io/publication/2009-a/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
@@ -533,10 +629,34 @@
     </item>
     
     <item>
+      <title>MCMC-based particle filterを用いた人間の映像注視行動の実時間推定</title>
+      <link>https://akisatok.github.io/publication/content/2009-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2009-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCMC-based particle filterを用いた人間の映像注視行動の実時間推定</title>
+      <link>https://akisatok.github.io/publication/content/2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamic Markov random fields for stochastic modeling of visual attention</title>
       <link>https://akisatok.github.io/publication/2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Markov random fields for stochastic modeling of visual attention</title>
+      <link>https://akisatok.github.io/publication/content/2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2008/</guid>
       <description></description>
     </item>
     

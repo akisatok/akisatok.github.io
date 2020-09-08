@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Audio fingerprinting&#34; | Akisato Kimura</title>
+    <title>Audio fingerprinting | Akisato Kimura</title>
     <link>https://akisatok.github.io/tags/audio-fingerprinting/</link>
       <atom:link href="https://akisatok.github.io/tags/audio-fingerprinting/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Audio fingerprinting&#34;</description>
+    <description>Audio fingerprinting</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Feb 2008 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>&#34;Audio fingerprinting&#34;</title>
+      <title>Audio fingerprinting</title>
       <link>https://akisatok.github.io/tags/audio-fingerprinting/</link>
     </image>
+    
+    <item>
+      <title>A Quick Search Method for Audio Signals Based on a Piecewise Linear Representation of Feature Trajectories</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2008-b/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2008-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Quick Search Method for Audio Signals Based on a Piecewise Linear Representation of Feature Trajectories</title>

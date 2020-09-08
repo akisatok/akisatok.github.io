@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>Seeing through Sounds: Predicting Visual Semantic Segmentation Results from Multichannel Audio Signals</title>
+      <link>https://akisatok.github.io/publication/content/8683142/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/8683142/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-media Scene Analysis: Estimating Objects&#39; Visuals Only from Audio</title>
+      <link>https://akisatok.github.io/publication/content/irie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/irie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cross-media Scene Analysis: Estimating Objects&#39; Visuals Only from Audio</title>
       <link>https://akisatok.github.io/publication/irie-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -46,9 +62,25 @@
     
     <item>
       <title>Designing various multivariate analysis at will via generalized pairwise expression</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing various multivariate analysis at will via generalized pairwise expression</title>
       <link>https://akisatok.github.io/publication/kimura-2013-a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/kimura-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013/</guid>
       <description></description>
     </item>
     
@@ -62,9 +94,25 @@
     
     <item>
       <title>Designing various component analysis at will</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing various component analysis at will</title>
       <link>https://akisatok.github.io/publication/kimura-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/kimura-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic audio tag classification via semi-supervised canonical density estimation</title>
+      <link>https://akisatok.github.io/publication/content/takagi-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takagi-2011/</guid>
       <description></description>
     </item>
     
@@ -78,6 +126,14 @@
     
     <item>
       <title>Automatic video annotation via hierarchical topic trajectory model considering cross-modal correlations</title>
+      <link>https://akisatok.github.io/publication/content/nakano-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakano-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic video annotation via hierarchical topic trajectory model considering cross-modal correlations</title>
       <link>https://akisatok.github.io/publication/nakano-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/nakano-2011/</guid>
@@ -86,9 +142,25 @@
     
     <item>
       <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations</title>
       <link>https://akisatok.github.io/publication/kimura-2010/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/kimura-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media Scene Learning: A novel framework for automatically extracting meaningful parts from audio and video signals</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2010-a/</guid>
       <description></description>
     </item>
     

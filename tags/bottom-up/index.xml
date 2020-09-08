@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Bottom-up&#34; | Akisato Kimura</title>
+    <title>Bottom-up | Akisato Kimura</title>
     <link>https://akisatok.github.io/tags/bottom-up/</link>
       <atom:link href="https://akisatok.github.io/tags/bottom-up/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Bottom-up&#34;</description>
+    <description>Bottom-up</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>&#34;Bottom-up&#34;</title>
+      <title>Bottom-up</title>
       <link>https://akisatok.github.io/tags/bottom-up/</link>
     </image>
+    
+    <item>
+      <title>Computational Models of Human Visual Attention and Their Implementations: A Survey</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013-c/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013-c/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computational Models of Human Visual Attention and Their Implementations: A Survey</title>

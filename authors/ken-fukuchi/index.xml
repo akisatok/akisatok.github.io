@@ -14,6 +14,14 @@
     
     <item>
       <title>Single Image Segmentation with Estimated Depth</title>
+      <link>https://akisatok.github.io/publication/content/yonetani-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/yonetani-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Image Segmentation with Estimated Depth</title>
       <link>https://akisatok.github.io/publication/yonetani-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/yonetani-2012/</guid>
@@ -38,6 +46,14 @@
     
     <item>
       <title>Automatic and precise extraction of generic objects using saliency-based priors and contour constraints</title>
+      <link>https://akisatok.github.io/publication/content/sekhon-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/sekhon-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic and precise extraction of generic objects using saliency-based priors and contour constraints</title>
       <link>https://akisatok.github.io/publication/sekhon-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/sekhon-2010/</guid>
@@ -57,6 +73,14 @@
       <link>https://akisatok.github.io/publication/2009-b/</link>
       <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/2009-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saliency-based video segmentation with graph cuts and sequentially updated priors</title>
+      <link>https://akisatok.github.io/publication/content/fukuchi-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/fukuchi-2009/</guid>
       <description></description>
     </item>
     

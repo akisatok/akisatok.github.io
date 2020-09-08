@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;kernel density estimation&#34; | Akisato Kimura</title>
+    <title>kernel density estimation | Akisato Kimura</title>
     <link>https://akisatok.github.io/tags/kernel-density-estimation/</link>
       <atom:link href="https://akisatok.github.io/tags/kernel-density-estimation/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;kernel density estimation&#34;</description>
+    <description>kernel density estimation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>&#34;kernel density estimation&#34;</title>
+      <title>kernel density estimation</title>
       <link>https://akisatok.github.io/tags/kernel-density-estimation/</link>
     </image>
+    
+    <item>
+      <title>Automatic audio tag classification via semi-supervised canonical density estimation</title>
+      <link>https://akisatok.github.io/publication/content/takagi-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takagi-2011/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automatic audio tag classification via semi-supervised canonical density estimation</title>

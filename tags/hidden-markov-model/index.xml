@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;hidden Markov model&#34; | Akisato Kimura</title>
+    <title>Hidden Markov model | Akisato Kimura</title>
     <link>https://akisatok.github.io/tags/hidden-markov-model/</link>
       <atom:link href="https://akisatok.github.io/tags/hidden-markov-model/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;hidden Markov model&#34;</description>
+    <description>Hidden Markov model</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akisatok.github.io/img/icon-192.png</url>
-      <title>&#34;hidden Markov model&#34;</title>
+      <title>Hidden Markov model</title>
       <link>https://akisatok.github.io/tags/hidden-markov-model/</link>
     </image>
+    
+    <item>
+      <title>Automatic video annotation via hierarchical topic trajectory model considering cross-modal correlations</title>
+      <link>https://akisatok.github.io/publication/content/nakano-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakano-2011/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automatic video annotation via hierarchical topic trajectory model considering cross-modal correlations</title>
@@ -22,9 +30,25 @@
     
     <item>
       <title>Semantic indexing and known item search based on a unified model with topic transition representation</title>
+      <link>https://akisatok.github.io/publication/content/nakano-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakano-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic indexing and known item search based on a unified model with topic transition representation</title>
       <link>https://akisatok.github.io/publication/nakano-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://akisatok.github.io/publication/nakano-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A stochastic model of selective visual attention with a dynamic Bayesian network</title>
+      <link>https://akisatok.github.io/publication/content/pang-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/pang-2008/</guid>
       <description></description>
     </item>
     

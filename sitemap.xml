@@ -396,6 +396,11 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/yasuda-2019/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/yasuda-2019/</loc>
     <lastmod>2020-09-05T12:09:11+09:00</lastmod>
   </url>
@@ -454,8 +459,44 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/8683036/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/8683142/</loc>
     <lastmod>2020-09-05T12:09:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/8683142/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/brian-kenji-iwana/</loc>
+    <lastmod>2020-09-05T12:09:14+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/irie-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/irie-2019/</loc>
+    <lastmod>2020-09-05T12:09:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/wu-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/wu-2019/</loc>
+    <lastmod>2020-09-05T12:09:11+09:00</lastmod>
   </url>
   
   <url>
@@ -477,24 +518,37 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/authors/brian-kenji-iwana/</loc>
-    <lastmod>2020-09-05T12:09:14+09:00</lastmod>
+    <loc>https://akisatok.github.io/authors/%E5%BA%B7%E6%99%BA-%E5%A4%A7%E7%9F%B3/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/publication/irie-2019/</loc>
-    <lastmod>2020-09-05T12:09:12+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/wu-2019/</loc>
-    <lastmod>2020-09-05T12:09:11+09:00</lastmod>
+    <loc>https://akisatok.github.io/authors/%E6%98%AD%E6%82%9F-%E6%9C%A8%E6%9D%91/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://akisatok.github.io/publication/2019/</loc>
     <lastmod>2020-09-05T12:09:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%82%A6%E5%A4%AB-%E6%9F%8F%E9%87%8E/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%9A%86%E4%BB%81-%E5%B7%9D%E8%A5%BF/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -509,32 +563,30 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/dynamic-time-warping/</loc>
-    <lastmod>2020-09-05T12:09:14+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/multi-modal-fusion-networks/</loc>
-    <lastmod>2020-09-05T12:09:14+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/time-series-classification/</loc>
-    <lastmod>2020-09-05T12:09:14+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://akisatok.github.io/authors/david-b-adrian/</loc>
     <lastmod>2020-09-05T12:09:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/dynamic-time-warping/</loc>
+    <lastmod>2020-09-05T12:09:14+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-2018/</loc>
     <lastmod>2020-09-05T12:09:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/iwana-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -561,8 +613,20 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/multi-modal-fusion-networks/</loc>
+    <lastmod>2020-09-05T12:09:14+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/takuya-funatomi/</loc>
     <lastmod>2020-09-05T12:09:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/time-series-classification/</loc>
+    <lastmod>2020-09-05T12:09:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -570,6 +634,11 @@
     <loc>https://akisatok.github.io/authors/tomoharu-iwata/</loc>
     <lastmod>2020-09-05T12:09:32+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/mukuta-2018-weakly/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -595,8 +664,54 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2018-b/</loc>
     <lastmod>2020-09-05T12:09:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2018-b/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%BF%AE%E5%8A%9F-%E4%B8%8A%E7%94%B0/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%85%B7%E6%B2%BB-%E5%B2%A9%E7%94%B0/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%8D%93%E5%93%89-%E8%88%A9%E5%86%A8/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%AD%9D-%E7%AB%B9%E5%86%85/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%BC%98%E5%92%8C-%E4%BA%80%E5%B2%A1/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%BA%80-%E5%AE%89%E5%80%8D/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -605,8 +720,30 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2018-c/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%96%AB-%E5%B9%B3%E6%9D%BE/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%B1%AA-%E5%85%A5%E6%B1%9F/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2018-a/</loc>
     <lastmod>2020-09-05T12:09:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2018-a/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -637,32 +774,18 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/supernova/</loc>
-    <lastmod>2020-09-05T12:09:15+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/convolutional-neural-network/</loc>
-    <lastmod>2020-09-05T12:09:15+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/image-classification/</loc>
-    <lastmod>2020-09-05T12:09:15+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/redshift/</loc>
-    <lastmod>2020-09-05T12:09:15+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://akisatok.github.io/publication/content/hirose-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://akisatok.github.io/publication/hirose-2017/</loc>
     <lastmod>2020-09-05T12:09:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/hibino-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -700,13 +823,29 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/prmugc-2017-practical/</loc>
     <lastmod>2020-09-05T12:09:15+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-2017/</loc>
     <lastmod>2020-09-05T12:09:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/supernova/</loc>
+    <lastmod>2020-09-05T12:09:15+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -740,8 +879,61 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/convolutional-neural-network/</loc>
+    <lastmod>2020-09-05T12:09:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/image-classification/</loc>
+    <lastmod>2020-09-05T12:09:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/redshift/</loc>
+    <lastmod>2020-09-05T12:09:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%BF%8A%E5%BD%A6-%E5%B1%B1%E5%B4%8E/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%BA%B7%E4%B9%8B-%E6%9D%BE%E4%B8%8B/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2017-a/</loc>
     <lastmod>2020-09-05T12:09:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2017-a/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E7%AF%A4%E5%BF%97-%E4%B8%AD%E6%BE%A4/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%8B%B1%E4%BD%9C-%E5%89%8D%E7%94%B0/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%AA%A0%E4%B8%80-%E5%86%85%E7%94%B0/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -772,20 +964,8 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/bayesian-nonparametrics/</loc>
-    <lastmod>2020-09-05T12:09:16+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://akisatok.github.io/tags/mapreduce/</loc>
     <lastmod>2020-09-05T12:09:20+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/neo-bi-clusteirng/</loc>
-    <lastmod>2020-09-05T12:09:16+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -798,24 +978,6 @@
   <url>
     <loc>https://akisatok.github.io/tags/sns/</loc>
     <lastmod>2020-09-05T12:09:17+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/bi-clustering/</loc>
-    <lastmod>2020-09-05T12:09:16+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/clustering/</loc>
-    <lastmod>2020-09-05T12:09:29+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/infinite-bi-clustering/</loc>
-    <lastmod>2020-09-05T12:09:16+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -850,6 +1012,12 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/bayesian-nonparametrics/</loc>
+    <lastmod>2020-09-05T12:09:16+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/chihiro-watanabe/</loc>
     <lastmod>2020-09-05T12:09:16+09:00</lastmod>
     <priority>0</priority>
@@ -859,6 +1027,11 @@
     <loc>https://akisatok.github.io/authors/hitoshi-nishikawa/</loc>
     <lastmod>2020-09-05T12:09:20+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/ishiguro-2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -885,6 +1058,11 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/nagayama-2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/nagayama-2016/</loc>
     <lastmod>2020-09-05T12:09:17+09:00</lastmod>
   </url>
@@ -902,6 +1080,12 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/neo-bi-clusteirng/</loc>
+    <lastmod>2020-09-05T12:09:16+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/ryoji-wakayama/</loc>
     <lastmod>2020-09-06T14:03:40+09:00</lastmod>
     <priority>0</priority>
@@ -910,6 +1094,11 @@
   <url>
     <loc>https://akisatok.github.io/publication/2016-c/</loc>
     <lastmod>2020-09-05T12:09:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2016-c/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -925,8 +1114,61 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/bi-clustering/</loc>
+    <lastmod>2020-09-05T12:09:16+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/clustering/</loc>
+    <lastmod>2020-09-05T12:09:29+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/infinite-bi-clustering/</loc>
+    <lastmod>2020-09-05T12:09:16+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%BB%81-%E8%A5%BF%E5%B7%9D/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%85%81%E8%A3%95-%E4%B8%AD%E9%87%8E/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2016-b/</loc>
     <lastmod>2020-09-05T12:09:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2016-b/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%8D%83%E7%B4%98-%E6%B8%A1%E9%82%8A/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%BC%98%E4%BA%98-%E8%97%A4%E5%90%89/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%82%A0%E5%97%A3-%E5%B1%B1%E5%86%85/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -935,13 +1177,64 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2016-d/</loc>
     <lastmod>2020-09-05T12:09:18+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2016-d/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%B6%BC%E8%87%B3-%E8%8B%A5%E5%B1%B1/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E7%A5%A5%E5%AD%9D-%E7%89%9B%E4%B9%85/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E7%B4%97%E5%92%8C-%E8%88%88%E6%A2%A0/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2016-a/</loc>
     <lastmod>2020-09-05T12:09:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2016-a/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%A3%95%E4%B9%8B-%E8%97%A4%E4%BB%A3/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%9A%86%E7%BE%A9-%E5%B1%B1%E4%B8%8B/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%9A%86%E8%8B%B1-%E6%9D%91%E7%94%B0/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -957,9 +1250,8 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/ensemble-learning-methods/</loc>
-    <lastmod>2020-09-05T12:09:20+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://akisatok.github.io/publication/content/wakayama-2015/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -970,6 +1262,12 @@
   <url>
     <loc>https://akisatok.github.io/talk/ibis-2015/</loc>
     <lastmod>2020-09-06T13:59:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/ensemble-learning-methods/</loc>
+    <lastmod>2020-09-05T12:09:20+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -997,6 +1295,11 @@
   <url>
     <loc>https://akisatok.github.io/talk/miru-2015/</loc>
     <lastmod>2020-09-06T13:59:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/fujiki-2015/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1028,60 +1331,6 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/auditory-cues/</loc>
-    <lastmod>2020-09-05T12:09:18+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/bayesian-surprise/</loc>
-    <lastmod>2020-09-05T12:09:18+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/feature-selection/</loc>
-    <lastmod>2020-09-05T12:09:32+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/learning-to-rank/</loc>
-    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/news-headlines/</loc>
-    <lastmod>2020-09-05T12:09:20+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/social-media/</loc>
-    <lastmod>2020-09-05T12:09:32+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/synchronization/</loc>
-    <lastmod>2020-09-05T12:09:18+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/virality/</loc>
-    <lastmod>2020-09-05T12:09:20+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/visual-attention/</loc>
-    <lastmod>2020-09-05T12:09:18+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://akisatok.github.io/publication_types/5/</loc>
     <lastmod>2020-09-05T12:09:25+09:00</lastmod>
     <priority>0</priority>
@@ -1106,6 +1355,24 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/auditory-cues/</loc>
+    <lastmod>2020-09-05T12:09:18+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/bayesian-surprise/</loc>
+    <lastmod>2020-09-05T12:09:18+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/feature-selection/</loc>
+    <lastmod>2020-09-05T12:09:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/fumiko-kudo/</loc>
     <lastmod>2020-09-05T12:09:21+09:00</lastmod>
     <priority>0</priority>
@@ -1115,6 +1382,11 @@
     <loc>https://akisatok.github.io/authors/hiroshi-yamaguchi/</loc>
     <lastmod>2020-09-05T12:09:21+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kourogi-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1147,6 +1419,12 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/learning-to-rank/</loc>
+    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/makoto-yamada/</loc>
     <lastmod>2020-09-06T14:19:31+09:00</lastmod>
     <priority>0</priority>
@@ -1155,6 +1433,12 @@
   <url>
     <loc>https://akisatok.github.io/authors/naoto-ikegai/</loc>
     <lastmod>2020-09-05T12:09:23+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/news-headlines/</loc>
+    <lastmod>2020-09-05T12:09:20+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1177,14 +1461,43 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/social-media/</loc>
+    <lastmod>2020-09-05T12:09:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/synchronization/</loc>
+    <lastmod>2020-09-05T12:09:18+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/terumi-tanaka/</loc>
     <lastmod>2020-09-05T12:09:21+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/virality/</loc>
+    <lastmod>2020-09-05T12:09:20+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/nakajima-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/nakajima-2015/</loc>
     <lastmod>2020-09-05T12:09:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/visual-attention/</loc>
+    <lastmod>2020-09-05T12:09:18+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1211,8 +1524,18 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2015-b/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2015/</loc>
     <lastmod>2020-09-05T12:09:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1221,8 +1544,114 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2015-c/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2015-a/</loc>
     <lastmod>2020-09-05T12:09:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2015-a/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%BA%AE%E4%BB%8B-%E8%A5%BF%E7%94%B0/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%BC%B8-%E5%B0%8F%E7%AC%A0%E5%8E%9F/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%BF%A1%E5%93%89-%E4%B8%80%E6%88%B8/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%84%80%E9%9B%84-%E4%BC%8A%E8%97%A4/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%8B%9D%E5%BD%A6-%E7%9F%B3%E9%BB%92/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%92%8C%E5%BD%A6-%E6%9D%91%E5%B4%8E/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%95%93%E5%80%AB-%E5%B0%8F%E6%9E%97/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%82%A0%E7%B4%80-%E4%BA%94%E5%8D%81%E5%B5%90/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%9C%89%E8%A3%95-%E6%96%B0%E5%BF%97/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%B5%A9-%E5%B1%B1%E5%8F%A3/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%B7%B3-%E6%9D%BE%E6%9C%AC/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E7%9B%B4%E4%BA%BA-%E7%94%9F%E8%B2%9D/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%AA%A0-%E5%B1%B1%E7%94%B0/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%BC%9D%E7%BE%8E-%E7%94%B0%E4%B8%AD/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%83%81%E5%AD%90-%E5%B7%A5%E8%97%A4/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%A6%99%E7%B9%94-%E7%89%87%E5%B2%A1/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1256,44 +1685,13 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/content-curation/</loc>
-    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/cross-media-analysis/</loc>
-    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/cross-media-mining/</loc>
-    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/human-computation/</loc>
-    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/microblogging/</loc>
-    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/social-curation/</loc>
-    <lastmod>2020-09-05T12:09:35+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://akisatok.github.io/publication/2014-b/</loc>
     <lastmod>2020-09-05T12:09:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2014-b/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1309,8 +1707,31 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/content-curation/</loc>
+    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/ieice-trans-autotogetter/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/ieice-trans-autotogetter/</loc>
     <lastmod>2020-09-05T12:09:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/cross-media-analysis/</loc>
+    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/cross-media-mining/</loc>
+    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1350,6 +1771,12 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/human-computation/</loc>
+    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/ichiro-takeuchi/</loc>
     <lastmod>2020-09-05T12:09:25+09:00</lastmod>
     <priority>0</priority>
@@ -1362,6 +1789,11 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2014-pii/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-2014-pii/</loc>
     <lastmod>2020-09-05T12:09:24+09:00</lastmod>
   </url>
@@ -1370,6 +1802,17 @@
     <loc>https://akisatok.github.io/authors/masayuki-karasuyama/</loc>
     <lastmod>2020-09-05T12:09:25+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/microblogging/</loc>
+    <lastmod>2020-09-05T12:09:24+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/nakano-2014/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1398,6 +1841,12 @@
   <url>
     <loc>https://akisatok.github.io/authors/shuhei-tarashima/</loc>
     <lastmod>2020-09-05T12:09:23+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/social-curation/</loc>
+    <lastmod>2020-09-05T12:09:35+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1479,8 +1928,30 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2014-c/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2014/</loc>
     <lastmod>2020-09-05T12:09:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2014/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%B8%80%E9%83%8E-%E7%AB%B9%E5%86%85/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%BA%AE%E5%A4%AA-%E5%86%A8%E5%B2%A1/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1489,8 +1960,132 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2014-g/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%89%9B-%E4%BA%95%E6%89%8B/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%8E%9A%E7%AF%84-%E5%85%BC%E6%9D%91/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%90%89%E4%BC%B8-%E6%B2%B3%E5%8E%9F/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%91%A8%E5%B9%B3-%E7%94%B0%E8%89%AF%E5%B3%B6/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%96%84%E4%B9%85-%E4%BA%95%E5%B0%BB/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%98%89%E5%85%B8-%E5%B0%8F%E8%A5%BF/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%A4%A7%E5%9C%B0-%E6%8C%81%E6%A9%8B/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%A4%A7%E6%85%88-%E9%88%B4%E6%9C%A8/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%A4%A7%E8%BC%94-%E5%87%BA%E5%8F%A3/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%AE%8F-%E6%BE%A4%E7%94%B0/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%AF%9B%E5%B9%B8-%E9%AB%98%E6%A9%8B/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%BC%BE-%E4%B8%89%E4%B8%8A/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%BE%B9-%E7%8E%89%E6%9C%A8/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%95%AC%E6%96%87-%E9%87%91%E6%A3%AE/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%96%89-%E6%B3%A2%E9%83%A8/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%96%B0%E4%B8%80-%E5%89%8D%E7%94%B0/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%98%8C%E5%B9%B8-%E7%83%8F%E5%B1%B1/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%99%BA%E5%BC%A5-%E9%85%92%E4%BA%95/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%AD%A6%E5%A3%AB-%E5%B1%B1%E7%94%B0/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2014-a/</loc>
     <lastmod>2020-09-05T12:09:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2014-a/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1499,8 +2094,30 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2014-h/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E7%AB%9C-%E7%B1%B3%E8%B0%B7/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2014-e/</loc>
     <lastmod>2020-09-05T12:09:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2014-e/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%89%AF%E5%BD%A6-%E6%95%B0%E5%8E%9F/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1509,8 +2126,40 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2014-f/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%81%94%E5%BD%A6-%E6%A8%AA%E5%B1%B1/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2014-d/</loc>
     <lastmod>2020-09-05T12:09:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2014-d/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%AB%98%E5%97%A3-%E5%B9%B3%E5%B1%B1/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/takeuchi-2013-a/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/takeuchi-2013-a/</loc>
+    <lastmod>2020-09-05T12:09:31+09:00</lastmod>
   </url>
   
   <url>
@@ -1523,11 +2172,6 @@
     <loc>https://akisatok.github.io/tags/spatio-temporal-pattern/</loc>
     <lastmod>2020-09-05T12:09:31+09:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/takeuchi-2013-a/</loc>
-    <lastmod>2020-09-05T12:09:31+09:00</lastmod>
   </url>
   
   <url>
@@ -1605,6 +2249,11 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2013/</loc>
+    <lastmod>2013-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/talk/miru-2013-alejandro/</loc>
     <lastmod>2020-09-06T14:19:31+09:00</lastmod>
   </url>
@@ -1652,6 +2301,12 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/authors/a.m.-alvarez/</loc>
+    <lastmod>2020-09-05T12:09:30+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/tags/affinity-propagation/</loc>
     <lastmod>2020-09-05T12:09:29+09:00</lastmod>
     <priority>0</priority>
@@ -1682,9 +2337,39 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/yamada-2013/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/yamada-2013/</loc>
+    <lastmod>2020-09-05T12:09:32+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/tags/classification/</loc>
     <lastmod>2020-09-05T12:09:30+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/marcos-alvarez-2013/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/marcos-alvarez-2013/</loc>
+    <lastmod>2020-09-05T12:09:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2013-c/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/kimura-2013-c/</loc>
+    <lastmod>2020-09-05T12:09:31+09:00</lastmod>
   </url>
   
   <url>
@@ -1700,8 +2385,34 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2013-a/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/kimura-2013-a/</loc>
+    <lastmod>2020-09-05T12:09:29+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/tags/dimensionality-reduction/</loc>
     <lastmod>2020-09-05T12:09:30+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/marcos-alvarez-2013-a/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/marcos-alvarez-2013-a/</loc>
+    <lastmod>2020-09-05T12:09:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/futoshi-naya/</loc>
+    <lastmod>2020-09-05T12:09:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1736,8 +2447,24 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2013-b/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/kimura-2013-b/</loc>
+    <lastmod>2020-09-05T12:09:30+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/tags/kernel-method/</loc>
     <lastmod>2020-09-05T12:09:29+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/masashi-sugiyama/</loc>
+    <lastmod>2020-09-05T12:09:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1766,6 +2493,16 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/takeuchi-2013/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/takeuchi-2013/</loc>
+    <lastmod>2020-09-05T12:09:27+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/tags/pairwise-expression/</loc>
     <lastmod>2020-09-05T12:09:29+09:00</lastmod>
     <priority>0</priority>
@@ -1784,6 +2521,16 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/2013-a/</loc>
+    <lastmod>2020-09-05T12:09:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2013-a/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/tags/saliency/</loc>
     <lastmod>2020-09-05T12:09:47+09:00</lastmod>
     <priority>0</priority>
@@ -1796,8 +2543,24 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2013/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/kimura-2013/</loc>
+    <lastmod>2020-09-05T12:09:28+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/tags/social-curration/</loc>
     <lastmod>2020-09-05T12:09:27+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/takuho-nakano/</loc>
+    <lastmod>2020-09-05T12:09:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1814,71 +2577,14 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/authors/a.m.-alvarez/</loc>
-    <lastmod>2020-09-05T12:09:30+09:00</lastmod>
+    <loc>https://akisatok.github.io/authors/%E6%81%AD%E5%AD%90-%E6%95%B0%E8%97%A4/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/publication/yamada-2013/</loc>
-    <lastmod>2020-09-05T12:09:32+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/marcos-alvarez-2013/</loc>
-    <lastmod>2020-09-05T12:09:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/kimura-2013-c/</loc>
-    <lastmod>2020-09-05T12:09:31+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/kimura-2013-a/</loc>
-    <lastmod>2020-09-05T12:09:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/marcos-alvarez-2013-a/</loc>
-    <lastmod>2020-09-05T12:09:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/authors/futoshi-naya/</loc>
-    <lastmod>2020-09-05T12:09:32+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/kimura-2013-b/</loc>
-    <lastmod>2020-09-05T12:09:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/authors/masashi-sugiyama/</loc>
-    <lastmod>2020-09-05T12:09:40+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/takeuchi-2013/</loc>
-    <lastmod>2020-09-05T12:09:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/2013-a/</loc>
-    <lastmod>2020-09-05T12:09:28+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/kimura-2013/</loc>
-    <lastmod>2020-09-05T12:09:28+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/authors/takuho-nakano/</loc>
-    <lastmod>2020-09-05T12:09:40+09:00</lastmod>
+    <loc>https://akisatok.github.io/authors/%E8%A1%8C%E4%BF%A1-%E8%B0%B7%E5%8F%A3/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1910,21 +2616,14 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/regression/</loc>
-    <lastmod>2020-09-05T12:09:35+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/curation/</loc>
-    <lastmod>2020-09-05T12:09:32+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://akisatok.github.io/authors/ching-man-au-yeung/</loc>
     <lastmod>2020-09-05T12:09:32+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/duh-2012/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1933,8 +2632,18 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2012/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-2012/</loc>
     <lastmod>2020-09-05T12:09:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/sakano-2012/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1949,6 +2658,17 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/regression/</loc>
+    <lastmod>2020-09-05T12:09:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/yonetani-2012/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/yonetani-2012/</loc>
     <lastmod>2020-09-05T12:09:35+09:00</lastmod>
   </url>
@@ -1956,6 +2676,16 @@
   <url>
     <loc>https://akisatok.github.io/publication/2012/</loc>
     <lastmod>2020-09-05T12:09:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2012/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/ishiguro-2012/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1969,8 +2699,36 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2012-a/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/curation/</loc>
+    <lastmod>2020-09-05T12:09:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2012-b/</loc>
     <lastmod>2020-09-05T12:09:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2012-b/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%B3%A2-%E7%A6%8F%E5%9C%B0/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%8B%AD-%E5%9D%82%E9%87%8E/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2042,38 +2800,18 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/video-annotation/</loc>
-    <lastmod>2020-09-05T12:09:38+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/generative-approach/</loc>
-    <lastmod>2020-09-05T12:09:40+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/hidden-markov-model/</loc>
-    <lastmod>2020-09-05T12:09:47+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/kernel-density-estimation/</loc>
-    <lastmod>2020-09-05T12:09:37+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/topic-model/</loc>
-    <lastmod>2020-09-05T12:09:42+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://akisatok.github.io/publication/content/takagi-2011/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://akisatok.github.io/publication/takagi-2011/</loc>
     <lastmod>2020-09-05T12:09:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/nakano-2011/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2094,6 +2832,23 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/generative-approach/</loc>
+    <lastmod>2020-09-05T12:09:40+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/hidden-markov-model/</loc>
+    <lastmod>2020-09-05T12:09:47+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/watchareeruetai-2011/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/watchareeruetai-2011/</loc>
     <lastmod>2020-09-05T12:09:38+09:00</lastmod>
   </url>
@@ -2102,6 +2857,11 @@
     <loc>https://akisatok.github.io/authors/jun-takagi/</loc>
     <lastmod>2020-09-05T12:09:39+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kawanishi-2011-ntt/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2134,6 +2894,11 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/sun-2011-trecvid/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/sun-2011-trecvid/</loc>
     <lastmod>2020-09-05T12:09:36+09:00</lastmod>
   </url>
@@ -2151,7 +2916,19 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/topic-model/</loc>
+    <lastmod>2020-09-05T12:09:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/ukrit-watchareeruetai/</loc>
+    <lastmod>2020-09-05T12:09:38+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/video-annotation/</loc>
     <lastmod>2020-09-05T12:09:38+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2163,8 +2940,24 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/kernel-density-estimation/</loc>
+    <lastmod>2020-09-05T12:09:37+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2011/</loc>
     <lastmod>2020-09-05T12:09:36+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2011/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2010/</loc>
+    <lastmod>2010-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2185,43 +2978,24 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kuzuoka-2010/</loc>
+    <lastmod>2010-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kuzuoka-2010/</loc>
     <lastmod>2020-09-05T12:09:43+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/known-item-search/</loc>
-    <lastmod>2020-09-05T12:09:40+09:00</lastmod>
+    <loc>https://akisatok.github.io/authors/%E5%89%8D%E7%94%B0/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/semantic-indexing/</loc>
-    <lastmod>2020-09-05T12:09:40+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/action-planning/</loc>
-    <lastmod>2020-09-05T12:09:42+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/human-computer-interaction/</loc>
-    <lastmod>2020-09-05T12:09:42+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/knowledge-confidence/</loc>
-    <lastmod>2020-09-05T12:09:42+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2020-09-05T12:09:42+09:00</lastmod>
+    <loc>https://akisatok.github.io/authors/%E6%9D%89%E5%B1%B1%E5%BC%98%E6%99%83/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2310,6 +3084,11 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/sekhon-2010/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/sekhon-2010/</loc>
     <lastmod>2020-09-05T12:09:41+09:00</lastmod>
   </url>
@@ -2351,9 +3130,20 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/known-item-search/</loc>
+    <lastmod>2020-09-05T12:09:40+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/koji-miyazato/</loc>
     <lastmod>2020-09-05T12:09:44+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2010-a/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2374,8 +3164,24 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/sscde-2010/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/sscde-2010/</loc>
     <lastmod>2020-09-05T12:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/semantic-indexing/</loc>
+    <lastmod>2020-09-05T12:09:40+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/nakano-2010/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2402,8 +3208,55 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/action-planning/</loc>
+    <lastmod>2020-09-05T12:09:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/human-computer-interaction/</loc>
+    <lastmod>2020-09-05T12:09:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/knowledge-confidence/</loc>
+    <lastmod>2020-09-05T12:09:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2020-09-05T12:09:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2010-c/</loc>
     <lastmod>2020-09-05T12:09:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2010-c/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%B8%80%E9%A6%AC-%E8%B5%A4%E5%B6%BA/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%B8%AD%E9%87%8E-%E6%8B%93%E5%B8%86/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E4%BA%80%E5%B2%A1-%E5%BC%98%E5%92%8C/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2412,8 +3265,24 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2010/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/sekhon-2010-a/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/sekhon-2010-a/</loc>
     <lastmod>2020-09-05T12:09:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%89%8D%E7%94%B0-%E8%8B%B1%E4%BD%9C/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2422,13 +3291,88 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2010-a/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%9D%82%E9%87%8E-%E9%8B%AD/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2010-d/</loc>
     <lastmod>2020-09-05T12:09:42+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2010-d/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%B0%86-%E6%9D%89%E5%B1%B1/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%9C%A8%E6%9D%91-%E6%98%AD%E6%82%9F/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%9D%89%E5%B1%B1-%E5%B0%86/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%B3%B0%E6%B5%A9-%E5%8D%97/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%B4%B8%E5%8F%B8-%E5%AE%AE%E9%87%8C/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%B7%B3%E5%8F%B8-%E5%A4%A7%E5%92%8C/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%BD%A4-%E9%AB%98%E6%9C%A8/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%8C%82-%E9%AB%98%E6%9C%A8/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2010-b/</loc>
     <lastmod>2020-09-05T12:09:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2010-b/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%AB%98%E6%9C%A8%E8%8C%82/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2461,9 +3405,40 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2009-b/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/tags/cite/</loc>
     <lastmod>2020-09-05T12:09:47+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/kouji-miyazato/</loc>
+    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/miyazato-2009/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/miyazato-2009/</loc>
+    <lastmod>2020-09-05T12:09:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/fukuchi-2009/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/fukuchi-2009/</loc>
+    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
   </url>
   
   <url>
@@ -2475,64 +3450,6 @@
   <url>
     <loc>https://akisatok.github.io/tags/segmentation/</loc>
     <lastmod>2020-09-05T12:09:45+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/authors/kouji-miyazato/</loc>
-    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/miyazato-2009/</loc>
-    <lastmod>2020-09-05T12:09:43+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/publication/fukuchi-2009/</loc>
-    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/complementary-delivery/</loc>
-    <lastmod>2020-09-05T12:09:48+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/correlated-sources/</loc>
-    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/lossless-coding/</loc>
-    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/methods-of-types/</loc>
-    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/multiterminal-source-coding/</loc>
-    <lastmod>2020-09-05T12:09:48+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/network-source-coding/</loc>
-    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/tags/universal-coding/</loc>
-    <lastmod>2020-09-05T12:09:48+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2561,6 +3478,24 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/complementary-delivery/</loc>
+    <lastmod>2020-09-05T12:09:48+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/correlated-sources/</loc>
+    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/lossless-coding/</loc>
+    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2009-a/</loc>
     <lastmod>2020-09-05T12:09:44+09:00</lastmod>
   </url>
@@ -2571,9 +3506,48 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2009-a/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2009/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/methods-of-types/</loc>
+    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/multiterminal-source-coding/</loc>
+    <lastmod>2020-09-05T12:09:48+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/network-source-coding/</loc>
+    <lastmod>2020-09-05T12:09:45+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/shun-watanabe/</loc>
     <lastmod>2020-09-05T12:09:45+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/universal-coding/</loc>
+    <lastmod>2020-09-05T12:09:48+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2009/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2582,9 +3556,20 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/authors/%E6%9F%8F%E9%87%8E-%E9%82%A6%E5%A4%AB/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/authors/derek-pang/</loc>
     <lastmod>2020-09-05T12:09:47+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2008/</loc>
+    <lastmod>2008-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2647,6 +3632,16 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kuzuoka-2008/</loc>
+    <lastmod>2008-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/kuzuoka-2008/</loc>
+    <lastmod>2020-09-05T12:09:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/tags/wyner-ziv-codes/</loc>
     <lastmod>2020-09-05T12:09:47+09:00</lastmod>
     <priority>0</priority>
@@ -2689,7 +3684,12 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/publication/kuzuoka-2008/</loc>
+    <loc>https://akisatok.github.io/publication/content/pang-2008/</loc>
+    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/pang-2008/</loc>
     <lastmod>2020-09-05T12:09:47+09:00</lastmod>
   </url>
   
@@ -2820,8 +3820,13 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/publication/pang-2008/</loc>
-    <lastmod>2020-09-05T12:09:47+09:00</lastmod>
+    <loc>https://akisatok.github.io/publication/content/kimura-2008-b/</loc>
+    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/kimura-2008-b/</loc>
+    <lastmod>2020-09-05T12:09:48+09:00</lastmod>
   </url>
   
   <url>
@@ -2855,19 +3860,14 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/piecewise-linear-representation/</loc>
-    <lastmod>2020-09-05T12:09:48+09:00</lastmod>
+    <loc>https://akisatok.github.io/authors/hiroshi-murase/</loc>
+    <lastmod>2020-09-05T12:09:59+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/publication/kimura-2008-b/</loc>
+    <loc>https://akisatok.github.io/tags/piecewise-linear-representation/</loc>
     <lastmod>2020-09-05T12:09:48+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/authors/hiroshi-murase/</loc>
-    <lastmod>2020-09-05T12:09:59+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2883,13 +3883,34 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2008/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2008-multiterminal/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-2008-multiterminal/</loc>
     <lastmod>2020-09-05T12:09:46+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2008-a/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-2008-a/</loc>
     <lastmod>2020-09-05T12:09:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%BE%8D%E4%BA%BA-%E7%AB%B9%E5%86%85/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2905,8 +3926,18 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2007/</loc>
+    <lastmod>2007-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-2007/</loc>
     <lastmod>2020-09-05T12:09:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/leung-2007/</loc>
+    <lastmod>2007-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2917,6 +3948,12 @@
   <url>
     <loc>https://akisatok.github.io/authors/clement-leung/</loc>
     <lastmod>2020-09-05T12:09:48+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/hidehisa-nagano/</loc>
+    <lastmod>2020-09-05T12:09:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2939,20 +3976,19 @@
   </url>
   
   <url>
-    <loc>https://akisatok.github.io/tags/search-methods/</loc>
-    <lastmod>2020-09-05T12:09:49+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akisatok.github.io/authors/hidehisa-nagano/</loc>
-    <lastmod>2020-09-05T12:09:49+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://akisatok.github.io/publication/content/kashino-2007/</loc>
+    <lastmod>2007-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://akisatok.github.io/publication/kashino-2007/</loc>
     <lastmod>2020-09-05T12:09:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/search-methods/</loc>
+    <lastmod>2020-09-05T12:09:49+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2974,14 +4010,78 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/authors/%E5%92%8C%E5%BC%98-%E5%A4%A7%E5%A1%9A/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E7%9F%A5%E7%AF%84-%E6%B3%89%E8%B0%B7/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E7%A7%80%E5%B0%9A-%E6%B0%B8%E9%87%8E/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%89%AF-%E5%90%91%E4%BA%95/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%9A%86%E8%A1%8C-%E9%BB%92%E4%BD%8F/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2007/</loc>
     <lastmod>2020-09-05T12:09:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2007/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%9C%A8%E6%9D%91%E6%98%AD%E6%82%9F/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%9F%8F%E9%87%8E%E9%82%A6%E5%A4%AB/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%B0%B8%E9%87%8E%E7%A7%80%E5%B0%9A/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E9%BB%92%E4%BD%8F%E9%9A%86%E8%A1%8C/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://akisatok.github.io/authors/hidahisa-nagano/</loc>
     <lastmod>2020-09-05T12:09:50+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2006-information/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2993,6 +4093,11 @@
     <loc>https://akisatok.github.io/authors/jun-suzuki/</loc>
     <lastmod>2020-09-05T12:09:51+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2006/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3018,8 +4123,36 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2006-a/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2006/</loc>
     <lastmod>2020-09-05T12:09:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2006/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%BD%A4-%E9%88%B4%E6%9C%A8/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E7%B9%81%E5%A4%AB-%E6%9D%BE%E5%8E%9F/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E8%8C%82%E4%BA%BA-%E5%8F%A4%E5%B7%9D/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3094,6 +4227,16 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2005-b/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kawanishi-2005/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kawanishi-2005/</loc>
     <lastmod>2020-09-05T12:09:51+09:00</lastmod>
   </url>
@@ -3104,8 +4247,29 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2005/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E5%92%8C%E6%A8%B9-%E4%B9%85%E9%87%8E/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/2005-a/</loc>
     <lastmod>2020-09-05T12:09:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2005-a/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kashino-2004/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3114,13 +4278,28 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2004-a/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-2004-a/</loc>
     <lastmod>2020-09-05T12:09:54+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2004/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-2004/</loc>
     <lastmod>2020-09-05T12:09:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2003/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3131,6 +4310,22 @@
   <url>
     <loc>https://akisatok.github.io/publication/2003/</loc>
     <lastmod>2020-09-05T12:09:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/2003/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/authors/%E6%B4%8B-%E6%9D%91%E7%80%AC/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2002/</loc>
+    <lastmod>2002-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3174,8 +4369,52 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/publication/content/2002/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/admissible-rate-region/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/average-length-of-codewords/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/linked-encoders/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/tags/mixed-source/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2001/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-2001/</loc>
     <lastmod>2020-09-05T12:09:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2001-a/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-2001-b/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3184,8 +4423,24 @@
   </url>
   
   <url>
+    <loc>https://akisatok.github.io/tags/weak-variable-length-code/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/kimura-1999/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://akisatok.github.io/publication/kimura-1999/</loc>
     <lastmod>2020-09-05T12:10:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akisatok.github.io/publication/content/takai-1998-cmos/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
