@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decision trees | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/decision-trees/</link>
+      <atom:link href="https://akisatok.github.io/tags/decision-trees/index.xml" rel="self" type="application/rss+xml" />
+    <description>Decision trees</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Decision trees</title>
+      <link>https://akisatok.github.io/tags/decision-trees/</link>
+    </image>
+    
+    <item>
+      <title>Distributed forests for MapReduce-based machine learning</title>
+      <link>https://akisatok.github.io/publication/content/wakayama-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/wakayama-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed forests for MapReduce-based machine learning</title>
+      <link>https://akisatok.github.io/publication/wakayama-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/wakayama-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

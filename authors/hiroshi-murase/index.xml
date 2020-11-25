@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroshi Murase | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/hiroshi-murase/</link>
+      <atom:link href="https://akisatok.github.io/authors/hiroshi-murase/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroshi Murase</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Hiroshi Murase</title>
+      <link>https://akisatok.github.io/authors/hiroshi-murase/</link>
+    </image>
+    
+    <item>
+      <title>A Quick Search Method for Audio Signals Based on a Piecewise Linear Representation of Feature Trajectories</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2008-b/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Quick Search Method for Audio Signals Based on a Piecewise Linear Representation of Feature Trajectories</title>
+      <link>https://akisatok.github.io/publication/kimura-2008-b/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic-segmentation-based feature dimension reduction for quick audio/video searching</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic-segmentation-based feature dimension reduction for quick audio/video searching</title>
+      <link>https://akisatok.github.io/publication/kimura-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グローバルな枝刈りを導入した音や映像の高速探索</title>
+      <link>https://akisatok.github.io/publication/2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quick search method for multimedia signals using feature compression based on piecewise linear maps</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2002/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quick search method for multimedia signals using feature compression based on piecewise linear maps</title>
+      <link>https://akisatok.github.io/publication/kimura-2002/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グローバルな枝刈りを導入した音や映像の高速探索</title>
+      <link>https://akisatok.github.io/publication/2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Very quick audio searching: introducing global pruning to the Time-Series Active Search</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Very quick audio searching: introducing global pruning to the Time-Series Active Search</title>
+      <link>https://akisatok.github.io/publication/kimura-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

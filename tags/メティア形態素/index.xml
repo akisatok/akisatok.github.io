@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;メディア形態素&#34; | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/%E3%83%A1%E3%83%86%E3%82%A3%E3%82%A2%E5%BD%A2%E6%85%8B%E7%B4%A0/</link>
+      <atom:link href="https://akisatok.github.io/tags/%E3%83%A1%E3%83%86%E3%82%A3%E3%82%A2%E5%BD%A2%E6%85%8B%E7%B4%A0/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;メディア形態素&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>&#34;メディア形態素&#34;</title>
+      <link>https://akisatok.github.io/tags/%E3%83%A1%E3%83%86%E3%82%A3%E3%82%A2%E5%BD%A2%E6%85%8B%E7%B4%A0/</link>
+    </image>
+    
+    <item>
+      <title>音や映像から「部品」を取り出すメディアシーン学習技術</title>
+      <link>https://akisatok.github.io/publication/2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音や映像から「部品」を取り出すメディアシーン学習技術</title>
+      <link>https://akisatok.github.io/publication/content/2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2010-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

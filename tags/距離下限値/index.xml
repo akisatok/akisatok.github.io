@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;距離下限値&#34; | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/%E8%B7%9D%E9%9B%A2%E4%B8%8B%E9%99%90%E5%80%A4/</link>
+      <atom:link href="https://akisatok.github.io/tags/%E8%B7%9D%E9%9B%A2%E4%B8%8B%E9%99%90%E5%80%A4/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;距離下限値&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>&#34;距離下限値&#34;</title>
+      <link>https://akisatok.github.io/tags/%E8%B7%9D%E9%9B%A2%E4%B8%8B%E9%99%90%E5%80%A4/</link>
+    </image>
+    
+    <item>
+      <title>サブテンプレート間距離を用いた適応的ウィンドウスキップによる高速テンプレートマッチング法</title>
+      <link>https://akisatok.github.io/publication/2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>サブテンプレート間距離を用いた適応的ウィンドウスキップによる高速テンプレートマッチング法</title>
+      <link>https://akisatok.github.io/publication/content/2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiro Nakajima | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/jiro-nakajima/</link>
+      <atom:link href="https://akisatok.github.io/authors/jiro-nakajima/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiro Nakajima</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Jiro Nakajima</title>
+      <link>https://akisatok.github.io/authors/jiro-nakajima/</link>
+    </image>
+    
+    <item>
+      <title>Visual Attention Driven by Auditory Cues</title>
+      <link>https://akisatok.github.io/publication/content/nakajima-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nakajima-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Attention Driven by Auditory Cues</title>
+      <link>https://akisatok.github.io/publication/nakajima-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/nakajima-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音響信号との同期を手がかりとする視覚的顕著性の計算モデル</title>
+      <link>https://akisatok.github.io/talk/miru-2014-nakajima/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2014-nakajima/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

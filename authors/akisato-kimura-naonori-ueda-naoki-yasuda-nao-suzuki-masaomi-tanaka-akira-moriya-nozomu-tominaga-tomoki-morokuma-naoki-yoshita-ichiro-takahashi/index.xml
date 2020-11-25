@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akisato Kimura, Naonori Ueda, Naoki Yasuda, Nao Suzuki, Masaomi Tanaka, Akira Moriya, Nozomu Tominaga, Tomoki Morokuma, Naoki Yoshita Ichiro Takahashi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/akisato-kimura-naonori-ueda-naoki-yasuda-nao-suzuki-masaomi-tanaka-akira-moriya-nozomu-tominaga-tomoki-morokuma-naoki-yoshita-ichiro-takahashi/</link>
+      <atom:link href="https://akisatok.github.io/authors/akisato-kimura-naonori-ueda-naoki-yasuda-nao-suzuki-masaomi-tanaka-akira-moriya-nozomu-tominaga-tomoki-morokuma-naoki-yoshita-ichiro-takahashi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Akisato Kimura, Naonori Ueda, Naoki Yasuda, Nao Suzuki, Masaomi Tanaka, Akira Moriya, Nozomu Tominaga, Tomoki Morokuma, Naoki Yoshita Ichiro Takahashi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Akisato Kimura, Naonori Ueda, Naoki Yasuda, Nao Suzuki, Masaomi Tanaka, Akira Moriya, Nozomu Tominaga, Tomoki Morokuma, Naoki Yoshita Ichiro Takahashi</title>
+      <link>https://akisatok.github.io/authors/akisato-kimura-naonori-ueda-naoki-yasuda-nao-suzuki-masaomi-tanaka-akira-moriya-nozomu-tominaga-tomoki-morokuma-naoki-yoshita-ichiro-takahashi/</link>
+    </image>
+    
+    <item>
+      <title>すばるHSCデータを使用した機械学習による超新星タイプ分類</title>
+      <link>https://akisatok.github.io/talk/asj-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/asj-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

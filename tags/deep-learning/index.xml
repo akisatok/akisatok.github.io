@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/deep-learning/</link>
+      <atom:link href="https://akisatok.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>deep learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>deep learning</title>
+      <link>https://akisatok.github.io/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Cross-media Scene Analysis: Estimating Objects&#39; Visuals Only from Audio</title>
+      <link>https://akisatok.github.io/publication/content/irie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/irie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-media Scene Analysis: Estimating Objects&#39; Visuals Only from Audio</title>
+      <link>https://akisatok.github.io/publication/irie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/irie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Epoch Supernova Classification with Deep Convolutional Neural Networks</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Epoch Supernova Classification with Deep Convolutional Neural Networks</title>
+      <link>https://akisatok.github.io/publication/kimura-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>高嗣 平山 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E9%AB%98%E5%97%A3-%E5%B9%B3%E5%B1%B1/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E9%AB%98%E5%97%A3-%E5%B9%B3%E5%B1%B1/index.xml" rel="self" type="application/rss+xml" />
+    <description>高嗣 平山</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>高嗣 平山</title>
+      <link>https://akisatok.github.io/authors/%E9%AB%98%E5%97%A3-%E5%B9%B3%E5%B1%B1/</link>
+    </image>
+    
+    <item>
+      <title>人間の視覚的注意の計算モデル - 人の視聴覚情報処理とパターン認識・メディア理解との接点</title>
+      <link>https://akisatok.github.io/publication/content/2014-g/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[サーベイ発表] 人間の視覚的注意の計算モデル</title>
+      <link>https://akisatok.github.io/publication/content/2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2012-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>満 安倍 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E6%BA%80-%E5%AE%89%E5%80%8D/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E6%BA%80-%E5%AE%89%E5%80%8D/index.xml" rel="self" type="application/rss+xml" />
+    <description>満 安倍</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>満 安倍</title>
+      <link>https://akisatok.github.io/authors/%E6%BA%80-%E5%AE%89%E5%80%8D/</link>
+    </image>
+    
+    <item>
+      <title>パターン認識・メディア理解の基礎技術に関する Open Idea</title>
+      <link>https://akisatok.github.io/publication/content/2018-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRMU 応用研究におけるオープンアイデア: PRMU 第二期グランドチャレンジ</title>
+      <link>https://akisatok.github.io/publication/content/2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

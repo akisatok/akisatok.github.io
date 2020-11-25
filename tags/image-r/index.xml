@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;image r&#34; | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/image-r/</link>
+      <atom:link href="https://akisatok.github.io/tags/image-r/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;image r&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>&#34;image r&#34;</title>
+      <link>https://akisatok.github.io/tags/image-r/</link>
+    </image>
+    
+    <item>
+      <title>Prewarping Siamese Network: Learning Local Representations for Online Signature Verification</title>
+      <link>https://akisatok.github.io/publication/8683036/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/8683036/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prewarping Siamese Network: Learning Local Representations for Online Signature Verification</title>
+      <link>https://akisatok.github.io/publication/content/8683036/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/8683036/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoubin Ghahramani | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/zoubin-ghahramani/</link>
+      <atom:link href="https://akisatok.github.io/authors/zoubin-ghahramani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zoubin Ghahramani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Zoubin Ghahramani</title>
+      <link>https://akisatok.github.io/authors/zoubin-ghahramani/</link>
+    </image>
+    
+    <item>
+      <title>Few-shot learning of neural networks from scratch by pseudo example optimization</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-shot learning of neural networks from scratch by pseudo example optimization</title>
+      <link>https://akisatok.github.io/publication/kimura-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly supervised collective feature learning from curated media</title>
+      <link>https://akisatok.github.io/publication/content/mukuta-2018-weakly/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/mukuta-2018-weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly supervised collective feature learning from curated media</title>
+      <link>https://akisatok.github.io/publication/mukuta-2018-weakly/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/mukuta-2018-weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>疑似学習サンプル最適化によるニューラルネットワークの少数ショット学習</title>
+      <link>https://akisatok.github.io/publication/2018-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>疑似学習サンプル最適化によるニューラルネットワークの少数ショット学習</title>
+      <link>https://akisatok.github.io/publication/content/2018-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2018-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

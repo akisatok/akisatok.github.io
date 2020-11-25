@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>徹 玉木 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E5%BE%B9-%E7%8E%89%E6%9C%A8/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E5%BE%B9-%E7%8E%89%E6%9C%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>徹 玉木</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>徹 玉木</title>
+      <link>https://akisatok.github.io/authors/%E5%BE%B9-%E7%8E%89%E6%9C%A8/</link>
+    </image>
+    
+    <item>
+      <title>統計的学習の基礎</title>
+      <link>https://akisatok.github.io/publication/content/2014-e/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

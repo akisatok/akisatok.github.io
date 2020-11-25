@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kota Nagayama | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/kota-nagayama/</link>
+      <atom:link href="https://akisatok.github.io/authors/kota-nagayama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kota Nagayama</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Kota Nagayama</title>
+      <link>https://akisatok.github.io/authors/kota-nagayama/</link>
+    </image>
+    
+    <item>
+      <title>Make it go viral - Generating attractive headlines for distributing news articles on social media</title>
+      <link>https://akisatok.github.io/publication/content/nagayama-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/nagayama-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make it go viral - Generating attractive headlines for distributing news articles on social media</title>
+      <link>https://akisatok.github.io/publication/nagayama-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/nagayama-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

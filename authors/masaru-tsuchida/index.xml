@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masaru Tsuchida | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/masaru-tsuchida/</link>
+      <atom:link href="https://akisatok.github.io/authors/masaru-tsuchida/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masaru Tsuchida</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Masaru Tsuchida</title>
+      <link>https://akisatok.github.io/authors/masaru-tsuchida/</link>
+    </image>
+    
+    <item>
+      <title>Small cylindrical display using an aspherical mirror for anthropomorphic agents</title>
+      <link>https://akisatok.github.io/publication/content/kawanishi-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kawanishi-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small cylindrical display using an aspherical mirror for anthropomorphic agents</title>
+      <link>https://akisatok.github.io/publication/kawanishi-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kawanishi-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

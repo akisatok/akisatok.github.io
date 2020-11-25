@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuka Hirose | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/yuka-hirose/</link>
+      <atom:link href="https://akisatok.github.io/authors/yuka-hirose/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuka Hirose</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Yuka Hirose</title>
+      <link>https://akisatok.github.io/authors/yuka-hirose/</link>
+    </image>
+    
+    <item>
+      <title>Cleansing, organizing and training: Two guidelines for generating attractive news headlines for social media</title>
+      <link>https://akisatok.github.io/publication/content/hirose-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/hirose-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cleansing, organizing and training: Two guidelines for generating attractive news headlines for social media</title>
+      <link>https://akisatok.github.io/publication/hirose-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/hirose-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

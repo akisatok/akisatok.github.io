@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>紗和 興梠 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E7%B4%97%E5%92%8C-%E8%88%88%E6%A2%A0/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E7%B4%97%E5%92%8C-%E8%88%88%E6%A2%A0/index.xml" rel="self" type="application/rss+xml" />
+    <description>紗和 興梠</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>紗和 興梠</title>
+      <link>https://akisatok.github.io/authors/%E7%B4%97%E5%92%8C-%E8%88%88%E6%A2%A0/</link>
+    </image>
+    
+    <item>
+      <title>SNS上で拡散するwebニュース説明文の調査と自動選択</title>
+      <link>https://akisatok.github.io/publication/content/2016-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2016-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

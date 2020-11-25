@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haochen Wang | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/haochen-wang/</link>
+      <atom:link href="https://akisatok.github.io/authors/haochen-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haochen Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Haochen Wang</title>
+      <link>https://akisatok.github.io/authors/haochen-wang/</link>
+    </image>
+    
+    <item>
+      <title>双線形特徴統合を用いた音からのセマンティックセグメンテーション</title>
+      <link>https://akisatok.github.io/talk/miru-2018/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing through Sounds: Predicting Visual Semantic Segmentation Results from Multichannel Audio Signals</title>
+      <link>https://akisatok.github.io/publication/8683142/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/8683142/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing through Sounds: Predicting Visual Semantic Segmentation Results from Multichannel Audio Signals</title>
+      <link>https://akisatok.github.io/publication/content/8683142/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/8683142/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

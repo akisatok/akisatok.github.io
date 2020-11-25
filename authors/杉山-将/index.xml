@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杉山 将 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E6%9D%89%E5%B1%B1-%E5%B0%86/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E6%9D%89%E5%B1%B1-%E5%B0%86/index.xml" rel="self" type="application/rss+xml" />
+    <description>杉山 将</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>杉山 将</title>
+      <link>https://akisatok.github.io/authors/%E6%9D%89%E5%B1%B1-%E5%B0%86/</link>
+    </image>
+    
+    <item>
+      <title>SSCDE: 画像認識検索のための半教師付正準密度推定法</title>
+      <link>https://akisatok.github.io/publication/content/sscde-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/sscde-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroshi Sawada | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/hiroshi-sawada/</link>
+      <atom:link href="https://akisatok.github.io/authors/hiroshi-sawada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroshi Sawada</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Hiroshi Sawada</title>
+      <link>https://akisatok.github.io/authors/hiroshi-sawada/</link>
+    </image>
+    
+    <item>
+      <title>非負制約下における複合行列分解とそのソーシャルメディア解析への応用</title>
+      <link>https://akisatok.github.io/publication/2014-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative Multiple Tensor Factorization</title>
+      <link>https://akisatok.github.io/publication/content/takeuchi-2013-a/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takeuchi-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative Multiple Tensor Factorization</title>
+      <link>https://akisatok.github.io/publication/takeuchi-2013-a/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/takeuchi-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>複合非負テンソル因子分解法</title>
+      <link>https://akisatok.github.io/talk/ibis-2013-takeuchi/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2013-takeuchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change-point detection with feature selection in high-dimensional time-series data</title>
+      <link>https://akisatok.github.io/publication/content/yamada-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/yamada-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change-point detection with feature selection in high-dimensional time-series data</title>
+      <link>https://akisatok.github.io/publication/yamada-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/yamada-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative multiple matrix factorization</title>
+      <link>https://akisatok.github.io/publication/content/takeuchi-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takeuchi-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative multiple matrix factorization</title>
+      <link>https://akisatok.github.io/publication/takeuchi-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/takeuchi-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自己相関構造を考慮した判別分析</title>
+      <link>https://akisatok.github.io/talk/ibis-2012-ohashi/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2012-ohashi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended Fisher Criterion Based on Auto-correlation Matrix Information</title>
+      <link>https://akisatok.github.io/publication/content/sakano-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/sakano-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended Fisher Criterion Based on Auto-correlation Matrix Information</title>
+      <link>https://akisatok.github.io/publication/sakano-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/sakano-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>仮想クラス生成に基づく正準相関分析への特徴追加</title>
+      <link>https://akisatok.github.io/talk/ibis-2011-ohashi/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2011-ohashi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

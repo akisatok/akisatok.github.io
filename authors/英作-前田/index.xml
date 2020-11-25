@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>英作 前田 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E8%8B%B1%E4%BD%9C-%E5%89%8D%E7%94%B0/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E8%8B%B1%E4%BD%9C-%E5%89%8D%E7%94%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>英作 前田</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>英作 前田</title>
+      <link>https://akisatok.github.io/authors/%E8%8B%B1%E4%BD%9C-%E5%89%8D%E7%94%B0/</link>
+    </image>
+    
+    <item>
+      <title>PRMU 応用研究におけるオープンアイデア: PRMU 第二期グランドチャレンジ</title>
+      <link>https://akisatok.github.io/publication/content/2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>対話型映像認識理解における動的学習戦略に関する取り組み</title>
+      <link>https://akisatok.github.io/publication/content/2010-d/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2010-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

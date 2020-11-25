@@ -1,0 +1,14 @@
+@inproceedings{Wakayama2015,
+ abstract = {This paper proposes a novel method for training random forests with big data on MapReduce clusters. Random forests are well suited for parallel distributed systems, since they are composed of multiple decision trees and every decision tree can be independently trained by ensemble learning methods. However, naive implementation of random forests on distributed systems easily overfits the training data, yielding poor classification performances. This is because each cluster node can have access to only a small fraction of the training data. The proposed method tackles this problem by introducing the following three steps. (1) "Shared forests" are built in advance on the master node and shared with all the cluster nodes. (2) With the help of transfer learning, the shared forests are adapted to the training data placed on each cluster node. (3) The adapted forests on every cluster node are returned to the master node, and irrelevant trees yielding poor classification performances are removed to form the final forests. Experimental results show that our proposed method for MapReduce clusters can quickly learn random forests without any sacrifice of classification performance.},
+ author = {Wakayama, Ryoji and Murata, Ryuei and Kimura, Akisato and Yamashita, Takayoshi and Yamauchi, Yuji and Fujiyoshi, Hironobu},
+ booktitle = {Proc. IAPR Asian Conference on Pattern Recognition (ACPR)},
+ doi = {10.1109/ACPR.2015.7486509},
+ isbn = {9781479961009},
+ issn = {2327-0985},
+ keywords = {Decision trees,Distributed forests,MapReduce,ensemble learning methods},
+ month = {nov},
+ pages = {276--280},
+ title = {Distributed forests for MapReduce-based machine learning},
+ year = {2015}
+}
+

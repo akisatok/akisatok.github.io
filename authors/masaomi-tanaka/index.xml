@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masaomi Tanaka | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/masaomi-tanaka/</link>
+      <atom:link href="https://akisatok.github.io/authors/masaomi-tanaka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masaomi Tanaka</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Masaomi Tanaka</title>
+      <link>https://akisatok.github.io/authors/masaomi-tanaka/</link>
+    </image>
+    
+    <item>
+      <title>The Hyper Suprime-Cam SSP transient survey in COSMOS: Overview</title>
+      <link>https://akisatok.github.io/publication/content/yasuda-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/yasuda-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hyper Suprime-Cam SSP transient survey in COSMOS: Overview</title>
+      <link>https://akisatok.github.io/publication/yasuda-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/yasuda-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Epoch Supernova Classification with Deep Convolutional Neural Networks</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Epoch Supernova Classification with Deep Convolutional Neural Networks</title>
+      <link>https://akisatok.github.io/publication/kimura-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

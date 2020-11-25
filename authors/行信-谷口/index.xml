@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>行信 谷口 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E8%A1%8C%E4%BF%A1-%E8%B0%B7%E5%8F%A3/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E8%A1%8C%E4%BF%A1-%E8%B0%B7%E5%8F%A3/index.xml" rel="self" type="application/rss+xml" />
+    <description>行信 谷口</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>行信 谷口</title>
+      <link>https://akisatok.github.io/authors/%E8%A1%8C%E4%BF%A1-%E8%B0%B7%E5%8F%A3/</link>
+    </image>
+    
+    <item>
+      <title>SNS を利用したトピックモデルによる画像へのユーザ嗜好陛の解析</title>
+      <link>https://akisatok.github.io/publication/content/2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2013-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

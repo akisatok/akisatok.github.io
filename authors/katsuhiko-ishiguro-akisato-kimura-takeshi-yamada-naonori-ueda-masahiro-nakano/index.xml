@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katsuhiko Ishiguro, Akisato Kimura, Takeshi Yamada, Naonori Ueda Masahiro Nakano | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/katsuhiko-ishiguro-akisato-kimura-takeshi-yamada-naonori-ueda-masahiro-nakano/</link>
+      <atom:link href="https://akisatok.github.io/authors/katsuhiko-ishiguro-akisato-kimura-takeshi-yamada-naonori-ueda-masahiro-nakano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katsuhiko Ishiguro, Akisato Kimura, Takeshi Yamada, Naonori Ueda Masahiro Nakano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Katsuhiko Ishiguro, Akisato Kimura, Takeshi Yamada, Naonori Ueda Masahiro Nakano</title>
+      <link>https://akisatok.github.io/authors/katsuhiko-ishiguro-akisato-kimura-takeshi-yamada-naonori-ueda-masahiro-nakano/</link>
+    </image>
+    
+    <item>
+      <title>[Invited] Rectangular tiling process</title>
+      <link>https://akisatok.github.io/talk/miru-2015-invited/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2015-invited/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

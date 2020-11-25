@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ching-Man Au Yeung | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/ching-man-au-yeung/</link>
+      <atom:link href="https://akisatok.github.io/authors/ching-man-au-yeung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ching-Man Au Yeung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Ching-Man Au Yeung</title>
+      <link>https://akisatok.github.io/authors/ching-man-au-yeung/</link>
+    </image>
+    
+    <item>
+      <title>Creating Stories: Social Curation of Twitter Messages</title>
+      <link>https://akisatok.github.io/publication/content/duh-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/duh-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Stories: Social Curation of Twitter Messages</title>
+      <link>https://akisatok.github.io/publication/duh-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/duh-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

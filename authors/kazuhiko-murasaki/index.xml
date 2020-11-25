@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazuhiko Murasaki | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/kazuhiko-murasaki/</link>
+      <atom:link href="https://akisatok.github.io/authors/kazuhiko-murasaki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kazuhiko Murasaki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Kazuhiko Murasaki</title>
+      <link>https://akisatok.github.io/authors/kazuhiko-murasaki/</link>
+    </image>
+    
+    <item>
+      <title>ソーシャルキュレーションデータを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/publication/2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ソーシャルキュレーションを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/talk/miru-2013-akisato/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2013-akisato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ユーザ履歴を利用した潜在トピックによる画像へのユーザ嗜好のモデリング</title>
+      <link>https://akisatok.github.io/talk/miru-2013-kataoka/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2013-kataoka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image context discovery from socially curated contents</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image context discovery from socially curated contents</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image context discovery from socially curated contents</title>
+      <link>https://akisatok.github.io/publication/kimura-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image context discovery from socially curated contents</title>
+      <link>https://akisatok.github.io/publication/kimura-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNS を利用したトピックモデルによる画像へのユーザ嗜好陛の解析</title>
+      <link>https://akisatok.github.io/publication/2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2013-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

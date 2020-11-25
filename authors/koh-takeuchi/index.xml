@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koh Takeuchi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/koh-takeuchi/</link>
+      <atom:link href="https://akisatok.github.io/authors/koh-takeuchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Koh Takeuchi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Koh Takeuchi</title>
+      <link>https://akisatok.github.io/authors/koh-takeuchi/</link>
+    </image>
+    
+    <item>
+      <title>Few-shot learning of neural networks from scratch by pseudo example optimization</title>
+      <link>https://akisatok.github.io/publication/content/kimura-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/kimura-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-shot learning of neural networks from scratch by pseudo example optimization</title>
+      <link>https://akisatok.github.io/publication/kimura-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>疑似学習サンプル最適化によるニューラルネットワークの少数ショット学習</title>
+      <link>https://akisatok.github.io/publication/2018-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>非負制約下における複合行列分解とそのソーシャルメディア解析への応用</title>
+      <link>https://akisatok.github.io/publication/2014-d/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative Multiple Tensor Factorization</title>
+      <link>https://akisatok.github.io/publication/content/takeuchi-2013-a/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takeuchi-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative Multiple Tensor Factorization</title>
+      <link>https://akisatok.github.io/publication/takeuchi-2013-a/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/takeuchi-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>複合非負テンソル因子分解法</title>
+      <link>https://akisatok.github.io/talk/ibis-2013-takeuchi/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2013-takeuchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative multiple matrix factorization</title>
+      <link>https://akisatok.github.io/publication/content/takeuchi-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/takeuchi-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-negative multiple matrix factorization</title>
+      <link>https://akisatok.github.io/publication/takeuchi-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/takeuchi-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social curationを用いた画像コンテンツの内容理解モデル: 画像特徴量を利用しない画像コンテンツ理解</title>
+      <link>https://akisatok.github.io/publication/2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automatic image understanding and mining via social curation</title>
+      <link>https://akisatok.github.io/publication/content/ishiguro-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/ishiguro-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automatic image understanding and mining via social curation</title>
+      <link>https://akisatok.github.io/publication/ishiguro-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/ishiguro-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

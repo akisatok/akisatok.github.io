@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Mituzumi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/yu-mituzumi/</link>
+      <atom:link href="https://akisatok.github.io/authors/yu-mituzumi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Mituzumi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>Yu Mituzumi</title>
+      <link>https://akisatok.github.io/authors/yu-mituzumi/</link>
+    </image>
+    
+    <item>
+      <title>回帰学習の教師なしドメイン適応における自己アンサンブル学習の効果について</title>
+      <link>https://akisatok.github.io/talk/miru-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

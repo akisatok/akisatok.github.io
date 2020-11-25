@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JST CREST | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tags/jst-crest/</link>
+      <atom:link href="https://akisatok.github.io/tags/jst-crest/index.xml" rel="self" type="application/rss+xml" />
+    <description>JST CREST</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 30 Jul 2020 10:18:50 +0900</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>JST CREST</title>
+      <link>https://akisatok.github.io/tags/jst-crest/</link>
+    </image>
+    
+    <item>
+      <title>A new paper accepted to PASJ</title>
+      <link>https://akisatok.github.io/post/pasj2020/</link>
+      <pubDate>Thu, 30 Jul 2020 10:18:50 +0900</pubDate>
+      <guid>https://akisatok.github.io/post/pasj2020/</guid>
+      <description>&lt;p&gt;We are excited to share our new paper &amp;ldquo;Photometric classification of the HSC transients through machine learning&amp;rdquo; accepted to PASJ (Publications of the Astronomical Society of Japan)!&lt;/p&gt;
+
+&lt;p&gt;Paper (arXiv): &lt;a href=&#34;https://arxiv.org/abs/2008.06726&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/2008.06726&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a follow-up paper of &lt;a href=&#34;https://arxiv.org/abs/1904.09697&#34; target=&#34;_blank&#34;&gt;our recent overview of transient survey&lt;/a&gt; and focuses on the application of neural networks to supernova type classification. As reported in the overview paper, more than 1800 supernovae were discovered during a 6-month transient survey with the Hyper Suprime-Cam (HSC), a gigantic mosaic CCD still camera mounted on the 8.2m Subaru Telescope. In this paper we deployed neural networks for transient classification with the actual trainsient survey data taken by HSC. We uniquely attempt to use the observed data in a state that is as &amp;ldquo;raw&amp;rdquo; as possible to enable us to directly use the data as input for the machine without fitting the data to existing supernovae models or extracting characteristics.&lt;/p&gt;
+
+&lt;p&gt;We tested our model with a dataset from the LSST classification challenge (Deep Drilling Field). Our classifier scores an area under the curve (AUC) of 0.996 for binary classification (SN Ia or non-SN Ia) and 95.3% accuracy for three-class classification (SN Ia, SN Ibc, or SN II). Application of our binary classification to HSC transient data yields an AUC score of 0.925.&lt;/p&gt;
+
+&lt;p&gt;(This work is supported by JST CREST &lt;a href=&#34;http://member.ipmu.jp/bigdata/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Statistical Computational Cosmology with Big Astronomical Imaging Data&amp;rdquo;&lt;/a&gt; [No. JPMHCR1414] and JST AIP Acceleration Research
+&amp;ldquo;Cosmology with Big Astronomcal Data Using Innovative Image Analysis Methods&amp;rdquo; [No. JP20317829].)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

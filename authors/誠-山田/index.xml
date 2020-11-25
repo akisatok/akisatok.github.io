@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>誠 山田 | Akisato Kimura</title>
+    <link>https://akisatok.github.io/authors/%E8%AA%A0-%E5%B1%B1%E7%94%B0/</link>
+      <atom:link href="https://akisatok.github.io/authors/%E8%AA%A0-%E5%B1%B1%E7%94%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>誠 山田</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/img/icon-192.png</url>
+      <title>誠 山田</title>
+      <link>https://akisatok.github.io/authors/%E8%AA%A0-%E5%B1%B1%E7%94%B0/</link>
+    </image>
+    
+    <item>
+      <title>ソーシャルキュレーションデータを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/publication/content/2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>統計的学習の基礎</title>
+      <link>https://akisatok.github.io/publication/content/2014-e/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2014-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>半教師付き正準密度推定法に基づく音響信号の自動タグ付けと検索</title>
+      <link>https://akisatok.github.io/publication/content/2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/content/2010-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
