@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shinichi Maeda | Akisato Kimura</title>
+    <link>https://akisatok.github.io/author/shinichi-maeda/</link>
+      <atom:link href="https://akisatok.github.io/author/shinichi-maeda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shinichi Maeda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shinichi Maeda</title>
+      <link>https://akisatok.github.io/author/shinichi-maeda/</link>
+    </image>
+    
+    <item>
+      <title>統計的学習の基礎</title>
+      <link>https://akisatok.github.io/publication/2014-e/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014-e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

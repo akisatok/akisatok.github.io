@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoshihiko Suhara | Akisato Kimura</title>
+    <link>https://akisatok.github.io/author/yoshihiko-suhara/</link>
+      <atom:link href="https://akisatok.github.io/author/yoshihiko-suhara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yoshihiko Suhara</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yoshihiko Suhara</title>
+      <link>https://akisatok.github.io/author/yoshihiko-suhara/</link>
+    </image>
+    
+    <item>
+      <title>画像検索でのユーザ行動を利用した大規模画像アノテーション</title>
+      <link>https://akisatok.github.io/publication/2014-h/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像検索でのユーザ行動を利用した大規模画像アノテーション</title>
+      <link>https://akisatok.github.io/publication/2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

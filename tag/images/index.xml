@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>images | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tag/images/</link>
+      <atom:link href="https://akisatok.github.io/tag/images/index.xml" rel="self" type="application/rss+xml" />
+    <description>images</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 30 May 2020 10:46:14 +0900</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>images</title>
+      <link>https://akisatok.github.io/tag/images/</link>
+    </image>
+    
+    <item>
+      <title>A paper presented in ICASSP2020</title>
+      <link>https://akisatok.github.io/post/icassp2020/</link>
+      <pubDate>Sat, 30 May 2020 10:46:14 +0900</pubDate>
+      <guid>https://akisatok.github.io/post/icassp2020/</guid>
+      <description>&lt;p&gt;Please check out our ICASSP2020 paper &amp;ldquo;Trilingual semantic embeddings of visually grounded speech with self-attention mechanisms&amp;rdquo; by Yasunori Ohishi, me (Akisato Kimura), Takahito Kawanishi, Kunio Kashino, David Harwath and James Glass.&lt;/p&gt;
+&lt;p&gt;DOI link: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9053428&#34;&gt;https://ieeexplore.ieee.org/document/9053428&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This paper discusses a trilingual semantic embedding model that associates visual objects in images with segments of speech signals corresponding to spoken words in an unsupervised manner. Spoken captions are spontaneous descriptions by individual speakers, rather than readings based on prepared transcripts. This implies that the captions of different languages or speakers may focus on different aspects in the same image. Based on this insight, we introduce a self-attention mechanism into the model to better map the spoken captions associated with the same image into the embedding space. We hope that the self-attention mechanism efficiently captures relationships between widely separated word-like segments.&lt;/p&gt;
+&lt;p&gt;This is a collaborative work with &lt;a href=&#34;https://www.csail.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT CSAIL&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

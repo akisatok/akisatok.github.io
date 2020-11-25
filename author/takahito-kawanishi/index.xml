@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takahito Kawanishi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/author/takahito-kawanishi/</link>
+      <atom:link href="https://akisatok.github.io/author/takahito-kawanishi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takahito Kawanishi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Takahito Kawanishi</title>
+      <link>https://akisatok.github.io/author/takahito-kawanishi/</link>
+    </image>
+    
+    <item>
+      <title>Pair expansion for learning multilingual semantic embeddings using disjoint visually-grounded speech audio datasets</title>
+      <link>https://akisatok.github.io/publication/ohishi-inter-speech-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/ohishi-inter-speech-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trilingual semantic embeddings of visually grounded speech with self-attention mechanisms</title>
+      <link>https://akisatok.github.io/publication/ohishi-icassp-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/ohishi-icassp-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing through Sounds: Predicting Visual Semantic Segmentation Results from Multichannel Audio Signals</title>
+      <link>https://akisatok.github.io/publication/8683142/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/8683142/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>画像を説明する多言語音声データを利用したクロスモーダル探索</title>
+      <link>https://akisatok.github.io/publication/2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>クラウドプレイリストネットワークを用いた音楽ストリーミング再生リストの自動生成 (パターン認識・メディア理解)</title>
+      <link>https://akisatok.github.io/publication/2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interest Point Detection Based on Stochastically Derived Stability</title>
+      <link>https://akisatok.github.io/publication/watchareeruetai-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/watchareeruetai-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NTT Communication Science Laboratories and NII at TRECVID 2011 Instance Search Task</title>
+      <link>https://akisatok.github.io/publication/kawanishi-2011-ntt/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kawanishi-2011-ntt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small cylindrical display using an aspherical mirror for anthropomorphic agents</title>
+      <link>https://akisatok.github.io/publication/kawanishi-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kawanishi-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPIRE：スパースなインデキシングによる画像中の同一部分領域の検出</title>
+      <link>https://akisatok.github.io/publication/2005-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>サブテンプレート間距離を用いた適応的ウィンドウスキップによる高速テンプレートマッチング法</title>
+      <link>https://akisatok.github.io/publication/2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>重み付き特徴点照合に基づく高速画像検索</title>
+      <link>https://akisatok.github.io/publication/2005-a/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2005-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acceleration of similarity-based partial image retrieval using multistage vector quantization</title>
+      <link>https://akisatok.github.io/publication/kimura-2004-a/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2004-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity-based partial image retrieval guaranteeing same accuracy as exhaustive matching</title>
+      <link>https://akisatok.github.io/publication/kimura-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

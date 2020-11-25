@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroshi Kajino | Akisato Kimura</title>
+    <link>https://akisatok.github.io/author/hiroshi-kajino/</link>
+      <atom:link href="https://akisatok.github.io/author/hiroshi-kajino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroshi Kajino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hiroshi Kajino</title>
+      <link>https://akisatok.github.io/author/hiroshi-kajino/</link>
+    </image>
+    
+    <item>
+      <title>マルチモーダル相関を考慮したトピックモデルに基づく映像アノテーション</title>
+      <link>https://akisatok.github.io/talk/ibis-2011-kajino/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2011-kajino/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

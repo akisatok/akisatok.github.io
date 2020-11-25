@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine learning | Akisato Kimura</title>
+    <link>https://akisatok.github.io/category/machine-learning/</link>
+      <atom:link href="https://akisatok.github.io/category/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 25 Nov 2020 16:02:00 +0900</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine learning</title>
+      <link>https://akisatok.github.io/category/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>A spotlight paper to be presented in NeurIPS2020</title>
+      <link>https://akisatok.github.io/post/neurips2020/</link>
+      <pubDate>Wed, 25 Nov 2020 16:02:00 +0900</pubDate>
+      <guid>https://akisatok.github.io/post/neurips2020/</guid>
+      <description>&lt;p&gt;We are excited to announce that our paper &amp;ldquo;Baxter permutation process&amp;rdquo; has been accepted to NeurIPS2020 as a spotlight presentation.&lt;/p&gt;
+&lt;p&gt;In this paper, a Bayesian nonparametric model for Baxter permutations (BPs), termed BP process (BPP) is proposed and applied to relational data analysis. The BPs are a well-studied class of permutations, and it has been demonstrated that there is one-to-one correspondence between BPs and several interesting objects including floorplan partitioning, which constitutes a subset of rectangular partitioning. Accordingly, the BPP can be used as a floorplan partitioning model. We combine the BPP with a multi-dimensional extension of the stick-breaking process called the block-breaking process to fill the gap between floorplan partitioning and rectangular partitioning, and obtain a stochastic process on arbitrary rectangular partitionings. Compared with conventional Bayesian nonparametric models for arbitrary rectangular partitionings, the proposed model is simpler and has a high affinity with Bayesian inference.&lt;/p&gt;
+&lt;p&gt;You can find a pre-proceedings paper at &lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/hash/6271faadeedd7626d661856b7a004e27-Abstract.html&#34;&gt;https://proceedings.neurips.cc/paper/2020/hash/6271faadeedd7626d661856b7a004e27-Abstract.html&lt;/a&gt; and a MATLAB implementation at &lt;a href=&#34;https://github.com/nttcslab/baxter-permutation-process&#34;&gt;https://github.com/nttcslab/baxter-permutation-process&lt;/a&gt; .&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Stochastic processes&#34; | Akisato Kimura</title>
+    <link>https://akisatok.github.io/tag/stochastic-processes/</link>
+      <atom:link href="https://akisatok.github.io/tag/stochastic-processes/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Stochastic processes&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jun 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Stochastic processes&#34;</title>
+      <link>https://akisatok.github.io/tag/stochastic-processes/</link>
+    </image>
+    
+    <item>
+      <title>A stochastic model of selective visual attention with a dynamic Bayesian network</title>
+      <link>https://akisatok.github.io/publication/pang-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/pang-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

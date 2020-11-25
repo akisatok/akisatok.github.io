@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go Irie | Akisato Kimura</title>
+    <link>https://akisatok.github.io/author/go-irie/</link>
+      <atom:link href="https://akisatok.github.io/author/go-irie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Go Irie</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Go Irie</title>
+      <link>https://akisatok.github.io/author/go-irie/</link>
+    </image>
+    
+    <item>
+      <title>A generative self-ensemble approach to simulated&#43;unsupervised learning</title>
+      <link>https://akisatok.github.io/publication/mitsuzumi-icip-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/mitsuzumi-icip-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>双線形特徴統合を用いた音からのセマンティックセグメンテーション</title>
+      <link>https://akisatok.github.io/talk/miru-2018/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>回帰学習の教師なしドメイン適応における自己アンサンブル学習の効果について</title>
+      <link>https://akisatok.github.io/talk/miru-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing through Sounds: Predicting Visual Semantic Segmentation Results from Multichannel Audio Signals</title>
+      <link>https://akisatok.github.io/publication/8683142/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/8683142/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-media Scene Analysis: Estimating Objects&#39; Visuals Only from Audio</title>
+      <link>https://akisatok.github.io/publication/irie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/irie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音から画像認識結果を予測するクロスメディア情景分析技術</title>
+      <link>https://akisatok.github.io/publication/2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Indexing task</title>
+      <link>https://akisatok.github.io/talk/trecvid-2011/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/trecvid-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRECVID 2011 Semantic Indexing - NTT Cyber Communication Laboratory Group in collaboration with Zhejiang University</title>
+      <link>https://akisatok.github.io/publication/sun-2011-trecvid/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/sun-2011-trecvid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

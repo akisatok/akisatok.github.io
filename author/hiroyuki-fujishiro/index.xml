@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroyuki Fujishiro | Akisato Kimura</title>
+    <link>https://akisatok.github.io/author/hiroyuki-fujishiro/</link>
+      <atom:link href="https://akisatok.github.io/author/hiroyuki-fujishiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroyuki Fujishiro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hiroyuki Fujishiro</title>
+      <link>https://akisatok.github.io/author/hiroyuki-fujishiro/</link>
+    </image>
+    
+    <item>
+      <title>Cleansing, organizing and training: Two guidelines for generating attractive news headlines for social media</title>
+      <link>https://akisatok.github.io/publication/hirose-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/hirose-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make it go viral - Generating attractive headlines for distributing news articles on social media</title>
+      <link>https://akisatok.github.io/publication/nagayama-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/nagayama-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNS上で拡散するwebニュース説明文の調査と自動選択</title>
+      <link>https://akisatok.github.io/publication/2016-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2016-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying attractive news headlines for social media</title>
+      <link>https://akisatok.github.io/publication/kourogi-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kourogi-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ソーシャルメディア論： つながりを再設計する</title>
+      <link>https://akisatok.github.io/publication/2015-c/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2015-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

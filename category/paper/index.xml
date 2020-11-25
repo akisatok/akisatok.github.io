@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper | Akisato Kimura</title>
+    <link>https://akisatok.github.io/category/paper/</link>
+      <atom:link href="https://akisatok.github.io/category/paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 25 Nov 2020 16:02:00 +0900</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Paper</title>
+      <link>https://akisatok.github.io/category/paper/</link>
+    </image>
+    
+    <item>
+      <title>A spotlight paper to be presented in NeurIPS2020</title>
+      <link>https://akisatok.github.io/post/neurips2020/</link>
+      <pubDate>Wed, 25 Nov 2020 16:02:00 +0900</pubDate>
+      <guid>https://akisatok.github.io/post/neurips2020/</guid>
+      <description>&lt;p&gt;We are excited to announce that our paper &amp;ldquo;Baxter permutation process&amp;rdquo; has been accepted to NeurIPS2020 as a spotlight presentation.&lt;/p&gt;
+&lt;p&gt;In this paper, a Bayesian nonparametric model for Baxter permutations (BPs), termed BP process (BPP) is proposed and applied to relational data analysis. The BPs are a well-studied class of permutations, and it has been demonstrated that there is one-to-one correspondence between BPs and several interesting objects including floorplan partitioning, which constitutes a subset of rectangular partitioning. Accordingly, the BPP can be used as a floorplan partitioning model. We combine the BPP with a multi-dimensional extension of the stick-breaking process called the block-breaking process to fill the gap between floorplan partitioning and rectangular partitioning, and obtain a stochastic process on arbitrary rectangular partitionings. Compared with conventional Bayesian nonparametric models for arbitrary rectangular partitionings, the proposed model is simpler and has a high affinity with Bayesian inference.&lt;/p&gt;
+&lt;p&gt;You can find a pre-proceedings paper at &lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/hash/6271faadeedd7626d661856b7a004e27-Abstract.html&#34;&gt;https://proceedings.neurips.cc/paper/2020/hash/6271faadeedd7626d661856b7a004e27-Abstract.html&lt;/a&gt; and a MATLAB implementation at &lt;a href=&#34;https://github.com/nttcslab/baxter-permutation-process&#34;&gt;https://github.com/nttcslab/baxter-permutation-process&lt;/a&gt; .&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new paper accepted to PASJ</title>
+      <link>https://akisatok.github.io/post/pasj2020/</link>
+      <pubDate>Thu, 30 Jul 2020 10:18:50 +0900</pubDate>
+      <guid>https://akisatok.github.io/post/pasj2020/</guid>
+      <description>&lt;p&gt;We are excited to share our new paper &amp;ldquo;Photometric classification of the HSC transients through machine learning&amp;rdquo; accepted to PASJ (Publications of the Astronomical Society of Japan)!&lt;/p&gt;
+&lt;p&gt;Paper (arXiv): &lt;a href=&#34;https://arxiv.org/abs/2008.06726&#34;&gt;https://arxiv.org/abs/2008.06726&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a follow-up paper of &lt;a href=&#34;https://arxiv.org/abs/1904.09697&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our recent overview of transient survey&lt;/a&gt; and focuses on the application of neural networks to supernova type classification. As reported in the overview paper, more than 1800 supernovae were discovered during a 6-month transient survey with the Hyper Suprime-Cam (HSC), a gigantic mosaic CCD still camera mounted on the 8.2m Subaru Telescope. In this paper we deployed neural networks for transient classification with the actual trainsient survey data taken by HSC. We uniquely attempt to use the observed data in a state that is as &amp;ldquo;raw&amp;rdquo; as possible to enable us to directly use the data as input for the machine without fitting the data to existing supernovae models or extracting characteristics.&lt;/p&gt;
+&lt;p&gt;We tested our model with a dataset from the LSST classification challenge (Deep Drilling Field). Our classifier scores an area under the curve (AUC) of 0.996 for binary classification (SN Ia or non-SN Ia) and 95.3% accuracy for three-class classification (SN Ia, SN Ibc, or SN II). Application of our binary classification to HSC transient data yields an AUC score of 0.925.&lt;/p&gt;
+&lt;p&gt;(This work is supported by JST CREST &lt;a href=&#34;http://member.ipmu.jp/bigdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Statistical Computational Cosmology with Big Astronomical Imaging Data&amp;rdquo;&lt;/a&gt; [No. JPMHCR1414] and JST AIP Acceleration Research
+&amp;ldquo;Cosmology with Big Astronomcal Data Using Innovative Image Analysis Methods&amp;rdquo; [No. JP20317829].)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A paper presented in ICASSP2020</title>
+      <link>https://akisatok.github.io/post/icassp2020/</link>
+      <pubDate>Sat, 30 May 2020 10:46:14 +0900</pubDate>
+      <guid>https://akisatok.github.io/post/icassp2020/</guid>
+      <description>&lt;p&gt;Please check out our ICASSP2020 paper &amp;ldquo;Trilingual semantic embeddings of visually grounded speech with self-attention mechanisms&amp;rdquo; by Yasunori Ohishi, me (Akisato Kimura), Takahito Kawanishi, Kunio Kashino, David Harwath and James Glass.&lt;/p&gt;
+&lt;p&gt;DOI link: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9053428&#34;&gt;https://ieeexplore.ieee.org/document/9053428&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This paper discusses a trilingual semantic embedding model that associates visual objects in images with segments of speech signals corresponding to spoken words in an unsupervised manner. Spoken captions are spontaneous descriptions by individual speakers, rather than readings based on prepared transcripts. This implies that the captions of different languages or speakers may focus on different aspects in the same image. Based on this insight, we introduce a self-attention mechanism into the model to better map the spoken captions associated with the same image into the embedding space. We hope that the self-attention mechanism efficiently captures relationships between widely separated word-like segments.&lt;/p&gt;
+&lt;p&gt;This is a collaborative work with &lt;a href=&#34;https://www.csail.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT CSAIL&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

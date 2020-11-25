@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ken Fukuchi | Akisato Kimura</title>
+    <link>https://akisatok.github.io/author/ken-fukuchi/</link>
+      <atom:link href="https://akisatok.github.io/author/ken-fukuchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ken Fukuchi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ken Fukuchi</title>
+      <link>https://akisatok.github.io/author/ken-fukuchi/</link>
+    </image>
+    
+    <item>
+      <title>Single Image Segmentation with Estimated Depth</title>
+      <link>https://akisatok.github.io/publication/yonetani-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/yonetani-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>深度画像推定を用いた自動物体セグメンテーション</title>
+      <link>https://akisatok.github.io/publication/2012-b/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>シーンの色情報と深度情報の統合による自動物体セグメンテーション</title>
+      <link>https://akisatok.github.io/publication/2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic and precise extraction of generic objects using saliency-based priors and contour constraints</title>
+      <link>https://akisatok.github.io/publication/sekhon-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/sekhon-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グラフコストの逐次更新を用いた映像顕著領域の自動抽出</title>
+      <link>https://akisatok.github.io/publication/2010-c/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2010-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>映像認識理解への認知発達的アプローチ</title>
+      <link>https://akisatok.github.io/publication/2009-b/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2009-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saliency-based video segmentation with graph cuts and sequentially updated priors</title>
+      <link>https://akisatok.github.io/publication/fukuchi-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/fukuchi-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

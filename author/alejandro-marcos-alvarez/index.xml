@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandro Marcos Alvarez | Akisato Kimura</title>
+    <link>https://akisatok.github.io/author/alejandro-marcos-alvarez/</link>
+      <atom:link href="https://akisatok.github.io/author/alejandro-marcos-alvarez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alejandro Marcos Alvarez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alejandro Marcos Alvarez</title>
+      <link>https://akisatok.github.io/author/alejandro-marcos-alvarez/</link>
+    </image>
+    
+    <item>
+      <title>ソーシャルキュレーションデータを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/publication/2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-view anomaly detection based on clustering inconsistency</title>
+      <link>https://akisatok.github.io/talk/ibis-2013-alejandro/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/ibis-2013-alejandro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimensionality reduction with side information for image classification</title>
+      <link>https://akisatok.github.io/talk/miru-2013-alejandro/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2013-alejandro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ソーシャルキュレーションを用いた画像コンテクストマイニング</title>
+      <link>https://akisatok.github.io/talk/miru-2013-akisato/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2013-akisato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering-based anomaly detection in multi-view data</title>
+      <link>https://akisatok.github.io/publication/marcos-alvarez-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/marcos-alvarez-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Socially-generated Side Information in Dimensionality Reduction</title>
+      <link>https://akisatok.github.io/publication/marcos-alvarez-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/marcos-alvarez-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image context discovery from socially curated contents</title>
+      <link>https://akisatok.github.io/publication/kimura-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/kimura-2013-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

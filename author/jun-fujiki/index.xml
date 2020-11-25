@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Fujiki | Akisato Kimura</title>
+    <link>https://akisatok.github.io/author/jun-fujiki/</link>
+      <atom:link href="https://akisatok.github.io/author/jun-fujiki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Fujiki</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akisatok.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jun Fujiki</title>
+      <link>https://akisatok.github.io/author/jun-fujiki/</link>
+    </image>
+    
+    <item>
+      <title>Geometric interpretation of Fisher&#39;s linear discriminant analysis through communication theory</title>
+      <link>https://akisatok.github.io/publication/fujiki-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/publication/fujiki-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>拡張型判別分析の情報量最大化基準に基づくパーセプトロンによる実装実験</title>
+      <link>https://akisatok.github.io/talk/miru-2014-tanaka/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2014-tanaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>特徴の統合に基づく判別分析の情報圧縮率の改善</title>
+      <link>https://akisatok.github.io/talk/miru-2014-sakano/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2014-sakano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>クラス部分空間に着目した判別分析</title>
+      <link>https://akisatok.github.io/talk/miru-2013-sakano/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://akisatok.github.io/talk/miru-2013-sakano/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
